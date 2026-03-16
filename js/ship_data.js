@@ -22716,6 +22716,7 @@ const ship_data = {
     equip_3: [6],
     equip_4: [10, 14],
     equip_5: [10, 14],
+    eq_p: [0.75, 1.5, 1.2],
     reload: [72.0, 503.0, 0.0, 54.0, 25.0],
     date: '2025年09月12日'
   },
@@ -23547,5 +23548,30 @@ const ship_data = {
     eq_p: [1.3, 2.0, 1.0],
     reload: [57.0, 395.0, 0.0, 42.0, 0.0],
     date: '2026年02月26日'
+  },
+  9702110: {
+    nationality: 97,
+    type: 2,
+    base_list: [1, 2, 1],
+    id: 9702114,
+    skin_id: 9702110,
+    english_name: 'Regensburg.META',
+    star: 6,
+    rarity: 5,
+    retro: 0,
+    uni_id: '9702110',
+    painting: '30058_regensb_meta',
+    jp_name: 'レーゲンスブルク(META)',
+    en_name: 'Regensburg META',
+    cn_name: '瑞吉娜·META',
+    tw_name: 'Regensburg META',
+    equip_1: [2],
+    equip_2: [5],
+    equip_3: [6],
+    equip_4: [10, 14],
+    equip_5: [10, 14],
+    eq_p: [1.45, 1.35, 1.2, 0.3],
+    reload: [71.0, 491.0, 0.0, 53.0, 0.0],
+    date: '2026年03月12日'
   }
 }
