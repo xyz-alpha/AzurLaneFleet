@@ -13861,5 +13861,23 @@ const equip_data = {
     tw_name: 'LBSh',
     equip_limit: 0,
     cd: [2140, 2102, 2064, 2026, 1988, 1950, 1912, 1874, 1836, 1798, 1760, 1760]
+  },
+  85800: {
+    nationality: 7,
+    type: 3,
+    rarity: 6,
+    tech: 0,
+    id: 85800,
+    icon: '85800',
+    ship_type_forbidden: [8, 17, 22, 23, 24],
+    jp_name: 'SM-40 試作型220mm三連装砲',
+    cn_name: 'SM-40 试作型三联装220mm主炮',
+    tw_name: 'SM-40 Prototype Triple 220mm Main Gun Mount',
+    en_name: 'SM-40 Prototype Triple 220mm Main Gun Mount',
+    equip_limit: 0,
+    cd: [
+      1467, 1431, 1396, 1360, 1325, 1290, 1254, 1240, 1219, 1183, 1113, 1113,
+      1113, 1113
+    ]
   }
 }
