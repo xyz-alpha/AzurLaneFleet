@@ -3016,5 +3016,31 @@ const sp_weapon_data = {
     cn_name: '骑士的誓约长剑 ',
     en_name: "Sworn Knight's Sword",
     tw_name: "Sworn Knight's Sword"
+  },
+  9915020: {
+    id: 9915020,
+    icon: '15020',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    limit: 19902,
+    type: 6,
+    jp_name: 'ジョージアビーム！',
+    cn_name: '佐治亚光线！',
+    en_name: "Georgia Beam!",
+    tw_name: "Georgia Beam!"
+  },
+  9915040: {
+    id: 9915040,
+    icon: '15040',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    limit: 30102,
+    type: 1,
+    jp_name: '白雪雪見兎',
+    cn_name: '纯白的雪见兔',
+    en_name: "Shirayuki's Snowbunny",
+    tw_name: "Shirayuki's Snowbunny"
   }
 }
