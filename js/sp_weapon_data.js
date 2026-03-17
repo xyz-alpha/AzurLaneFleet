@@ -3042,5 +3042,70 @@ const sp_weapon_data = {
     cn_name: '纯白的雪见兔',
     en_name: "Shirayuki's Snowbunny",
     tw_name: "Shirayuki's Snowbunny"
+  },
+  9915060: {
+    id: 9915060,
+    icon: '15060',
+    eq_reload: [20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30],
+    rarity: 4,
+    tech: 0,
+    limit: 20227,
+    type: 2,
+    jp_name: 'レディメイドステップ',
+    cn_name: '淑女进阶的步履',
+    en_name: "The Steps to Becoming a Lady",
+    tw_name: "The Steps to Becoming a Lady"
+  },
+  9915080: {
+    id: 9915080,
+    icon: '15080',
+    eq_reload: [10, 10, 10, 11, 11, 12, 12, 13, 13, 14, 15],
+    rarity: 4,
+    tech: 0,
+    limit: 99901,
+    type: 6,
+    jp_name: '理力機械の杖',
+    cn_name: '机械与理性之杖',
+    en_name: "Staff of Machinery & Logic",
+    tw_name: "Staff of Machinery & Logic"
+  },
+  9915100: {
+    id: 9915100,
+    icon: '15100',
+    eq_reload: [1, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    rarity: 4,
+    tech: 0,
+    limit: 30110,
+    type: 1,
+    jp_name: 'ヨウカイ=アンデッド',
+    cn_name: '不死的鬼怪',
+    en_name: "Undying Demon",
+    tw_name: "Undying Demon"
+  },
+  9915120: {
+    id: 9915120,
+    icon: '15120',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    limit: 40119,
+    type: 1,
+    jp_name: '満点ツヴィリンゲ',
+    cn_name: '生物型双生舰装',
+    en_name: "Twins of a Rigging",
+    tw_name: "Twins of a Rigging"
+  },
+  9915140: {
+    id: 9915140,
+    icon: '15140',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    limit: 70106,
+    type: 1,
+    jp_name: '雪玉カルテット',
+    cn_name: '雪球三重奏',
+    en_name: "Snowball Trio",
+    tw_name: "Snowball Trio"
   }
 }
