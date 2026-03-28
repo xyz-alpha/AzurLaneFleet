@@ -4030,6 +4030,25 @@ const equip_data = {
       1594, 1594
     ]
   },
+
+  38260: {
+    nationality: 3,
+    type: 8,
+    rarity: 5,
+    tech: 0,
+    id: 38260,
+    icon: '38260',
+    ship_type_forbidden: [10, 22, 23, 24],
+    jp_name: '流星改',
+    cn_name: '流星改',
+    en_name: 'Ryusei Kai',
+    tw_name: 'Ryusei Kai',
+    equip_limit: 0,
+    cd: [
+      2070, 2035, 2000, 1965, 1930, 1895, 1860, 1825, 1790, 1755, 1710, 1710,
+      1710, 1710
+    ]
+  },
   38240: {
     nationality: 3,
     type: 8,
@@ -4138,6 +4157,7 @@ const equip_data = {
     equip_limit: 0,
     cd: [2166, 2138, 2109, 2081]
   },
+
   38060: {
     nationality: 3,
     type: 8,
@@ -4198,6 +4218,7 @@ const equip_data = {
     equip_limit: 0,
     cd: [2242, 2214, 2185, 2157]
   },
+
   28400: {
     nationality: 2,
     type: 8,
@@ -13625,24 +13646,6 @@ const equip_data = {
     equip_limit: 0,
     cd: []
   },
-  38260: {
-    nationality: 3,
-    type: 8,
-    rarity: 5,
-    tech: 0,
-    id: 38260,
-    icon: '38260',
-    ship_type_forbidden: [10, 22, 23, 24],
-    jp_name: '流星改',
-    cn_name: '流星改',
-    en_name: 'Ryusei Kai',
-    tw_name: 'Ryusei Kai',
-    equip_limit: 0,
-    cd: [
-      2070, 2035, 2000, 1965, 1930, 1895, 1860, 1825, 1790, 1755, 1710, 1710,
-      1710, 1710
-    ]
-  },
   150840: {
     nationality: 96,
     type: 10,
@@ -13655,21 +13658,6 @@ const equip_data = {
     cn_name: '自由群岛邀请函',
     en_name: 'Invitation to Islas de Libertád',
     tw_name: 'Invitation to Islas de Libertád',
-    equip_limit: 0,
-    cd: []
-  },
-  150900: {
-    nationality: 115,
-    type: 10,
-    rarity: 5,
-    tech: 0,
-    id: 150900,
-    icon: '150900',
-    ship_type_forbidden: [],
-    jp_name: '巨大おにぎり',
-    cn_name: '超大饭团',
-    en_name: 'Giant Onigiri',
-    tw_name: 'Giant Onigiri',
     equip_limit: 0,
     cd: []
   },
@@ -13703,6 +13691,22 @@ const equip_data = {
     equip_limit: 0,
     cd: []
   },
+
+  150900: {
+    nationality: 115,
+    type: 10,
+    rarity: 5,
+    tech: 0,
+    id: 150900,
+    icon: '150900',
+    ship_type_forbidden: [],
+    jp_name: '巨大おにぎり',
+    cn_name: '超大饭团',
+    en_name: 'Giant Onigiri',
+    tw_name: 'Giant Onigiri',
+    equip_limit: 0,
+    cd: []
+  },
   150920: {
     nationality: 1,
     type: 10,
@@ -13718,6 +13722,53 @@ const equip_data = {
     equip_limit: 0,
     cd: []
   },
+
+  151020: {
+    nationality: 0,
+    type: 10,
+    rarity: 5,
+    tech: 0,
+    id: 151020,
+    icon: '151020',
+    ship_type_forbidden: [],
+    jp_name: 'ザ・ワンダラー',
+    cn_name: '漫游者',
+    tw_name: 'The Vagabond',
+    en_name: 'The Vagabond',
+    equip_limit: 151020,
+    cd: []
+  },
+  151040: {
+    nationality: 0,
+    type: 10,
+    rarity: 4,
+    tech: 0,
+    id: 151040,
+    icon: '151040',
+    ship_type_forbidden: [],
+    jp_name: 'システム指名手配',
+    cn_name: '系统通缉者',
+    tw_name: 'Systemwide Bounty',
+    en_name: 'Systemwide Bounty',
+    equip_limit: 151040,
+    cd: []
+  },
+  151060: {
+    nationality: 0,
+    type: 10,
+    rarity: 5,
+    tech: 0,
+    id: 151060,
+    icon: '151060',
+    ship_type_forbidden: [],
+    jp_name: '零号協議キー',
+    cn_name: '零号协议密钥',
+    tw_name: 'Protocol Zero Key',
+    en_name: 'Protocol Zero Key',
+    equip_limit: 151060,
+    cd: []
+  },
+
   17280: {
     nationality: 1,
     type: 9,
