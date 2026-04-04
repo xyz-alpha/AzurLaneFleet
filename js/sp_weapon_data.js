@@ -16,7 +16,8 @@ const sp_weapon_data = {
   10020: {
     id: 10020,
     icon: '10020',
-    eq_reload: [13, 14, 14, 15, 15, 16, 16, 17, 18, 19, 20],
+    eq_reload: [
+      13, 14, 14, 15, 15, 16, 16, 17, 18, 19, 20],
     rarity: 4,
     tech: 0,
     max: 10,
@@ -44,7 +45,8 @@ const sp_weapon_data = {
   10060: {
     id: 10060,
     icon: '10060',
-    eq_reload: [10, 11, 11, 12, 12, 13, 13, 14, 14, 15, 15],
+    eq_reload: [
+      10, 11, 11, 12, 12, 13, 13, 14, 14, 15, 15],
     rarity: 4,
     tech: 0,
     max: 10,
@@ -58,7 +60,8 @@ const sp_weapon_data = {
   10080: {
     id: 10080,
     icon: '10080',
-    eq_reload: [7, 8, 8, 9, 9, 10, 10, 11, 11, 12, 12],
+    eq_reload: [
+      7, 8, 8, 9, 9, 10, 10, 11, 11, 12, 12],
     rarity: 4,
     tech: 0,
     max: 10,
@@ -100,7 +103,8 @@ const sp_weapon_data = {
   10140: {
     id: 10140,
     icon: '10140',
-    eq_reload: [9, 10, 10, 11, 11, 12, 12, 13, 13, 14, 15],
+    eq_reload: [
+      9, 10, 10, 11, 11, 12, 12, 13, 13, 14, 15],
     rarity: 4,
     tech: 0,
     max: 10,
@@ -198,7 +202,8 @@ const sp_weapon_data = {
   10280: {
     id: 10280,
     icon: '10280',
-    eq_reload: [7, 8, 8, 9, 9, 10, 10, 11, 11, 12, 12],
+    eq_reload: [
+      7, 8, 8, 9, 9, 10, 10, 11, 11, 12, 12],
     rarity: 4,
     tech: 0,
     max: 10,
@@ -254,7 +259,8 @@ const sp_weapon_data = {
   10360: {
     id: 10360,
     icon: '10360',
-    eq_reload: [13, 14, 14, 15, 15, 16, 16, 17, 18, 19, 20],
+    eq_reload: [
+      13, 14, 14, 15, 15, 16, 16, 17, 18, 19, 20],
     rarity: 4,
     tech: 0,
     max: 10,
@@ -268,7 +274,8 @@ const sp_weapon_data = {
   10380: {
     id: 10380,
     icon: '10380',
-    eq_reload: [9, 10, 10, 11, 11, 12, 12, 13, 13, 14, 15],
+    eq_reload: [
+      9, 10, 10, 11, 11, 12, 12, 13, 13, 14, 15],
     rarity: 4,
     tech: 0,
     max: 10,
@@ -464,7 +471,8 @@ const sp_weapon_data = {
   10660: {
     id: 10660,
     icon: '10660',
-    eq_reload: [11, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+    eq_reload: [
+      11, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
     rarity: 4,
     tech: 0,
     max: 10,
@@ -478,7 +486,8 @@ const sp_weapon_data = {
   10680: {
     id: 10680,
     icon: '10680',
-    eq_reload: [13, 14, 14, 15, 15, 16, 16, 17, 18, 19, 20],
+    eq_reload: [
+      13, 14, 14, 15, 15, 16, 16, 17, 18, 19, 20],
     rarity: 4,
     tech: 0,
     max: 10,
@@ -520,7 +529,8 @@ const sp_weapon_data = {
   10740: {
     id: 10740,
     icon: '10740',
-    eq_reload: [10, 11, 11, 12, 12, 13, 13, 14, 14, 15, 15],
+    eq_reload: [
+      10, 11, 11, 12, 12, 13, 13, 14, 14, 15, 15],
     rarity: 4,
     tech: 0,
     max: 10,
@@ -531,6 +541,152 @@ const sp_weapon_data = {
     cn_name: '孤独女王之旗',
     tw_name: '孤獨女王之旗*'
   },
+  10820: {
+    id: 10820,
+    icon: '10820',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    max: 10,
+    limit: 1060001,
+    type: 1,
+    jp_name: 'プリンセスバーケルセ',
+    en_name: 'Prinsesstårta',
+    cn_name: '公主蛋糕',
+    tw_name: 'Prinsesstårta'
+  },
+  10840: {
+    id: 10840,
+    icon: '10840',
+    eq_reload: [
+      7, 8, 8, 9, 9, 10, 10, 11, 11, 12, 12],
+    rarity: 4,
+    tech: 0,
+    max: 10,
+    limit: 1060002,
+    type: 6,
+    jp_name: 'ホイップシュークリーム',
+    en_name: 'Cream Puff',
+    cn_name: '鲜奶油泡芙',
+    tw_name: 'Cream Puff'
+  },
+  10860: {
+    id: 10860,
+    icon: '10860',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    max: 10,
+    limit: 1060003,
+    type: 4,
+    jp_name: '苺のミルフィーユ',
+    en_name: 'Strawberry Mille-Feuille',
+    cn_name: '草莓千层酥',
+    tw_name: 'Strawberry Mille-Feuille'
+  },
+  10880: {
+    id: 10880,
+    icon: '10880',
+    eq_reload: [
+      13, 14, 14, 15, 15, 16, 16, 17, 18, 19, 20],
+    rarity: 4,
+    tech: 0,
+    max: 10,
+    limit: 1060004,
+    type: 2,
+    jp_name: 'マンゴーバニラクレープ',
+    en_name: 'Mango Vanilla Crepe',
+    cn_name: '芒果香草可丽饼',
+    tw_name: 'Mango Vanilla Crepe'
+  },
+  10900: {
+    id: 10900,
+    icon: '10900',
+    eq_reload: [
+      6, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+    rarity: 4,
+    tech: 0,
+    max: 10,
+    limit: 1060005,
+    type: 6,
+    jp_name: 'スフレパンケーキ',
+    en_name: 'Souffle Pancake',
+    cn_name: '舒芙蕾松饼',
+    tw_name: 'Souffle Pancake'
+  },
+  10920: {
+    id: 10920,
+    icon: '10920',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    max: 10,
+    limit: 1060006,
+    type: 7,
+    jp_name: 'まんじゅう',
+    en_name: 'Manjuu Bun',
+    cn_name: '甜馅馒头',
+    tw_name: 'Manjuu Bun'
+  },
+  10940: {
+    id: 10940,
+    icon: '10940',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    max: 10,
+    limit: 1060007,
+    type: 2,
+    jp_name: 'パパナッシュ',
+    en_name: 'Papanasi',
+    cn_name: '帕帕纳西',
+    tw_name: 'Papanasi'
+  },
+  10960: {
+    id: 10960,
+    icon: '10960',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    max: 10,
+    limit: 1060009,
+    type: 6,
+    jp_name: 'マカロン',
+    en_name: 'Macaroon',
+    cn_name: '马卡龙',
+    tw_name: 'Macaroon'
+  },
+  10980: {
+    id: 10980,
+    icon: '10980',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    max: 10,
+    limit: 1060008,
+    type: 7,
+    jp_name: 'やきいも',
+    en_name: 'Roasted Sweet Potato',
+    cn_name: '烤白薯',
+    tw_name: 'Roasted Sweet Potato'
+  },
+
+
+  999000: {
+    id: 999000,
+    icon: '9000',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    max: 0,
+    limit: 10002,
+    type: 1,
+    jp_name: 'スーパーレインボー1号',
+    cn_name: '超级彩虹锤1号',
+    en_name: 'Ultra Rainbow Hammer',
+    tw_name: 'Ultra Rainbow Hammer'
+  },
+
   1010100: {
     id: 1010100,
     icon: '1010100',
@@ -587,10 +743,12 @@ const sp_weapon_data = {
     cn_name: '单手锤',
     tw_name: '單手錘*'
   },
+
   1020100: {
     id: 1020100,
     icon: '1020100',
-    eq_reload: [4, 3, 3, 5, 5, 6, 6, 7, 7, 8, 8],
+    eq_reload: [
+      4, 3, 3, 5, 5, 6, 6, 7, 7, 8, 8],
     rarity: 2,
     tech: 1,
     max: 10,
@@ -604,7 +762,8 @@ const sp_weapon_data = {
   1020120: {
     id: 1020120,
     icon: '1020100',
-    eq_reload: [8, 3, 3, 9, 9, 10, 10, 11, 11, 12, 12],
+    eq_reload: [
+      8, 3, 3, 9, 9, 10, 10, 11, 11, 12, 12],
     rarity: 3,
     tech: 2,
     max: 10,
@@ -615,6 +774,7 @@ const sp_weapon_data = {
     cn_name: '铁剑',
     tw_name: '鐵劍*'
   },
+
   1030100: {
     id: 1030100,
     icon: '1030100',
@@ -643,6 +803,7 @@ const sp_weapon_data = {
     cn_name: '手弩',
     tw_name: '手弩*'
   },
+
   1040100: {
     id: 1040100,
     icon: '1040100',
@@ -671,6 +832,7 @@ const sp_weapon_data = {
     cn_name: '大剑',
     tw_name: '大劍*'
   },
+
   1050100: {
     id: 1050100,
     icon: '1050100',
@@ -699,6 +861,7 @@ const sp_weapon_data = {
     cn_name: '骑枪',
     tw_name: '騎槍*'
   },
+
   1060100: {
     id: 1060100,
     icon: '1060100',
@@ -755,6 +918,7 @@ const sp_weapon_data = {
     cn_name: '轻弩',
     tw_name: '輕弩*'
   },
+
   1070100: {
     id: 1070100,
     icon: '1070100',
@@ -811,6 +975,7 @@ const sp_weapon_data = {
     cn_name: '权杖',
     tw_name: '權杖*'
   },
+
   1080100: {
     id: 1080100,
     icon: '1080100',
@@ -867,136 +1032,13 @@ const sp_weapon_data = {
     cn_name: '苦无',
     tw_name: '苦無*'
   },
-  10980: {
-    id: 10980,
-    icon: '10980',
-    eq_reload: [],
-    rarity: 4,
-    tech: 0,
-    max: 10,
-    limit: 1060008,
-    type: 7,
-    jp_name: 'やきいも',
-    en_name: 'Roasted Sweet Potato',
-    cn_name: '烤白薯',
-    tw_name: 'Roasted Sweet Potato'
-  },
-  10960: {
-    id: 10960,
-    icon: '10960',
-    eq_reload: [],
-    rarity: 4,
-    tech: 0,
-    max: 10,
-    limit: 1060009,
-    type: 6,
-    jp_name: 'マカロン',
-    en_name: 'Macaroon',
-    cn_name: '马卡龙',
-    tw_name: 'Macaroon'
-  },
-  10840: {
-    id: 10840,
-    icon: '10840',
-    eq_reload: [7, 8, 8, 9, 9, 10, 10, 11, 11, 12, 12],
-    rarity: 4,
-    tech: 0,
-    max: 10,
-    limit: 1060002,
-    type: 6,
-    jp_name: 'ホイップシュークリーム',
-    en_name: 'Cream Puff',
-    cn_name: '鲜奶油泡芙',
-    tw_name: 'Cream Puff'
-  },
-  10860: {
-    id: 10860,
-    icon: '10860',
-    eq_reload: [],
-    rarity: 4,
-    tech: 0,
-    max: 10,
-    limit: 1060003,
-    type: 4,
-    jp_name: '苺のミルフィーユ',
-    en_name: 'Strawberry Mille-Feuille',
-    cn_name: '草莓千层酥',
-    tw_name: 'Strawberry Mille-Feuille'
-  },
-  10820: {
-    id: 10820,
-    icon: '10820',
-    eq_reload: [],
-    rarity: 4,
-    tech: 0,
-    max: 10,
-    limit: 1060001,
-    type: 1,
-    jp_name: 'プリンセスバーケルセ',
-    en_name: 'Prinsesstårta',
-    cn_name: '公主蛋糕',
-    tw_name: 'Prinsesstårta'
-  },
-  10880: {
-    id: 10880,
-    icon: '10880',
-    eq_reload: [13, 14, 14, 15, 15, 16, 16, 17, 18, 19, 20],
-    rarity: 4,
-    tech: 0,
-    max: 10,
-    limit: 1060004,
-    type: 2,
-    jp_name: 'マンゴーバニラクレープ',
-    en_name: 'Mango Vanilla Crepe',
-    cn_name: '芒果香草可丽饼',
-    tw_name: 'Mango Vanilla Crepe'
-  },
-  10900: {
-    id: 10900,
-    icon: '10900',
-    eq_reload: [6, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
-    rarity: 4,
-    tech: 0,
-    max: 10,
-    limit: 1060005,
-    type: 6,
-    jp_name: 'スフレパンケーキ',
-    en_name: 'Souffle Pancake',
-    cn_name: '舒芙蕾松饼',
-    tw_name: 'Souffle Pancake'
-  },
-  10920: {
-    id: 10920,
-    icon: '10920',
-    eq_reload: [],
-    rarity: 4,
-    tech: 0,
-    max: 10,
-    limit: 1060006,
-    type: 7,
-    jp_name: 'まんじゅう',
-    en_name: 'Manjuu Bun',
-    cn_name: '甜馅馒头',
-    tw_name: 'Manjuu Bun'
-  },
-  10940: {
-    id: 10940,
-    icon: '10940',
-    eq_reload: [],
-    rarity: 4,
-    tech: 0,
-    max: 10,
-    limit: 1060007,
-    type: 2,
-    jp_name: 'パパナッシュ',
-    en_name: 'Papanasi',
-    cn_name: '帕帕纳西',
-    tw_name: 'Papanasi'
-  },
+
+
   9911000: {
     id: 9911000,
     icon: '11000',
-    eq_reload: [6, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+    eq_reload: [
+      6, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
     rarity: 4,
     tech: 0,
     max: 10,
@@ -1021,10 +1063,25 @@ const sp_weapon_data = {
     cn_name: '御狐的赠礼',
     tw_name: "The Guardian's Bestowed Sword"
   },
+  9911040: {
+    id: 9911040,
+    icon: '11040',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    max: 10,
+    limit: 40146,
+    type: 1,
+    jp_name: '彼女の世界だったもの',
+    en_name: 'What Once Was Her World',
+    cn_name: '往昔的书中世界',
+    tw_name: 'What Once Was Her World'
+  },
   9911060: {
     id: 9911060,
     icon: '11060',
-    eq_reload: [6, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+    eq_reload: [
+      6, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
     rarity: 4,
     tech: 0,
     max: 10,
@@ -1038,7 +1095,8 @@ const sp_weapon_data = {
   9911080: {
     id: 9911080,
     icon: '11080',
-    eq_reload: [4, 5, 5, 6, 6, 7, 7, 8, 8, 9, 10],
+    eq_reload: [
+      4, 5, 5, 6, 6, 7, 7, 8, 8, 9, 10],
     rarity: 4,
     tech: 0,
     max: 10,
@@ -1049,6 +1107,7 @@ const sp_weapon_data = {
     cn_name: '萨拉酱的魔法手杖',
     tw_name: "Sister Sara's Magic Wand!"
   },
+
   9912000: {
     id: 9912000,
     icon: '12000',
@@ -1066,7 +1125,8 @@ const sp_weapon_data = {
   9912020: {
     id: 9912020,
     icon: '12020',
-    eq_reload: [5, 6, 6, 7, 7, 8, 8, 9, 9, 10],
+    eq_reload: [
+      5, 6, 6, 7, 7, 8, 8, 9, 9, 10],
     rarity: 4,
     tech: 0,
     max: 10,
@@ -1076,20 +1136,6 @@ const sp_weapon_data = {
     en_name: 'Incanto',
     cn_name: '魅力四射',
     tw_name: 'Incanto'
-  },
-  9912060: {
-    id: 9912060,
-    icon: '12060',
-    eq_reload: [],
-    rarity: 4,
-    tech: 0,
-    max: 10,
-    limit: 10305,
-    type: 4,
-    jp_name: 'ヒューストン・トゥ・ザ・スカイ',
-    en_name: "Houston's Liftoff",
-    cn_name: '休斯敦的腾飞',
-    tw_name: "Houston's Liftoff"
   },
   9912040: {
     id: 9912040,
@@ -1105,47 +1151,19 @@ const sp_weapon_data = {
     cn_name: '皇家骑士的勇毅',
     tw_name: "A Royal Knight's Pride"
   },
-  9911040: {
-    id: 9911040,
-    icon: '11040',
+  9912060: {
+    id: 9912060,
+    icon: '12060',
     eq_reload: [],
     rarity: 4,
     tech: 0,
     max: 10,
-    limit: 40146,
-    type: 1,
-    jp_name: '彼女の世界だったもの',
-    en_name: 'What Once Was Her World',
-    cn_name: '往昔的书中世界',
-    tw_name: 'What Once Was Her World'
-  },
-  9912240: {
-    id: 9912240,
-    icon: '12240',
-    eq_reload: [7, 8, 8, 9, 9, 10, 10, 11, 11, 12],
-    rarity: 4,
-    tech: 0,
-    max: 10,
-    limit: 1080002,
-    type: 6,
-    jp_name: '監禁プログラム',
-    en_name: 'Confinement Program',
-    cn_name: '监禁程序',
-    tw_name: 'Confinement Program'
-  },
-  9912140: {
-    id: 9912140,
-    icon: '12140',
-    eq_reload: [],
-    rarity: 4,
-    tech: 0,
-    max: 10,
-    limit: 1080006,
-    type: 7,
-    jp_name: 'ビッグゴルドバーンのゼンタングルアート',
-    en_name: 'Big Goldburn Zentangle',
-    cn_name: '巨大煌翼炎龙的禅绕画',
-    tw_name: 'Big Goldburn Zentangle'
+    limit: 10305,
+    type: 4,
+    jp_name: 'ヒューストン・トゥ・ザ・スカイ',
+    en_name: "Houston's Liftoff",
+    cn_name: '休斯敦的腾飞',
+    tw_name: "Houston's Liftoff"
   },
   9912080: {
     id: 9912080,
@@ -1161,20 +1179,6 @@ const sp_weapon_data = {
     cn_name: '爆裂钻孔机强化组件',
     tw_name: 'Buster Borr Upgrade'
   },
-  9912160: {
-    id: 9912160,
-    icon: '12160',
-    eq_reload: [6, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
-    rarity: 4,
-    tech: 0,
-    max: 10,
-    limit: 1080007,
-    type: 6,
-    jp_name: '怪獣の種',
-    en_name: 'Kaiju Seed',
-    cn_name: '怪兽种子',
-    tw_name: 'Kaiju Seed'
-  },
   9912100: {
     id: 9912100,
     icon: '12100',
@@ -1188,6 +1192,63 @@ const sp_weapon_data = {
     en_name: 'Battle Tracto Max Upgrade',
     cn_name: '征战巨坦强化组件',
     tw_name: 'Battle Tracto Max Upgrade'
+  },
+  9912120: {
+    id: 9912120,
+    icon: '12120',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    max: 10,
+    limit: 1080005,
+    type: 4,
+    jp_name: 'ダイナウイング',
+    en_name: 'Dyna Wing',
+    cn_name: '戴拿飞翼',
+    tw_name: 'Dyna Wing'
+  },
+  9912140: {
+    id: 9912140,
+    icon: '12140',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    max: 10,
+    limit: 1080006,
+    type: 7,
+    jp_name: 'ビッグゴルドバーンのゼンタングルアート',
+    en_name: 'Big Goldburn Zentangle',
+    cn_name: '巨大煌翼炎龙的禅绕画',
+    tw_name: 'Big Goldburn Zentangle'
+  },
+  9912160: {
+    id: 9912160,
+    icon: '12160',
+    eq_reload: [
+      6, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+    rarity: 4,
+    tech: 0,
+    max: 10,
+    limit: 1080007,
+    type: 6,
+    jp_name: '怪獣の種',
+    en_name: 'Kaiju Seed',
+    cn_name: '怪兽种子',
+    tw_name: 'Kaiju Seed'
+  },
+  9912180: {
+    id: 9912180,
+    icon: '12180',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    max: 10,
+    limit: 1080008,
+    type: 6,
+    jp_name: 'ライブバトン',
+    en_name: 'Live Baton',
+    cn_name: '演出棒',
+    tw_name: 'Live Baton'
   },
   9912200: {
     id: 9912200,
@@ -1206,7 +1267,8 @@ const sp_weapon_data = {
   9912220: {
     id: 9912220,
     icon: '12220',
-    eq_reload: [13, 14, 14, 15, 15, 16, 16, 17, 18, 19, 20],
+    eq_reload: [
+      13, 14, 14, 15, 15, 16, 16, 17, 18, 19, 20],
     rarity: 4,
     tech: 0,
     max: 10,
@@ -1217,33 +1279,20 @@ const sp_weapon_data = {
     cn_name: '原始接收器',
     tw_name: 'Primal Accepter'
   },
-  9912180: {
-    id: 9912180,
-    icon: '12180',
-    eq_reload: [],
+  9912240: {
+    id: 9912240,
+    icon: '12240',
+    eq_reload: [
+      7, 8, 8, 9, 9, 10, 10, 11, 11, 12],
     rarity: 4,
     tech: 0,
     max: 10,
-    limit: 1080008,
+    limit: 1080002,
     type: 6,
-    jp_name: 'ライブバトン',
-    en_name: 'Live Baton',
-    cn_name: '演出棒',
-    tw_name: 'Live Baton'
-  },
-  9912120: {
-    id: 9912120,
-    icon: '12120',
-    eq_reload: [],
-    rarity: 4,
-    tech: 0,
-    max: 10,
-    limit: 1080005,
-    type: 4,
-    jp_name: 'ダイナウイング',
-    en_name: 'Dyna Wing',
-    cn_name: '戴拿飞翼',
-    tw_name: 'Dyna Wing'
+    jp_name: '監禁プログラム',
+    en_name: 'Confinement Program',
+    cn_name: '监禁程序',
+    tw_name: 'Confinement Program'
   },
   9912260: {
     id: 9912260,
@@ -1273,20 +1322,6 @@ const sp_weapon_data = {
     cn_name: '絮库夫的星期天',
     tw_name: "Surcouf's Sunday"
   },
-  9912380: {
-    id: 9912380,
-    icon: '12380',
-    eq_reload: [],
-    rarity: 4,
-    tech: 0,
-    max: 10,
-    limit: 30210,
-    type: 9,
-    jp_name: '心配性の妹から',
-    en_name: "Sister's Care Package",
-    cn_name: '来自妹妹的关爱',
-    tw_name: "Sister's Care Package"
-  },
   9912300: {
     id: 9912300,
     icon: '12300',
@@ -1301,19 +1336,19 @@ const sp_weapon_data = {
     cn_name: '最硬最强之盾',
     tw_name: 'The Sturdiest, Strongest Shield'
   },
-  9912360: {
-    id: 9912360,
-    icon: '12360',
+  9912320: {
+    id: 9912320,
+    icon: '12320',
     eq_reload: [],
     rarity: 4,
     tech: 0,
     max: 10,
-    limit: 20304,
-    type: 4,
-    jp_name: '雲さん観察の成果',
-    en_name: 'The Sweetness of Cloudwatching',
-    cn_name: '云朵观察成果',
-    tw_name: 'The Sweetness of Cloudwatching'
+    limit: 40102,
+    type: 1,
+    jp_name: 'レーベくん',
+    en_name: 'Mini Lebe',
+    cn_name: '莱伯君',
+    tw_name: 'Mini Lebe'
   },
   9912340: {
     id: 9912340,
@@ -1329,19 +1364,33 @@ const sp_weapon_data = {
     cn_name: '遮掩表情的外装',
     tw_name: 'Emotion-Concealing Garb'
   },
-  9912320: {
-    id: 9912320,
-    icon: '12320',
+  9912360: {
+    id: 9912360,
+    icon: '12360',
     eq_reload: [],
     rarity: 4,
     tech: 0,
     max: 10,
-    limit: 40102,
-    type: 1,
-    jp_name: 'レーベくん',
-    en_name: 'Mini Lebe',
-    cn_name: '莱伯君',
-    tw_name: 'Mini Lebe'
+    limit: 20304,
+    type: 4,
+    jp_name: '雲さん観察の成果',
+    en_name: 'The Sweetness of Cloudwatching',
+    cn_name: '云朵观察成果',
+    tw_name: 'The Sweetness of Cloudwatching'
+  },
+  9912380: {
+    id: 9912380,
+    icon: '12380',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    max: 10,
+    limit: 30210,
+    type: 9,
+    jp_name: '心配性の妹から',
+    en_name: "Sister's Care Package",
+    cn_name: '来自妹妹的关爱',
+    tw_name: "Sister's Care Package"
   },
   9912420: {
     id: 9912420,
@@ -1371,20 +1420,6 @@ const sp_weapon_data = {
     cn_name: '黄金时代之枪',
     tw_name: 'Lance of the Golden Age'
   },
-  9912520: {
-    id: 9912520,
-    icon: '12520',
-    eq_reload: [6, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
-    rarity: 4,
-    tech: 0,
-    max: 10,
-    limit: 960005,
-    type: 10,
-    jp_name: '持ち歩き「ちっちゃいの」',
-    en_name: 'Portable "Little Guys"',
-    cn_name: '便携式“小的们”',
-    tw_name: 'Portable "Little Guys"'
-  },
   9912460: {
     id: 9912460,
     icon: '12460',
@@ -1398,6 +1433,20 @@ const sp_weapon_data = {
     en_name: 'Handwritten Note',
     cn_name: '一张字条',
     tw_name: 'Handwritten Note'
+  },
+  9912480: {
+    id: 9912480,
+    icon: '12480',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    max: 10,
+    limit: 960003,
+    type: 10,
+    jp_name: '果てへの舵輪',
+    en_name: "Land's End Helm",
+    cn_name: '驶向远方之舵',
+    tw_name: "Land's End Helm"
   },
   9912500: {
     id: 9912500,
@@ -1413,19 +1462,20 @@ const sp_weapon_data = {
     cn_name: '阿尔戈之刃',
     tw_name: "Ghost Ship's Scythe"
   },
-  9912480: {
-    id: 9912480,
-    icon: '12480',
-    eq_reload: [],
+  9912520: {
+    id: 9912520,
+    icon: '12520',
+    eq_reload: [
+      6, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
     rarity: 4,
     tech: 0,
     max: 10,
-    limit: 960003,
+    limit: 960005,
     type: 10,
-    jp_name: '果てへの舵輪',
-    en_name: "Land's End Helm",
-    cn_name: '驶向远方之舵',
-    tw_name: "Land's End Helm"
+    jp_name: '持ち歩き「ちっちゃいの」',
+    en_name: 'Portable "Little Guys"',
+    cn_name: '便携式“小的们”',
+    tw_name: 'Portable "Little Guys"'
   },
   9912540: {
     id: 9912540,
@@ -1444,7 +1494,8 @@ const sp_weapon_data = {
   9912560: {
     id: 9912560,
     icon: '12560',
-    eq_reload: [15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25],
+    eq_reload: [
+      15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25],
     rarity: 4,
     tech: 0,
     max: 10,
@@ -1472,7 +1523,8 @@ const sp_weapon_data = {
   9912600: {
     id: 9912600,
     icon: '12600',
-    eq_reload: [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18],
+    eq_reload: [
+      8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18],
     rarity: 4,
     tech: 0,
     max: 10,
@@ -1514,7 +1566,8 @@ const sp_weapon_data = {
   9912660: {
     id: 9912660,
     icon: '12660',
-    eq_reload: [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+    eq_reload: [
+      10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
     rarity: 4,
     tech: 0,
     max: 10,
@@ -1570,7 +1623,8 @@ const sp_weapon_data = {
   9912740: {
     id: 9912740,
     icon: '12740',
-    eq_reload: [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+    eq_reload: [
+      10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
     rarity: 4,
     tech: 0,
     max: 10,
@@ -1598,7 +1652,8 @@ const sp_weapon_data = {
   9912780: {
     id: 9912780,
     icon: '12780',
-    eq_reload: [10, 10, 11, 12, 13, 14, 14, 15, 16, 17, 18],
+    eq_reload: [
+      10, 10, 11, 12, 13, 14, 14, 15, 16, 17, 18],
     rarity: 4,
     tech: 0,
     max: 10,
@@ -1679,20 +1734,6 @@ const sp_weapon_data = {
     en_name: 'Baobao',
     tw_name: 'Baobao'
   },
-  9912940: {
-    id: 9912940,
-    icon: '12940',
-    eq_reload: [],
-    rarity: 4,
-    tech: 0,
-    max: 10,
-    limit: 20204,
-    type: 2,
-    jp_name: '捨てられません',
-    cn_name: '严禁丢弃 ',
-    en_name: "Don't Throw Me Away",
-    tw_name: "Don't Throw Me Away"
-  },
   9912900: {
     id: 9912900,
     icon: '12900',
@@ -1706,6 +1747,34 @@ const sp_weapon_data = {
     cn_name: '值得夸赞的武器',
     en_name: 'A Praiseworthy Weapon',
     tw_name: 'A Praiseworthy Weapon'
+  },
+  9912920: {
+    id: 9912920,
+    icon: '12920',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    max: 10,
+    limit: 30212,
+    type: 2,
+    jp_name: '朝鍛夕錬',
+    cn_name: '朝夕苦练',
+    en_name: 'Grinding Day and Night',
+    tw_name: 'Grinding Day and Night'
+  },
+  9912940: {
+    id: 9912940,
+    icon: '12940',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    max: 10,
+    limit: 20204,
+    type: 2,
+    jp_name: '捨てられません',
+    cn_name: '严禁丢弃 ',
+    en_name: "Don't Throw Me Away",
+    tw_name: "Don't Throw Me Away"
   },
   9912960: {
     id: 9912960,
@@ -1735,20 +1804,7 @@ const sp_weapon_data = {
     en_name: 'To Become Statuesque?',
     tw_name: 'To Become Statuesque?'
   },
-  9912920: {
-    id: 9912920,
-    icon: '12920',
-    eq_reload: [],
-    rarity: 4,
-    tech: 0,
-    max: 10,
-    limit: 30212,
-    type: 2,
-    jp_name: '朝鍛夕錬',
-    cn_name: '朝夕苦练',
-    en_name: 'Grinding Day and Night',
-    tw_name: 'Grinding Day and Night'
-  },
+
   9913000: {
     id: 9913000,
     icon: '13000',
@@ -1794,7 +1850,7 @@ const sp_weapon_data = {
   9913060: {
     id: 9913060,
     icon: '13060',
-    eq_reload: [6, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+    eq_reload: [ 6, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 ],
     rarity: 4,
     tech: 0,
     max: 10,
@@ -1878,7 +1934,8 @@ const sp_weapon_data = {
   9913180: {
     id: 9913180,
     icon: '13180',
-    eq_reload: [6, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+    eq_reload: [
+      6, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
     rarity: 4,
     tech: 0,
     max: 10,
@@ -1906,7 +1963,8 @@ const sp_weapon_data = {
   9913220: {
     id: 9913220,
     icon: '13220',
-    eq_reload: [6, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+    eq_reload: [
+      6, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
     rarity: 4,
     tech: 0,
     max: 10,
@@ -1931,33 +1989,19 @@ const sp_weapon_data = {
     en_name: 'Special Mix (Do Not Drink)',
     tw_name: 'Special Mix (Do Not Drink)'
   },
-  9913340: {
-    id: 9913340,
-    icon: '13340',
+  9913280: {
+    id: 9913280,
+    icon: '13280',
     eq_reload: [],
     rarity: 4,
     tech: 0,
     max: 10,
-    limit: 39901,
-    type: 4,
-    jp_name: '霊峰の一振り',
-    cn_name: '灵峰之刃',
-    en_name: 'Blade of the Holy Mountain',
-    tw_name: 'Blade of the Holy Mountain'
-  },
-  9913320: {
-    id: 9913320,
-    icon: '13320',
-    eq_reload: [],
-    rarity: 4,
-    tech: 0,
-    max: 10,
-    limit: 20308,
-    type: 4,
-    jp_name: '伝承の証明',
-    cn_name: '传承的证明',
-    en_name: 'Proof of Inheritance',
-    tw_name: 'Proof of Inheritance'
+    limit: 70104,
+    type: 1,
+    jp_name: '氷妖精の優しさ',
+    cn_name: '冰妖精的温柔',
+    en_name: "The Ice Sprite's Kindness",
+    tw_name: "The Ice Sprite's Kindness"
   },
   9913300: {
     id: 9913300,
@@ -1973,19 +2017,156 @@ const sp_weapon_data = {
     en_name: 'T3 Sakura Tech Pack (Display Sample)',
     tw_name: 'T3 Sakura Tech Pack (Display Sample)'
   },
-  9913280: {
-    id: 9913280,
-    icon: '13280',
+  9913320: {
+    id: 9913320,
+    icon: '13320',
     eq_reload: [],
     rarity: 4,
     tech: 0,
     max: 10,
-    limit: 70104,
+    limit: 20308,
+    type: 4,
+    jp_name: '伝承の証明',
+    cn_name: '传承的证明',
+    en_name: 'Proof of Inheritance',
+    tw_name: 'Proof of Inheritance'
+  },
+  9913340: {
+    id: 9913340,
+    icon: '13340',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    max: 10,
+    limit: 39901,
+    type: 4,
+    jp_name: '霊峰の一振り',
+    cn_name: '灵峰之刃',
+    en_name: 'Blade of the Holy Mountain',
+    tw_name: 'Blade of the Holy Mountain'
+  },
+  9913360: {
+    id: 9913360,
+    icon: '13360',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    max: 10,
+    limit: 10513,
+    type: 6,
+    jp_name: '勝利者の鐘',
+    cn_name: '胜利者之钟',
+    en_name: 'Victory Bell',
+    tw_name: 'Victory Bell'
+  },
+  9913380: {
+    id: 9913380,
+    icon: '13380',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    max: 10,
+    limit: 20107,
     type: 1,
-    jp_name: '氷妖精の優しさ',
-    cn_name: '冰妖精的温柔',
-    en_name: "The Ice Sprite's Kindness",
-    tw_name: "The Ice Sprite's Kindness"
+    jp_name: 'AとYとの思い出',
+    cn_name: '伙伴们的纪念',
+    en_name: 'My Friends A and Y',
+    tw_name: 'My Friends A and Y'
+  },
+  9913400: {
+    id: 9913400,
+    icon: '13400',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    max: 10,
+    limit: 29901,
+    type: 2,
+    jp_name: 'ネプチューン・トライデント',
+    cn_name: '海神三叉戟',
+    en_name: "Neptune's Trident",
+    tw_name: "Neptune's Trident"
+  },
+  9913420: {
+    id: 9913420,
+    icon: '13420',
+    eq_reload: [
+      10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+    rarity: 4,
+    tech: 0,
+    max: 10,
+    limit: 30113,
+    type: 1,
+    jp_name: 'ぶつかり注意！',
+    cn_name: '刹车请注意！',
+    en_name: 'Watch Your Head!',
+    tw_name: 'Watch Your Head!'
+  },
+  9913440: {
+    id: 9913440,
+    icon: '13440',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    limit: 30201,
+    type: 2,
+    jp_name: 'カイゼンツールPROMAX',
+    cn_name: '制作工具PROMAX',
+    en_name: 'Upgrade Tool Pro Max',
+    tw_name: 'Upgrade Tool Pro Max'
+  },
+  9913460: {
+    id: 9913460,
+    icon: '13460',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    limit: 49901,
+    type: 4,
+    jp_name: '日常',
+    cn_name: '少女的日用品',
+    en_name: 'Purse of Everyday Items',
+    tw_name: 'Purse of Everyday Items'
+  },
+  9913480: {
+    id: 9913480,
+    icon: '13480',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    limit: 89901,
+    type: 4,
+    jp_name: '仲裁の聖槍',
+    cn_name: '仲裁之枪 ',
+    en_name: 'Holy Lance of Judgment',
+    tw_name: 'Holy Lance of Judgment'
+  },
+  9913500: {
+    id: 9913500,
+    icon: '13500',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    limit: 10602,
+    type: 7,
+    jp_name: 'ワンモア！',
+    cn_name: '再来一球！',
+    en_name: 'One More Ball!',
+    tw_name: 'One More Ball!'
+  },
+  9913520: {
+    id: 9913520,
+    icon: '13520',
+    eq_reload: [
+      6, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+    rarity: 4,
+    tech: 0,
+    limit: 30603,
+    type: 7,
+    jp_name: '絢爛の花簪',
+    cn_name: '绚烂花簪',
+    en_name: 'Resplendent Flower Hairpin',
+    tw_name: 'Resplendent Flower Hairpin'
   },
   9913560: {
     id: 9913560,
@@ -2057,62 +2238,6 @@ const sp_weapon_data = {
     en_name: 'Special Spirits',
     tw_name: 'Special Spirits'
   },
-  9913380: {
-    id: 9913380,
-    icon: '13380',
-    eq_reload: [],
-    rarity: 4,
-    tech: 0,
-    max: 10,
-    limit: 20107,
-    type: 1,
-    jp_name: 'AとYとの思い出',
-    cn_name: '伙伴们的纪念',
-    en_name: 'My Friends A and Y',
-    tw_name: 'My Friends A and Y'
-  },
-  9913360: {
-    id: 9913360,
-    icon: '13360',
-    eq_reload: [],
-    rarity: 4,
-    tech: 0,
-    max: 10,
-    limit: 10513,
-    type: 6,
-    jp_name: '勝利者の鐘',
-    cn_name: '胜利者之钟',
-    en_name: 'Victory Bell',
-    tw_name: 'Victory Bell'
-  },
-  9913400: {
-    id: 9913400,
-    icon: '13400',
-    eq_reload: [],
-    rarity: 4,
-    tech: 0,
-    max: 10,
-    limit: 29901,
-    type: 2,
-    jp_name: 'ネプチューン・トライデント',
-    cn_name: '海神三叉戟',
-    en_name: "Neptune's Trident",
-    tw_name: "Neptune's Trident"
-  },
-  9913420: {
-    id: 9913420,
-    icon: '13420',
-    eq_reload: [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-    rarity: 4,
-    tech: 0,
-    max: 10,
-    limit: 30113,
-    type: 1,
-    jp_name: 'ぶつかり注意！',
-    cn_name: '刹车请注意！',
-    en_name: 'Watch Your Head!',
-    tw_name: 'Watch Your Head!'
-  },
   9913660: {
     id: 9913660,
     icon: '13660',
@@ -2144,7 +2269,8 @@ const sp_weapon_data = {
   9913700: {
     id: 9913700,
     icon: '13700',
-    eq_reload: [11, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+    eq_reload: [
+      11, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
     rarity: 4,
     tech: 0,
     max: 10,
@@ -2197,85 +2323,6 @@ const sp_weapon_data = {
     en_name: 'Banner of Order',
     tw_name: 'Banner of Order'
   },
-  999000: {
-    id: 999000,
-    icon: '9000',
-    eq_reload: [],
-    rarity: 4,
-    tech: 0,
-    max: 0,
-    limit: 10002,
-    type: 1,
-    jp_name: 'スーパーレインボー1号',
-    cn_name: '超级彩虹锤1号',
-    en_name: 'Ultra Rainbow Hammer',
-    tw_name: 'Ultra Rainbow Hammer'
-  },
-  9913440: {
-    id: 9913440,
-    icon: '13440',
-    eq_reload: [],
-    rarity: 4,
-    tech: 0,
-    limit: 30201,
-    type: 2,
-    jp_name: 'カイゼンツールPROMAX',
-    cn_name: '制作工具PROMAX',
-    en_name: 'Upgrade Tool Pro Max',
-    tw_name: 'Upgrade Tool Pro Max'
-  },
-  9913460: {
-    id: 9913460,
-    icon: '13460',
-    eq_reload: [],
-    rarity: 4,
-    tech: 0,
-    limit: 49901,
-    type: 4,
-    jp_name: '日常',
-    cn_name: '少女的日用品',
-    en_name: 'Purse of Everyday Items',
-    tw_name: 'Purse of Everyday Items'
-  },
-  9913480: {
-    id: 9913480,
-    icon: '13480',
-    eq_reload: [],
-    rarity: 4,
-    tech: 0,
-    limit: 89901,
-    type: 4,
-    jp_name: '仲裁の聖槍',
-    cn_name: '仲裁之枪 ',
-    en_name: 'Holy Lance of Judgment',
-    tw_name: 'Holy Lance of Judgment'
-  },
-  9913500: {
-    id: 9913500,
-    icon: '13500',
-    eq_reload: [],
-    rarity: 4,
-    tech: 0,
-    limit: 10602,
-    type: 7,
-    jp_name: 'ワンモア！',
-    cn_name: '再来一球！',
-    en_name: 'One More Ball!',
-    tw_name: 'One More Ball!'
-  },
-  9913520: {
-    id: 9913520,
-    icon: '13520',
-    eq_reload: [6, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
-    rarity: 4,
-    tech: 0,
-    limit: 30603,
-    type: 7,
-    jp_name: '絢爛の花簪',
-    cn_name: '绚烂花簪',
-    en_name: 'Resplendent Flower Hairpin',
-    tw_name: 'Resplendent Flower Hairpin'
-  },
   9913780: {
     id: 9913780,
     icon: '13780',
@@ -2302,19 +2349,6 @@ const sp_weapon_data = {
     en_name: 'Plum-Red Silksteps',
     tw_name: 'Plum-Red Silksteps'
   },
-  9913840: {
-    id: 9913840,
-    icon: '13840',
-    eq_reload: [],
-    rarity: 4,
-    tech: 0,
-    limit: 30312,
-    type: 4,
-    jp_name: '龍奇月輪',
-    cn_name: '龙奇月轮',
-    en_name: 'Ryuuki Full Moon',
-    tw_name: 'Ryuuki Full Moon'
-  },
   9913820: {
     id: 9913820,
     icon: '13820',
@@ -2327,6 +2361,19 @@ const sp_weapon_data = {
     cn_name: '超粘着MAX ',
     en_name: 'Super Bubblegum Pro Max ',
     tw_name: 'Super Bubblegum Pro Max '
+  },
+  9913840: {
+    id: 9913840,
+    icon: '13840',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    limit: 30312,
+    type: 4,
+    jp_name: '龍奇月輪',
+    cn_name: '龙奇月轮',
+    en_name: 'Ryuuki Full Moon',
+    tw_name: 'Ryuuki Full Moon'
   },
   9913860: {
     id: 9913860,
@@ -2344,7 +2391,8 @@ const sp_weapon_data = {
   9913880: {
     id: 9913880,
     icon: '13880',
-    eq_reload: [6, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+    eq_reload: [
+      6, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
     rarity: 4,
     tech: 0,
     limit: 20307,
@@ -2354,23 +2402,26 @@ const sp_weapon_data = {
     en_name: 'Order of the White Rose',
     tw_name: 'Order of the White Rose'
   },
+
   9914000: {
     id: 9914000,
     icon: '14000',
-    eq_reload: [1, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    eq_reload: [
+      1, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
     rarity: 4,
     tech: 0,
     limit: 30101,
     type: 1,
     jp_name: '長女のチャームポイント',
     cn_name: '长女的迷人之处',
-    en_name: 'Biggest Girl\u0027s Bonnie Bells',
-    tw_name: 'Biggest Girl\u0027s Bonnie Bells'
+    en_name: "Biggest Girl's Bonnie Bells",
+    tw_name: "Biggest Girl's Bonnie Bells"
   },
   9914020: {
     id: 9914020,
     icon: '14020',
-    eq_reload: [6, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+    eq_reload: [
+      6, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
     rarity: 4,
     tech: 0,
     limit: 40203,
@@ -2396,7 +2447,8 @@ const sp_weapon_data = {
   9914060: {
     id: 9914060,
     icon: '14060',
-    eq_reload: [6, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+    eq_reload: [
+      6, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
     rarity: 4,
     tech: 0,
     limit: 20208,
@@ -2422,20 +2474,22 @@ const sp_weapon_data = {
   9914100: {
     id: 9914100,
     icon: '14100',
-    eq_reload: [6, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+    eq_reload: [
+      6, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
     rarity: 4,
     tech: 0,
     limit: 10316,
     type: 4,
     jp_name: 'エースの一枚',
     cn_name: '一张王牌',
-    en_name: 'The Ace\u0027s Card',
-    tw_name: 'The Ace\u0027s Card'
+    en_name: "The Ace's Card",
+    tw_name: "The Ace's Card"
   },
   9914120: {
     id: 9914120,
     icon: '14120',
-    eq_reload: [8, 9, 10, 11, 12, 14, 15, 16, 17, 18, 20],
+    eq_reload: [
+      8, 9, 10, 11, 12, 14, 15, 16, 17, 18, 20],
     rarity: 4,
     tech: 0,
     limit: 70501,
@@ -2444,6 +2498,72 @@ const sp_weapon_data = {
     cn_name: '属于夜晚的余兴',
     en_name: 'Yesterday Or the Night Before That',
     tw_name: 'Yesterday Or the Night Before That'
+  },
+  9914140: {
+    id: 9914140,
+    icon: '14140',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    limit: 10213,
+    type: 2,
+    jp_name: 'ラッキールー',
+    cn_name: '“Lucky Lou”',
+    en_name: 'Lucky Lou',
+    tw_name: 'Lucky Lou'
+  },
+  9914160: {
+    id: 9914160,
+    icon: '14160',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    limit: 20502,
+    type: 6,
+    jp_name: 'オールドレディの王剣',
+    cn_name: '老女士的王家之剑',
+    en_name: "Old Lady's Royal Sword",
+    tw_name: "Old Lady's Royal Sword"
+  },
+  9914180: {
+    id: 9914180,
+    icon: '14180',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    limit: 20116,
+    type: 1,
+    jp_name: '堅くて柔らかい',
+    cn_name: '坚毅而温柔',
+    en_name: 'Hard and Soft',
+    tw_name: 'Hard and Soft'
+  },
+  9914200: {
+    id: 9914200,
+    icon: '14200',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    limit: 30314,
+    type: 4,
+    jp_name: '岩清水仙龍真言鋒',
+    cn_name: '岩清水仙龙真言锋',
+    en_name: "Hermit Dragon of Iwashimizu's Shingon Blade",
+    tw_name: "Hermit Dragon of Iwashimizu's Shingon Blade"
+  },
+  9914220: {
+    id: 9914220,
+    icon: '14220',
+    eq_reload: [
+      6, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+    rarity: 4,
+    tech: 0,
+    limit: 40703,
+    type: 7,
+    jp_name: '軽晷針白兵儀典艤装LS',
+    cn_name: '轻冕针近战仪式舰装LS',
+    en_name: "The Punctualist's Ceremonial Needle",
+    tw_name: "The Punctualist's Ceremonial Needle"
   },
   9914240: {
     id: 9914240,
@@ -2471,75 +2591,11 @@ const sp_weapon_data = {
     en_name: 'Dead Scythe',
     tw_name: 'Dead Scythe'
   },
-  9914220: {
-    id: 9914220,
-    icon: '14220',
-    eq_reload: [6, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
-    rarity: 4,
-    tech: 0,
-    limit: 40703,
-    type: 7,
-    jp_name: '軽晷針白兵儀典艤装LS',
-    cn_name: '轻冕针近战仪式舰装LS',
-    en_name: 'The Punctualist\u0027s Ceremonial Needle',
-    tw_name: 'The Punctualist\u0027s Ceremonial Needle'
-  },
-  9914200: {
-    id: 9914200,
-    icon: '14200',
-    eq_reload: [],
-    rarity: 4,
-    tech: 0,
-    limit: 30314,
-    type: 4,
-    jp_name: '岩清水仙龍真言鋒',
-    cn_name: '岩清水仙龙真言锋',
-    en_name: 'Hermit Dragon of Iwashimizu\u0027s Shingon Blade',
-    tw_name: 'Hermit Dragon of Iwashimizu\u0027s Shingon Blade'
-  },
-  9914160: {
-    id: 9914160,
-    icon: '14160',
-    eq_reload: [],
-    rarity: 4,
-    tech: 0,
-    limit: 20502,
-    type: 6,
-    jp_name: 'オールドレディの王剣',
-    cn_name: '老女士的王家之剑',
-    en_name: 'Old Lady\u0027s Royal Sword',
-    tw_name: 'Old Lady\u0027s Royal Sword'
-  },
-  9914140: {
-    id: 9914140,
-    icon: '14140',
-    eq_reload: [],
-    rarity: 4,
-    tech: 0,
-    limit: 10213,
-    type: 2,
-    jp_name: 'ラッキールー',
-    cn_name: '“Lucky Lou”',
-    en_name: 'Lucky Lou',
-    tw_name: 'Lucky Lou'
-  },
-  9914180: {
-    id: 9914180,
-    icon: '14180',
-    eq_reload: [],
-    rarity: 4,
-    tech: 0,
-    limit: 20116,
-    type: 1,
-    jp_name: '堅くて柔らかい',
-    cn_name: '坚毅而温柔',
-    en_name: 'Hard and Soft',
-    tw_name: 'Hard and Soft'
-  },
   9914280: {
     id: 9914280,
     icon: '14280',
-    eq_reload: [6, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+    eq_reload: [
+      6, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
     rarity: 4,
     tech: 0,
     limit: 30705,
@@ -2578,7 +2634,8 @@ const sp_weapon_data = {
   9914340: {
     id: 9914340,
     icon: '14340',
-    eq_reload: [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+    eq_reload: [
+      10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
     rarity: 4,
     tech: 0,
     limit: 1130002,
@@ -2591,7 +2648,8 @@ const sp_weapon_data = {
   9914360: {
     id: 9914360,
     icon: '14360',
-    eq_reload: [6, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+    eq_reload: [
+      6, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
     rarity: 4,
     tech: 0,
     limit: 1130003,
@@ -2614,18 +2672,18 @@ const sp_weapon_data = {
     en_name: 'Hellion Mantis',
     tw_name: 'Hellion Mantis'
   },
-  9914440: {
-    id: 9914440,
-    icon: '14440',
-    eq_reload: [6, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+  9914400: {
+    id: 9914400,
+    icon: '14400',
+    eq_reload: [],
     rarity: 4,
     tech: 0,
-    limit: 40301,
-    type: 4,
-    jp_name: 'tunken der Liebe',
-    cn_name: 'tunken der Liebe',
-    en_name: 'Tunken der Liebe',
-    tw_name: 'Tunken der Liebe'
+    limit: 10520,
+    type: 6,
+    jp_name: '幸運をもたらす錨',
+    cn_name: '锚定幸运',
+    en_name: 'Anchor of Fortune',
+    tw_name: 'Anchor of Fortune'
   },
   9914420: {
     id: 9914420,
@@ -2639,6 +2697,20 @@ const sp_weapon_data = {
     cn_name: '探索者的证明',
     en_name: "Pursuer's Proof",
     tw_name: "Pursuer's Proof"
+  },
+  9914440: {
+    id: 9914440,
+    icon: '14440',
+    eq_reload: [
+      6, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+    rarity: 4,
+    tech: 0,
+    limit: 40301,
+    type: 4,
+    jp_name: 'tunken der Liebe',
+    cn_name: 'tunken der Liebe',
+    en_name: 'Tunken der Liebe',
+    tw_name: 'Tunken der Liebe'
   },
   9914460: {
     id: 9914460,
@@ -2656,7 +2728,8 @@ const sp_weapon_data = {
   9914480: {
     id: 9914480,
     icon: '14480',
-    eq_reload: [6, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+    eq_reload: [
+      6, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
     rarity: 4,
     tech: 0,
     limit: 10705,
@@ -2705,6 +2778,19 @@ const sp_weapon_data = {
     en_name: "Monarch's Pledge",
     tw_name: "Monarch's Pledge"
   },
+  9914560: {
+    id: 9914560,
+    icon: '14560',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    limit: 30307,
+    type: 4,
+    jp_name: '風紀、守るべし！',
+    cn_name: '禁止扰乱风纪！',
+    en_name: 'Protector of Order',
+    tw_name: 'Protector of Order'
+  },
   9914580: {
     id: 9914580,
     icon: '14580',
@@ -2730,32 +2816,6 @@ const sp_weapon_data = {
     cn_name: '精灵正义女神',
     en_name: "Alf's Justitia",
     tw_name: "Alf's Justitia"
-  },
-  9914560: {
-    id: 9914560,
-    icon: '14560',
-    eq_reload: [],
-    rarity: 4,
-    tech: 0,
-    limit: 30307,
-    type: 4,
-    jp_name: '風紀、守るべし！',
-    cn_name: '禁止扰乱风纪！',
-    en_name: 'Protector of Order',
-    tw_name: 'Protector of Order'
-  },
-  9914400: {
-    id: 9914400,
-    icon: '14400',
-    eq_reload: [],
-    rarity: 4,
-    tech: 0,
-    limit: 10520,
-    type: 6,
-    jp_name: '幸運をもたらす錨',
-    cn_name: '锚定幸运',
-    en_name: 'Anchor of Fortune',
-    tw_name: 'Anchor of Fortune'
   },
   9914620: {
     id: 9914620,
@@ -2812,7 +2872,8 @@ const sp_weapon_data = {
   9914700: {
     id: 9914700,
     icon: '14700',
-    eq_reload: [1, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    eq_reload: [
+      1, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
     rarity: 4,
     tech: 0,
     limit: 960016,
@@ -2821,97 +2882,6 @@ const sp_weapon_data = {
     cn_name: '冒险者之杖',
     en_name: "Adventure's Staff",
     tw_name: "Adventure's Staff"
-  },
-  9914860: {
-    id: 9914860,
-    icon: '14860',
-    eq_reload: [],
-    rarity: 4,
-    tech: 0,
-    limit: 1150006,
-    type: 2,
-    jp_name: '颶風騎士（ラファエル）',
-    cn_name: '飓风骑士',
-    en_name: 'Raphael',
-    tw_name: 'Raphael'
-  },
-  9914780: {
-    id: 9914780,
-    icon: '14780',
-    eq_reload: [6, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
-    rarity: 4,
-    tech: 0,
-    limit: 1150003,
-    type: 6,
-    jp_name: '灼爛殲鬼（カマエル）',
-    cn_name: '灼烂歼鬼',
-    en_name: 'Camael',
-    tw_name: 'Camael'
-  },
-  9914820: {
-    id: 9914820,
-    icon: '14820',
-    eq_reload: [],
-    rarity: 4,
-    tech: 0,
-    limit: 1150005,
-    type: 2,
-    jp_name: '刻々帝（ザフキエル）',
-    cn_name: '刻刻帝',
-    en_name: 'Zafkiel',
-    tw_name: 'Zafkiel'
-  },
-  9914800: {
-    id: 9914800,
-    icon: '14800',
-    eq_reload: [],
-    rarity: 4,
-    tech: 0,
-    limit: 1150002,
-    type: 7,
-    jp_name: '絶滅天使（メタトロン）',
-    cn_name: '绝灭天使',
-    en_name: 'Metatron',
-    tw_name: 'Metatron'
-  },
-  9914760: {
-    id: 9914760,
-    icon: '14760',
-    eq_reload: [],
-    rarity: 4,
-    tech: 0,
-    limit: 1150001,
-    type: 4,
-    jp_name: '鏖殺公（サンダルフォン）',
-    cn_name: '鏖杀公',
-    en_name: 'Sandalphon',
-    tw_name: 'Sandalphon'
-  },
-  9914840: {
-    id: 9914840,
-    icon: '14840',
-    eq_reload: [9, 10, 10, 11, 11, 12, 12, 13, 13, 14, 15],
-    rarity: 4,
-    tech: 0,
-    limit: 1150004,
-    type: 7,
-    jp_name: '氷結傀儡（ザドキエル）',
-    cn_name: '冰结傀儡',
-    en_name: 'Zadkiel',
-    tw_name: 'Zadkiel'
-  },
-  9914740: {
-    id: 9914740,
-    icon: '14740',
-    eq_reload: [1, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
-    rarity: 4,
-    tech: 0,
-    limit: 10722,
-    type: 7,
-    jp_name: '一射必中',
-    cn_name: '正中靶心',
-    en_name: 'Going for the Bullseye',
-    tw_name: 'Going for the Bullseye'
   },
   9914720: {
     id: 9914720,
@@ -2926,10 +2896,105 @@ const sp_weapon_data = {
     en_name: 'Alarmtauchen!',
     tw_name: 'Alarmtauchen!'
   },
+  9914740: {
+    id: 9914740,
+    icon: '14740',
+    eq_reload: [
+      1, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    rarity: 4,
+    tech: 0,
+    limit: 10722,
+    type: 7,
+    jp_name: '一射必中',
+    cn_name: '正中靶心',
+    en_name: 'Going for the Bullseye',
+    tw_name: 'Going for the Bullseye'
+  },
+  9914760: {
+    id: 9914760,
+    icon: '14760',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    limit: 1150001,
+    type: 4,
+    jp_name: '鏖殺公（サンダルフォン）',
+    cn_name: '鏖杀公',
+    en_name: 'Sandalphon',
+    tw_name: 'Sandalphon'
+  },
+  9914780: {
+    id: 9914780,
+    icon: '14780',
+    eq_reload: [
+      6, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+    rarity: 4,
+    tech: 0,
+    limit: 1150003,
+    type: 6,
+    jp_name: '灼爛殲鬼（カマエル）',
+    cn_name: '灼烂歼鬼',
+    en_name: 'Camael',
+    tw_name: 'Camael'
+  },
+  9914800: {
+    id: 9914800,
+    icon: '14800',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    limit: 1150002,
+    type: 7,
+    jp_name: '絶滅天使（メタトロン）',
+    cn_name: '绝灭天使',
+    en_name: 'Metatron',
+    tw_name: 'Metatron'
+  },
+  9914820: {
+    id: 9914820,
+    icon: '14820',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    limit: 1150005,
+    type: 2,
+    jp_name: '刻々帝（ザフキエル）',
+    cn_name: '刻刻帝',
+    en_name: 'Zafkiel',
+    tw_name: 'Zafkiel'
+  },
+  9914840: {
+    id: 9914840,
+    icon: '14840',
+    eq_reload: [
+      9, 10, 10, 11, 11, 12, 12, 13, 13, 14, 15],
+    rarity: 4,
+    tech: 0,
+    limit: 1150004,
+    type: 7,
+    jp_name: '氷結傀儡（ザドキエル）',
+    cn_name: '冰结傀儡',
+    en_name: 'Zadkiel',
+    tw_name: 'Zadkiel'
+  },
+  9914860: {
+    id: 9914860,
+    icon: '14860',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    limit: 1150006,
+    type: 2,
+    jp_name: '颶風騎士（ラファエル）',
+    cn_name: '飓风骑士',
+    en_name: 'Raphael',
+    tw_name: 'Raphael'
+  },
   9914880: {
     id: 9914880,
     icon: '14880',
-    eq_reload: [6, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+    eq_reload: [
+      6, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
     rarity: 4,
     tech: 0,
     limit: 20705,
@@ -3004,6 +3069,7 @@ const sp_weapon_data = {
     en_name: 'Claw and Ribbon',
     tw_name: 'Claw and Ribbon'
   },
+
   9915000: {
     id: 9915000,
     icon: '15000',
@@ -3027,8 +3093,8 @@ const sp_weapon_data = {
     type: 6,
     jp_name: 'ジョージアビーム！',
     cn_name: '佐治亚光线！',
-    en_name: "Georgia Beam!",
-    tw_name: "Georgia Beam!"
+    en_name: 'Georgia Beam!',
+    tw_name: 'Georgia Beam!'
   },
   9915040: {
     id: 9915040,
@@ -3046,41 +3112,44 @@ const sp_weapon_data = {
   9915060: {
     id: 9915060,
     icon: '15060',
-    eq_reload: [20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30],
+    eq_reload: [
+      20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30],
     rarity: 4,
     tech: 0,
     limit: 20227,
     type: 2,
     jp_name: 'レディメイドステップ',
     cn_name: '淑女进阶的步履',
-    en_name: "The Steps to Becoming a Lady",
-    tw_name: "The Steps to Becoming a Lady"
+    en_name: 'The Steps to Becoming a Lady',
+    tw_name: 'The Steps to Becoming a Lady'
   },
   9915080: {
     id: 9915080,
     icon: '15080',
-    eq_reload: [10, 10, 10, 11, 11, 12, 12, 13, 13, 14, 15],
+    eq_reload: [
+      10, 10, 10, 11, 11, 12, 12, 13, 13, 14, 15],
     rarity: 4,
     tech: 0,
     limit: 99901,
     type: 6,
     jp_name: '理力機械の杖',
     cn_name: '机械与理性之杖',
-    en_name: "Staff of Machinery & Logic",
-    tw_name: "Staff of Machinery & Logic"
+    en_name: 'Staff of Machinery & Logic',
+    tw_name: 'Staff of Machinery & Logic'
   },
   9915100: {
     id: 9915100,
     icon: '15100',
-    eq_reload: [1, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    eq_reload: [
+      1, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
     rarity: 4,
     tech: 0,
     limit: 30110,
     type: 1,
     jp_name: 'ヨウカイ=アンデッド',
     cn_name: '不死的鬼怪',
-    en_name: "Undying Demon",
-    tw_name: "Undying Demon"
+    en_name: 'Undying Demon',
+    tw_name: 'Undying Demon'
   },
   9915120: {
     id: 9915120,
@@ -3092,8 +3161,8 @@ const sp_weapon_data = {
     type: 1,
     jp_name: '満点ツヴィリンゲ',
     cn_name: '生物型双生舰装',
-    en_name: "Twins of a Rigging",
-    tw_name: "Twins of a Rigging"
+    en_name: 'Twins of a Rigging',
+    tw_name: 'Twins of a Rigging'
   },
   9915140: {
     id: 9915140,
@@ -3105,7 +3174,7 @@ const sp_weapon_data = {
     type: 1,
     jp_name: '雪玉カルテット',
     cn_name: '雪球三重奏',
-    en_name: "Snowball Trio",
-    tw_name: "Snowball Trio"
+    en_name: 'Snowball Trio',
+    tw_name: 'Snowball Trio'
   }
-}
+};
