@@ -3176,5 +3176,31 @@ const sp_weapon_data = {
     cn_name: '雪球三重奏',
     en_name: 'Snowball Trio',
     tw_name: 'Snowball Trio'
+  },
+  9915160: {
+    id: 9915160,
+    icon: '15160',
+    eq_reload: [6, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+    rarity: 4,
+    tech: 0,
+    limit: 10226,
+    type: 2,
+    jp_name: 'ナノテクガジェットガン',
+    cn_name: '纳米技术掌心炮',
+    en_name: 'Nanotech Repulsor',
+    tw_name: 'Nanotech Repulsor'
+  },
+  9915180: {
+    id: 9915180,
+    icon: '15180',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    limit: 20126,
+    type: 1,
+    jp_name: 'か弱いウサバッグ',
+    cn_name: '小兔叽挎包',
+    en_name: 'Totally Helpless Bunny Pouch',
+    tw_name: 'Totally Helpless Bunny Pouch'
   }
 };
