@@ -3202,5 +3202,83 @@ const sp_weapon_data = {
     cn_name: '小兔叽挎包',
     en_name: 'Totally Helpless Bunny Pouch',
     tw_name: 'Totally Helpless Bunny Pouch'
+  },
+  9915200: {
+    id: 9915200,
+    icon: '15200',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    limit: 1060010,
+    type: 7,
+    jp_name: 'シュトーレン',
+    cn_name: '史多伦面包',
+    en_name: 'Stollen',
+    tw_name: 'Stollen'
+  },
+  9915220: {
+    id: 9915220,
+    icon: '15220',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    limit: 1060011,
+    type: 6,
+    jp_name: 'ししゃもの天ぷら',
+    cn_name: '柳叶鱼天妇罗',
+    en_name: 'Shishamo Tempura',
+    tw_name: 'Shishamo Tempura'
+  },
+  9915240: {
+    id: 9915240,
+    icon: '15240',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    limit: 1060012,
+    type: 4,
+    jp_name: 'チリクラブ',
+    cn_name: '辣椒蟹',
+    en_name: 'Chili Crab',
+    tw_name: 'Chili Crab'
+  },
+  9915260: {
+    id: 9915260,
+    icon: '15260',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    limit: 1060013,
+    type: 1,
+    jp_name: 'カップ麺',
+    cn_name: '杯面',
+    en_name: 'Cup Ramen',
+    tw_name: 'Cup Ramen'
+  },
+  9915280: {
+    id: 9915280,
+    icon: '15280',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    limit: 1060014,
+    type: 8,
+    jp_name: 'ハンバーガー',
+    cn_name: '汉堡',
+    en_name: 'Hamburger',
+    tw_name: 'Hamburger'
+  },
+  9915300: {
+    id: 9915300,
+    icon: '15300',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    limit: 1060015,
+    type: 2,
+    jp_name: 'ハンバーガー',
+    cn_name: '抹茶冰淇淋',
+    en_name: 'Matcha Ice Cream',
+    tw_name: 'Matcha Ice Cream'
   }
 };
