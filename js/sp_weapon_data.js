@@ -3280,5 +3280,31 @@ const sp_weapon_data = {
     cn_name: '抹茶冰淇淋',
     en_name: 'Matcha Ice Cream',
     tw_name: 'Matcha Ice Cream'
+  },
+  9915320: {
+    id: 9915320,
+    icon: '15320',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    limit: 70204,
+    type: 2,
+    jp_name: '崇高と栄誉の刃',
+    cn_name: '荣誉与崇高之剑',
+    en_name: "Blade of Nobility and Honor",
+    tw_name: "Blade of Nobility and Honor"
+  },
+  9915340: {
+    id: 9915340,
+    icon: '15340',
+    eq_reload: [14, 15, 15, 16, 16, 17, 17, 18, 18, 19, 20],
+    rarity: 4,
+    tech: 0,
+    limit: 20113,
+    type: 1,
+    jp_name: 'スーパーアーツリボルバー',
+    cn_name: '王牌的决胜左轮',
+    en_name: "Ace's Decisive Revolver",
+    tw_name: "Ace's Decisive Revolver"
   }
 };
