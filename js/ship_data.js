@@ -12176,6 +12176,32 @@ const ship_data = {
     reload: [57.0, 400.0, 0.0, 43.0, 0.0]
   },
 
+  305170: {
+    nationality: 3,
+    type: 5,
+    base_list: [3, 3, 1],
+    id: 305174,
+    skin_id: 305170,
+    english_name: 'IJN Musashi',
+    star: 5,
+    rarity: 4,
+    retro: 0,
+    uni_id: '305170',
+    painting: '734_musashichan',
+    jp_name: '武蔵ちゃん',
+    en_name: 'Musashi-chan',
+    cn_name: '小武藏',
+    tw_name: 'Musashi-chan',
+    equip_1: [4],
+    equip_2: [1, 2],
+    equip_3: [6, 21],
+    equip_4: [10],
+    equip_5: [10],
+    eq_p: [1.55, 2.2, 1.0],
+    reload: [53.0, 372.0, 0.0, 40.0, 0.0],
+    date: '2026年04月30日'
+  },
+
   306010: {
     nationality: 3,
     type: 6,
