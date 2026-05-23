@@ -14991,5 +14991,36 @@ const equip_data = {
     en_name: 'Clover of Happiness',
     equip_limit: 151120,
     cd: []
+  },
+  151140: {
+    nationality: 9,
+    type: 10,
+    rarity: 4,
+    tech: 0,
+    id: 151140,
+    icon: '151140',
+    ship_type_forbidden: [],
+    jp_name: '審判号起動キー',
+    cn_name: '「审判号」启动钥匙',
+    tw_name: "Key to the Tribunal's Hand",
+    en_name: "Key to the Tribunal's Hand",
+    equip_limit: 151140,
+    cd: []
+  },
+  151160: {
+    nationality: 4,
+    type: 10,
+    rarity: 5,
+    tech: 3,
+    id: 151160,
+    icon: '800',
+    ship_type_forbidden: [
+      1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 18, 19, 20, 21, 22, 23, 24],
+    jp_name: '強化耐圧殻設計案',
+    cn_name: '艇壳改良设计案',
+    tw_name: '艇殼改良設計案',
+    en_name: 'Pressure-Resistant Hull Design',
+    equip_limit: 800,
+    cd: []
   }
 };
