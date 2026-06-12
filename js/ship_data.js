@@ -11488,7 +11488,7 @@ const ship_data = {
     jp_name: '雲仙',
     en_name: 'Unzen',
     cn_name: '云仙',
-    tw_name: 'Unzen',
+    tw_name: '雲仙',
     equip_1: [3],
     equip_2: [5],
     equip_3: [6],
@@ -11524,6 +11524,31 @@ const ship_data = {
       0.40000000000000002
     ],
     reload: [69.0, 478.0, 0.0, 51.0, 0.0]
+  },
+  303210: {
+    nationality: 3,
+    type: 3,
+    base_list: [2, 2, 1],
+    id: 303214,
+    skin_id: 303210,
+    english_name: 'IJN Unzen !TWnoData',
+    star: 5,
+    rarity: 4,
+    retro: 0,
+    uni_id: '303210',
+    painting: '740_unzenchan',
+    jp_name: '雲仙ちゃん',
+    en_name: 'Unzen-chan',
+    cn_name: '小云仙',
+    tw_name: 'Unzen-chan',
+    equip_1: [3],
+    equip_2: [5],
+    equip_3: [6],
+    equip_4: [10],
+    equip_5: [10],
+    eq_p: [1.1, 1.3, 1.2],
+    reload: [64, 445, 0, 48, 0],
+    date: '2026年05月28日'
   },
 
   304010: {
@@ -13499,13 +13524,63 @@ const ship_data = {
     eq_p: [1.25, 1.4, 0.75],
     reload: [77.0, 534.0, 0.0, 57.0, 0.0]
   },
+  401140: {
+    nationality: 4,
+    type: 1,
+    base_list: [1, 2, 1],
+    id: 401144,
+    skin_id: 401140,
+    english_name: 'KMS Friedrich Ihn',
+    star: 5,
+    rarity: 4,
+    retro: 0,
+    uni_id: '401140',
+    painting: '738_z14',
+    jp_name: 'Z14',
+    en_name: 'Z14',
+    cn_name: 'Z14',
+    tw_name: 'Z14',
+    equip_1: [1],
+    equip_2: [5],
+    equip_3: [6],
+    equip_4: [10, 14],
+    equip_5: [10, 14],
+    eq_p: [1.25, 1.4, 0.75],
+    reload: [77.0, 534.0, 0.0, 57.0, 0.0],
+    date: '2026年05月20日'
+  },
+  401150: {
+    nationality: 4,
+    type: 1,
+    base_list: [1, 2, 1],
+    id: 401154,
+    skin_id: 401150,
+    english_name: 'KMS Erich Steinbrinck',
+    star: 5,
+    rarity: 4,
+    retro: 0,
+    uni_id: '401150',
+    painting: '739_z15',
+    jp_name: 'Z15',
+    en_name: 'Z15',
+    cn_name: 'Z15',
+    tw_name: 'Z15',
+    equip_1: [1],
+    equip_2: [5],
+    equip_3: [6],
+    equip_4: [10, 14],
+    equip_5: [10, 14],
+    eq_p: [1.25, 1.4, 0.75],
+    reload: [78.0, 541.0, 0.0, 58.0, 0.0],
+    date: '2026年05月20日'
+  },
   401160: {
     nationality: 4,
     type: 1,
     base_list: [1, 2, 1],
     id: 401164,
     skin_id: 401160,
-    english_name: 'KMS Friedrich Eckoldt !TWnoData',
+    english_name: 'KMS Friedrich Eckoldt',
     star: 5,
     rarity: 4,
     retro: 0,
@@ -13514,7 +13589,7 @@ const ship_data = {
     jp_name: 'Z16',
     en_name: 'Z16',
     cn_name: 'Z16',
-    tw_name: 'Z16*',
+    tw_name: 'Z16',
     equip_1: [1],
     equip_2: [5],
     equip_3: [6],
@@ -14281,7 +14356,7 @@ const ship_data = {
     english_name: 'KMS Admiral Hipper',
     star: 5,
     rarity: 4,
-    retro: 0,
+    retro: 1,
     uni_id: '403010',
     painting: 'xipeierhaijunshangjiang',
     jp_name: 'アドミラル・ヒッパー',
@@ -14296,6 +14371,31 @@ const ship_data = {
     eq_p: [1.3, 1.6, 1],
     reload: [65, 450, 0, 48, 0],
     date: '2017年08月02日'
+  },
+  403019: {
+    nationality: 4,
+    type: 3,
+    base_list: [2, 2, 1],
+    id: 403014,
+    skin_id: 403019,
+    english_name: 'KMS Admiral Hipper',
+    star: 5,
+    rarity: 5,
+    retro: 0,
+    uni_id: '403019',
+    painting: '3242_ahipper_kai',
+    jp_name: 'アドミラル・ヒッパー改',
+    en_name: 'Admiral Hipper (Retrofit)',
+    cn_name: '希佩尔海军上将.改',
+    tw_name: '希佩爾將軍改',
+    equip_1: [3],
+    equip_2: [5],
+    equip_3: [6],
+    equip_4: [10],
+    equip_5: [10],
+    eq_p: [1.2, 1.75, 1],
+    reload: [65, 450, 0, 48, 15],
+    date: '2026年05月20日'
   },
   403020: {
     nationality: 4,
@@ -14644,6 +14744,31 @@ const ship_data = {
     eq_p: [1.2, 1.1, 1.1, 0.45],
     reload: [51.0, 356.0, 0.0, 38.0, 0.0]
   },
+  403170: {
+    nationality: 4,
+    type: 3,
+    base_list: [1, 2, 1],
+    id: 403174,
+    skin_id: 403170,
+    english_name: 'KMS Prinz Moritz',
+    star: 6,
+    rarity: 5,
+    retro: 0,
+    uni_id: '403170',
+    painting: '737_prinz_moritz',
+    jp_name: 'プリンツ・モーリッツ',
+    en_name: 'Prinz Moritz',
+    cn_name: '莫里茨亲王',
+    tw_name: 'Prinz Moritz',
+    equip_1: [3, 11],
+    equip_2: [5],
+    equip_3: [6],
+    equip_4: [10],
+    equip_5: [10],
+    eq_p: [1.55, 1.35, 1],
+    reload: [67, 467, 0, 50, 0],
+    date: '2026年05月20日'
+  },
 
   404010: {
     nationality: 4,
@@ -14967,6 +15092,31 @@ const ship_data = {
     equip_5: [10],
     eq_p: [1.45, 2.0, 0.9],
     reload: [53.0, 372.0, 0.0, 40.0, 0.0]
+  },
+  405070: {
+    nationality: 4,
+    type: 5,
+    base_list: [3, 3, 1],
+    id: 405074,
+    skin_id: 405070,
+    english_name: 'KMS Götz von Berlichingen',
+    star: 6,
+    rarity: 6,
+    retro: 0,
+    uni_id: '405070',
+    painting: '735_gvberli',
+    jp_name: 'ゲッツ・フォン・ベルリヒンゲン',
+    en_name: 'Götz von Berlichingen',
+    cn_name: '葛兹·冯·伯利欣根',
+    tw_name: 'Götz von Berlichingen',
+    equip_1: [4],
+    equip_2: [1, 2],
+    equip_3: [6, 21],
+    equip_4: [10],
+    equip_5: [10],
+    eq_p: [1.6, 2.1, 0.9],
+    reload: [65, 454, 0, 49, 0],
+    date: '2026年05月20日'
   },
 
   406010: {
@@ -15492,6 +15642,31 @@ const ship_data = {
     equip_5: [10],
     eq_p: [1.25, 1.2, 0.85],
     reload: [41.0, 282.0, 0.0, 30.0, 0.0]
+  },
+  408150: {
+    nationality: 4,
+    type: 8,
+    base_list: [2, 2, 1],
+    id: 408154,
+    skin_id: 408150,
+    english_name: 'KMS U-2501',
+    star: 6,
+    rarity: 6,
+    retro: 0,
+    uni_id: '408150',
+    painting: '736_u2501',
+    jp_name: 'U-2501',
+    en_name: 'U-2501',
+    cn_name: 'U-2501',
+    tw_name: 'U-2501',
+    equip_1: [13],
+    equip_2: [13],
+    equip_3: [10],
+    equip_4: [10],
+    equip_5: [10],
+    eq_p: [1.45, 1.35, 0.85],
+    reload: [43.0, 300.0, 0.0, 32.0, 0.0],
+    date: '2026年05月20日'
   },
 
   499010: {
@@ -19913,7 +20088,7 @@ const ship_data = {
     jp_name: 'フランドル',
     en_name: 'Flandre',
     cn_name: '弗兰德尔',
-    tw_name: 'Flandre',
+    tw_name: '法蘭德斯',
     equip_1: [4],
     equip_2: [1, 2],
     equip_3: [6, 21],
@@ -19940,14 +20115,15 @@ const ship_data = {
     jp_name: 'エヴァーツェン',
     en_name: 'Evertsen',
     cn_name: '埃佛森',
-    tw_name: 'Evertsen',
+    tw_name: '埃佛森',
     equip_1: [1],
     equip_2: [5],
     equip_3: [6],
     equip_4: [10, 14],
     equip_5: [10, 14],
     eq_p: [1.35, 1.25, 0.75],
-    reload: [77.0, 534.0, 0.0, 57.0, 0.0]
+    reload: [77.0, 534.0, 0.0, 57.0, 0.0],
+    date: '2025年04月24日'
   },
 
   1102010: {
@@ -19965,14 +20141,15 @@ const ship_data = {
     jp_name: 'デ・ゼーヴェン・プロヴィンシェン',
     en_name: 'De Zeven Provinciën',
     cn_name: '七省',
-    tw_name: 'De Zeven Provinciën',
+    tw_name: '七省',
     equip_1: [2],
     equip_2: [5, 6],
     equip_3: [6],
     equip_4: [10, 14],
     equip_5: [10, 14],
     eq_p: [1.3, 1.35, 1.2, 0.3],
-    reload: [78.0, 541.0, 0.0, 58.0, 0.0]
+    reload: [78.0, 541.0, 0.0, 58.0, 0.0],
+    date: '2025年04月24日'
   },
 
   1199010: {
@@ -19990,14 +20167,15 @@ const ship_data = {
     jp_name: 'ハウデン・リーウ',
     en_name: 'Gouden Leeuw',
     cn_name: '金狮',
-    tw_name: 'Gouden Leeuw',
+    tw_name: '金獅',
     equip_1: [3, 11],
     equip_2: [1],
     equip_3: [6],
     equip_4: [10],
     equip_5: [10],
     eq_p: [1.05, 0.55, 1.75],
-    reload: [66.0, 457.0, 0.0, 49.0, 0.0]
+    reload: [66.0, 457.0, 0.0, 49.0, 0.0],
+    date: '2025年07月10日'
   },
 
 
@@ -20041,14 +20219,15 @@ const ship_data = {
     jp_name: 'サン・マルチーニョ',
     en_name: 'São Martinho',
     cn_name: '圣马丁号',
-    tw_name: 'São Martinho',
+    tw_name: '聖馬丁號',
     equip_1: [4],
     equip_2: [1],
     equip_3: [1],
     equip_4: [10],
     equip_5: [10],
     eq_p: [1.1, 1.75, 1.75],
-    reload: [62.0, 429.0, 0.0, 46.0, 0.0]
+    reload: [62.0, 429.0, 0.0, 46.0, 0.0],
+    date: '2023年10月26日'
   },
   9600030: {
     nationality: 96,
@@ -20065,14 +20244,15 @@ const ship_data = {
     jp_name: 'ゴールデン・ハインド',
     en_name: 'Golden Hind',
     cn_name: '金鹿号',
-    tw_name: 'Golden Hind',
+    tw_name: '金鹿號',
     equip_1: [1],
     equip_2: [1],
     equip_3: [10],
     equip_4: [10],
     equip_5: [10],
     eq_p: [1.35, 1.35, 1.0],
-    reload: [62.0, 431.0, 0.0, 46.0, 0.0]
+    reload: [62.0, 431.0, 0.0, 46.0, 0.0],
+    date: '2023年10月26日'
   },
   9600040: {
     nationality: 96,
@@ -20089,14 +20269,15 @@ const ship_data = {
     jp_name: 'メアリー・セレスト',
     en_name: 'Mary Celeste',
     cn_name: '玛丽·西莱斯特号',
-    tw_name: 'Mary Celeste',
+    tw_name: '瑪麗·賽勒斯特號',
     equip_1: [1],
     equip_2: [1],
     equip_3: [10],
     equip_4: [10],
     equip_5: [10],
     eq_p: [1.25, 1.25, 1.0],
-    reload: [57.0, 400.0, 0.0, 43.0, 0.0]
+    reload: [57.0, 400.0, 0.0, 43.0, 0.0],
+    date: '2023年10月26日'
   },
   9600050: {
     nationality: 96,
@@ -20113,14 +20294,15 @@ const ship_data = {
     jp_name: 'ウィダー',
     en_name: 'Whydah',
     cn_name: '维达号',
-    tw_name: 'Whydah',
+    tw_name: '維達號',
     equip_1: [1],
     equip_2: [1],
     equip_3: [10],
     equip_4: [10],
     equip_5: [10],
     eq_p: [1.2, 1.15, 1.0],
-    reload: [69.0, 482.0, 0.0, 52.0, 0.0]
+    reload: [69.0, 482.0, 0.0, 52.0, 0.0],
+    date: '2023年10月26日'
   },
   9600060: {
     nationality: 96,
@@ -20137,14 +20319,15 @@ const ship_data = {
     jp_name: 'アドヴェンチャー・ギャレー',
     en_name: 'Adventure Galley',
     cn_name: '加里冒险号',
-    tw_name: 'Adventure Galley',
+    tw_name: '冒險加利號',
     equip_1: [1],
     equip_2: [1],
     equip_3: [10],
     equip_4: [10],
     equip_5: [10],
     eq_p: [1.3, 1.3, 1.0],
-    reload: [64.0, 445.0, 0.0, 48.0, 0.0]
+    reload: [64.0, 445.0, 0.0, 48.0, 0.0],
+    date: '2023年10月26日'
   },
   9600070: {
     nationality: 96,
@@ -20161,14 +20344,15 @@ const ship_data = {
     jp_name: 'ガンズウェイ',
     en_name: 'Ganj-i-Sawai',
     cn_name: '冈依沙瓦号 ',
-    tw_name: 'Ganj-i-Sawai',
+    tw_name: '岡依沙瓦號',
     equip_1: [4],
     equip_2: [1],
     equip_3: [1],
     equip_4: [10],
     equip_5: [10],
     eq_p: [1.1, 1.75, 1.75],
-    reload: [66.0, 462.0, 0.0, 50.0, 0.0]
+    reload: [66.0, 462.0, 0.0, 50.0, 0.0],
+    date: '2024年10月24日'
   },
   9600080: {
     nationality: 96,
@@ -20185,14 +20369,15 @@ const ship_data = {
     jp_name: 'ファンシー',
     en_name: 'Fancy',
     cn_name: '幻想号',
-    tw_name: 'Fancy',
+    tw_name: '幻想號',
     equip_1: [1],
     equip_2: [1],
     equip_3: [10],
     equip_4: [10],
     equip_5: [10],
     eq_p: [1.35, 1.35, 1.0],
-    reload: [66.0, 462.0, 0.0, 50.0, 0.0]
+    reload: [66.0, 462.0, 0.0, 50.0, 0.0],
+    date: '2024年10月24日'
   },
   9600090: {
     nationality: 96,
@@ -20209,14 +20394,15 @@ const ship_data = {
     jp_name: 'アミティ',
     en_name: 'Amity',
     cn_name: '和睦号',
-    tw_name: 'Amity',
+    tw_name: '和睦號',
     equip_1: [1],
     equip_2: [1],
     equip_3: [10],
     equip_4: [10],
     equip_5: [10],
     eq_p: [1.25, 1.25, 1.0],
-    reload: [58.0, 404.0, 0.0, 44.0, 0.0]
+    reload: [58.0, 404.0, 0.0, 44.0, 0.0],
+    date: '2024年10月24日'
   },
   9600100: {
     nationality: 96,
@@ -20233,14 +20419,15 @@ const ship_data = {
     jp_name: 'ポーツマウス・アドベンチャー',
     en_name: 'Portsmouth Adventure',
     cn_name: '朴茨茅斯冒险号',
-    tw_name: 'Portsmouth Adventure',
+    tw_name: '樸茨茅斯冒險號',
     equip_1: [1],
     equip_2: [1],
     equip_3: [10],
     equip_4: [10],
     equip_5: [10],
     eq_p: [1.3, 1.3, 1.0],
-    reload: [58.0, 406.0, 0.0, 44.0, 0.0]
+    reload: [58.0, 406.0, 0.0, 44.0, 0.0],
+    date: '2024年10月24日'
   },
   9600110: {
     nationality: 96,
@@ -20257,14 +20444,15 @@ const ship_data = {
     jp_name: 'ドルフィン',
     en_name: 'Dolphin',
     cn_name: '海豚号',
-    tw_name: 'Dolphin',
+    tw_name: '海豚號',
     equip_1: [1],
     equip_2: [1],
     equip_3: [10],
     equip_4: [10],
     equip_5: [10],
-    eq_p: [1.2, 1.1499999999999999, 1.0],
-    reload: [70.0, 490.0, 0.0, 53.0, 0.0]
+    eq_p: [1.2, 1.15, 1.0],
+    reload: [70.0, 490.0, 0.0, 53.0, 0.0],
+    date: '2024年10月24日'
   },
   9600120: {
     nationality: 96,
@@ -20281,14 +20469,15 @@ const ship_data = {
     jp_name: 'クイーン・アンズ・リベンジ',
     en_name: "Queen Anne's Revenge",
     cn_name: '安妮女王复仇号',
-    tw_name: "Queen Anne's Revenge",
+    tw_name: "安妮女王復仇號",
     equip_1: [4],
     equip_2: [1],
     equip_3: [1],
     equip_4: [10],
     equip_5: [10],
-    eq_p: [1.1499999999999999, 1.75, 1.75],
-    reload: [71.0, 492.0, 0.0, 53.0, 0.0]
+    eq_p: [1.15, 1.75, 1.75],
+    reload: [71.0, 492.0, 0.0, 53.0, 0.0],
+    date: '2025年10月23日'
   },
   9600130: {
     nationality: 96,
@@ -20305,14 +20494,15 @@ const ship_data = {
     jp_name: 'ライム',
     en_name: 'Lyme',
     cn_name: '莱姆号',
-    tw_name: 'Lyme',
+    tw_name: '萊姆號',
     equip_1: [1],
     equip_2: [1],
     equip_3: [10],
     equip_4: [10],
     equip_5: [10],
-    eq_p: [1.3500000000000001, 1.3500000000000001, 1.0],
-    reload: [66.0, 462.0, 0.0, 50.0, 0.0]
+    eq_p: [1.35, 1.35, 1.0],
+    reload: [66.0, 462.0, 0.0, 50.0, 0.0],
+    date: '2025年10月23日'
   },
   9600140: {
     nationality: 96,
@@ -20329,14 +20519,15 @@ const ship_data = {
     jp_name: 'パール',
     en_name: 'Pearl',
     cn_name: '珍珠号',
-    tw_name: 'Pearl',
+    tw_name: '珍珠號',
     equip_1: [4],
     equip_2: [1],
     equip_3: [1],
     equip_4: [10],
     equip_5: [10],
-    eq_p: [1.1000000000000001, 1.75, 1.75],
-    reload: [67.0, 463.0, 0.0, 50.0, 0.0]
+    eq_p: [1.1, 1.75, 1.75],
+    reload: [67.0, 463.0, 0.0, 50.0, 0.0],
+    date: '2025年10月23日'
   },
   9600150: {
     nationality: 96,
@@ -20353,14 +20544,15 @@ const ship_data = {
     jp_name: 'ロイヤル・ジェームズ',
     en_name: 'Royal James',
     cn_name: '皇家詹姆斯号',
-    tw_name: 'Royal James',
+    tw_name: '皇家詹姆斯號',
     equip_1: [1],
     equip_2: [1],
     equip_3: [10],
     equip_4: [10],
     equip_5: [10],
     eq_p: [1.25, 1.25, 1.0],
-    reload: [72.0, 503.0, 0.0, 54.0, 0.0]
+    reload: [72.0, 503.0, 0.0, 54.0, 0.0],
+    date: '2025年10月23日'
   },
   9600160: {
     nationality: 96,
@@ -20377,14 +20569,15 @@ const ship_data = {
     jp_name: 'アドベンチャー',
     en_name: 'Adventure',
     cn_name: '冒险号',
-    tw_name: 'Adventure',
+    tw_name: '冒險號',
     equip_1: [1],
     equip_2: [1],
     equip_3: [10],
     equip_4: [10],
     equip_5: [10],
-    eq_p: [1.2, 1.1499999999999999, 1.0],
-    reload: [67.0, 465.0, 0.0, 50.0, 0.0]
+    eq_p: [1.2, 1.15, 1.0],
+    reload: [67.0, 465.0, 0.0, 50.0, 0.0],
+    date: '2025年10月23日'
   },
 
 
@@ -20453,7 +20646,7 @@ const ship_data = {
     jp_name: '旗風(META)',
     en_name: 'Hatakaze META',
     cn_name: '旗风·META',
-    tw_name: 'Hatakaze META',
+    tw_name: '旗風·META',
     equip_1: [1],
     equip_2: [5],
     equip_3: [6],
@@ -20478,14 +20671,15 @@ const ship_data = {
     jp_name: 'キンバリー(META)',
     en_name: 'Kimberly META',
     cn_name: '金伯利·META',
-    tw_name: 'Kimberly META',
+    tw_name: '金伯利·META',
     equip_1: [1],
     equip_2: [5],
     equip_3: [6],
     equip_4: [10, 14],
     equip_5: [10, 14],
     eq_p: [1.2, 1.3, 1.3],
-    reload: [76.0, 527.0, 0.0, 57.0, 0.0]
+    reload: [76.0, 527.0, 0.0, 57.0, 0.0],
+    date: '2024年02月01日'
   },
   9701050: {
     nationality: 97,
@@ -20502,14 +20696,15 @@ const ship_data = {
     jp_name: 'ヴァンパイア(META)',
     en_name: 'Vampire META',
     cn_name: '吸血鬼·META',
-    tw_name: 'Vampire META',
+    tw_name: '吸血鬼·META',
     equip_1: [1],
     equip_2: [5],
     equip_3: [6],
     equip_4: [10, 14],
     equip_5: [10, 14],
     eq_p: [1.15, 1.45, 1.05],
-    reload: [75.0, 519.0, 0.0, 56.0, 0.0]
+    reload: [75.0, 519.0, 0.0, 56.0, 0.0],
+    date: '2024年04月01日'
   },
   9701060: {
     nationality: 97,
@@ -20526,14 +20721,15 @@ const ship_data = {
     jp_name: '霞(META)',
     en_name: 'Kasumi META',
     cn_name: '霞·META',
-    tw_name: 'Kasumi META',
+    tw_name: '霞·META',
     equip_1: [1],
     equip_2: [5],
     equip_3: [6],
     equip_4: [10, 14],
     equip_5: [10, 14],
     eq_p: [0.8, 1.55, 0.75],
-    reload: [81.0, 557.0, 0.0, 56.0, 0.0]
+    reload: [81.0, 557.0, 0.0, 56.0, 0.0],
+    date: '2024年08月01日'
   },
   9701070: {
     nationality: 97,
@@ -20550,14 +20746,15 @@ const ship_data = {
     jp_name: 'グレンヴィル(META)',
     en_name: 'Grenville META',
     cn_name: '格伦维尔·META',
-    tw_name: 'Grenville META',
+    tw_name: '格倫維爾·META',
     equip_1: [1],
     equip_2: [5],
     equip_3: [6],
     equip_4: [10, 14],
     equip_5: [10, 14],
     eq_p: [1.35, 1.3, 1.05],
-    reload: [77.0, 534.0, 0.0, 57, 0.0]
+    reload: [77.0, 534.0, 0.0, 57, 0.0],
+    date: '2025年06月01日'
   },
   9701080: {
     nationality: 97,
@@ -20574,14 +20771,15 @@ const ship_data = {
     jp_name: '江風(META)',
     en_name: 'Kawakaze META',
     cn_name: '江风·META',
-    tw_name: 'Kawakaze META',
+    tw_name: '江風·META',
     equip_1: [1],
     equip_2: [5],
     equip_3: [6],
     equip_4: [10, 14],
     equip_5: [10, 14],
     eq_p: [0.85, 1.55, 0.85],
-    reload: [80.0, 554.0, 0.0, 59, 0.0]
+    reload: [80.0, 554.0, 0.0, 59, 0.0],
+    date: '2025年06月05日'
   },
   9701090: {
     nationality: 97,
@@ -20598,14 +20796,15 @@ const ship_data = {
     jp_name: '夕立(META)',
     en_name: 'Yuudachi META',
     cn_name: '夕立·META',
-    tw_name: 'Yuudachi META',
+    tw_name: '夕立·META',
     equip_1: [1],
     equip_2: [5],
     equip_3: [6],
     equip_4: [10, 14],
     equip_5: [10, 14],
-    eq_p: [1.0, 1.55, 0.84999999999999998],
-    reload: [83.0, 577.0, 0.0, 62.0, 0.0]
+    eq_p: [1.0, 1.55, 0.85],
+    reload: [83.0, 577.0, 0.0, 62.0, 0.0],
+    date: '2025年09月04日'
   },
   9701110: {
     nationality: 97,
@@ -20622,7 +20821,7 @@ const ship_data = {
     jp_name: 'カラビニエーレ(META)',
     en_name: 'Carabiniere META',
     cn_name: '龙骑兵·META',
-    tw_name: 'Carabiniere META',
+    tw_name: '龍騎兵·META',
     equip_1: [1],
     equip_2: [5],
     equip_3: [6],
@@ -20689,7 +20888,7 @@ const ship_data = {
     base_list: [1, 2, 1],
     id: 9702034,
     skin_id: 9702030,
-    english_name: 'Sheffield.META !TWnoData',
+    english_name: 'Sheffield.META',
     star: 5,
     rarity: 4,
     retro: 0,
@@ -20698,7 +20897,7 @@ const ship_data = {
     jp_name: 'シェフィールド(META)',
     en_name: 'Sheffield META',
     cn_name: '谢菲尔德·META',
-    tw_name: '謝菲爾德·META*',
+    tw_name: '謝菲爾德·META',
     equip_1: [2],
     equip_2: [5],
     equip_3: [6],
@@ -20714,7 +20913,7 @@ const ship_data = {
     base_list: [1, 2, 1],
     id: 9702044,
     skin_id: 9702040,
-    english_name: 'La Galissonniere.META !TWnoData',
+    english_name: 'La Galissonniere.META',
     star: 5,
     rarity: 4,
     retro: 0,
@@ -20723,7 +20922,7 @@ const ship_data = {
     jp_name: 'ラ・ガリソニエール(META)',
     en_name: 'La Galissonnière META',
     cn_name: '拉·加利索尼埃·META',
-    tw_name: '拉·加利索尼埃·META*',
+    tw_name: '拉·加利索尼埃·META',
     equip_1: [2],
     equip_2: [5],
     equip_3: [6],
@@ -20739,7 +20938,7 @@ const ship_data = {
     base_list: [1, 2, 1],
     id: 9702054,
     skin_id: 9702050,
-    english_name: 'Jintsū.META !TWnoData',
+    english_name: 'Jintsū.META',
     star: 6,
     rarity: 5,
     retro: 0,
@@ -20748,7 +20947,7 @@ const ship_data = {
     jp_name: '神通(META)',
     en_name: 'Jintsuu META',
     cn_name: '神通·META',
-    tw_name: 'Jintsuu META*',
+    tw_name: '神通·META',
     equip_1: [2],
     equip_2: [5],
     equip_3: [6],
@@ -20773,14 +20972,15 @@ const ship_data = {
     jp_name: 'キーロフ(META)',
     en_name: 'Kirov META',
     cn_name: '基洛夫·META',
-    tw_name: 'Kirov META',
+    tw_name: '基洛夫·META',
     equip_1: [2],
     equip_2: [5],
     equip_3: [6],
     equip_4: [10, 14],
     equip_5: [10, 14],
     eq_p: [1.5, 1.35, 1.1],
-    reload: [69.0, 478.0, 0.0, 51, 0.0]
+    reload: [69.0, 478.0, 0.0, 51, 0.0],
+    date: '2023年12月07日'
   },
   9702070: {
     nationality: 97,
@@ -20797,14 +20997,15 @@ const ship_data = {
     jp_name: 'パーミャチ・メルクーリヤ(META)',
     en_name: "Pamiat' Merkuria META",
     cn_name: '水星纪念·META',
-    tw_name: "Pamiat' Merkuria META",
+    tw_name: "水星紀念·META",
     equip_1: [1],
     equip_2: [5],
     equip_3: [6],
     equip_4: [10, 14],
     equip_5: [10, 14],
     eq_p: [1.35, 1.3, 0.9, 0.3],
-    reload: [53.0, 368.0, 0.0, 40.0, 0.0]
+    reload: [53.0, 368.0, 0.0, 40.0, 0.0],
+    date: '2024年02月29日'
   },
   9702080: {
     nationality: 97,
@@ -20821,14 +21022,15 @@ const ship_data = {
     jp_name: 'ボイシ(META)',
     en_name: 'Boise META',
     cn_name: '博伊西·META',
-    tw_name: 'Boise META',
+    tw_name: '波夕·META',
     equip_1: [2],
     equip_2: [1],
     equip_3: [6],
     equip_4: [10, 14],
     equip_5: [10, 14],
-    eq_p: [1.3, 0.65000000000000002, 1.0],
-    reload: [69.0, 479.0, 0.0, 52.0, 0.0]
+    eq_p: [1.3, 0.65, 1.0],
+    reload: [69.0, 479.0, 0.0, 52.0, 0.0],
+    date: '2025年12月01日'
   },
   9702090: {
     nationality: 97,
@@ -20845,14 +21047,15 @@ const ship_data = {
     jp_name: 'クリーブランド(META)',
     en_name: 'Cleveland META',
     cn_name: '克利夫兰·META',
-    tw_name: 'Cleveland META',
+    tw_name: '克里夫蘭·META',
     equip_1: [2],
     equip_2: [1],
     equip_3: [6],
     equip_4: [10, 14],
     equip_5: [10, 14],
-    eq_p: [1.3, 0.69999999999999996, 1.2],
-    reload: [72.0, 498.0, 0.0, 53.0, 0.0]
+    eq_p: [1.3, 0.7, 1.2],
+    reload: [72.0, 498.0, 0.0, 53.0, 0.0],
+    date: '2025年12月18日'
   },
   9702100: {
     nationality: 97,
@@ -20860,7 +21063,7 @@ const ship_data = {
     base_list: [1, 2, 1],
     id: 9702104,
     skin_id: 9702100,
-    english_name: 'Köln.META',
+    english_name: 'Köln.META !TWnoData',
     star: 5,
     rarity: 4,
     retro: 0,
@@ -20885,7 +21088,7 @@ const ship_data = {
     base_list: [1, 2, 1],
     id: 9702114,
     skin_id: 9702110,
-    english_name: 'Regensburg.META',
+    english_name: 'Regensburg.META !TWnoData',
     star: 6,
     rarity: 5,
     retro: 0,
@@ -20903,6 +21106,31 @@ const ship_data = {
     eq_p: [1.45, 1.35, 1.2],
     reload: [71.0, 491.0, 0.0, 53.0, 0.0],
     date: '2026年03月12日'
+  },
+  9702120: {
+    nationality: 97,
+    type: 2,
+    base_list: [1, 2, 1],
+    id: 9702124,
+    skin_id: 9702120,
+    english_name: 'Königsberg.META !TWnoData',
+    star: 5,
+    rarity: 4,
+    retro: 0,
+    uni_id: '9702120',
+    painting: '30060_kenisiberg',
+    jp_name: 'ケーニヒスベルク(META)',
+    en_name: 'Königsberg META',
+    cn_name: '柯尼斯堡·META',
+    tw_name: '柯尼斯堡·META',
+    equip_1: [2],
+    equip_2: [5],
+    equip_3: [6],
+    equip_4: [10, 14],
+    equip_5: [10, 14],
+    eq_p: [1.2, 1.7, 1.3],
+    reload: [67, 466, 0, 50, 0],
+    date: '2026年06月01日'
   },
 
   9703010: {
@@ -20945,7 +21173,7 @@ const ship_data = {
     jp_name: 'アルジェリー(META)',
     en_name: 'Algerie META',
     cn_name: '阿尔及利亚·META',
-    tw_name: 'Algerie META',
+    tw_name: '阿爾及利亞·MET',
     equip_1: [3],
     equip_2: [5],
     equip_3: [6],
@@ -20970,14 +21198,15 @@ const ship_data = {
     jp_name: 'フォッシュ(META)',
     en_name: 'Foch META',
     cn_name: '福煦·META',
-    tw_name: 'Foch META',
+    tw_name: '福煦·META',
     equip_1: [3],
     equip_2: [5],
     equip_3: [6],
     equip_4: [10],
     equip_5: [10],
     eq_p: [1.15, 1.65, 0.9, 0.3],
-    reload: [66.0, 459.0, 0.0, 40.0, 0.0]
+    reload: [66.0, 459.0, 0.0, 40.0, 0.0],
+    date: '2024年06月01日'
   },
   9703040: {
     nationality: 97,
@@ -20994,14 +21223,15 @@ const ship_data = {
     jp_name: 'ウィチタ(META)',
     en_name: 'Wichita META',
     cn_name: '威奇塔·META',
-    tw_name: 'Wichita META',
+    tw_name: '威奇塔·META',
     equip_1: [3],
     equip_2: [1],
     equip_3: [6],
     equip_4: [10],
     equip_5: [10],
     eq_p: [1.3, 0.55, 1.05],
-    reload: [69.0, 478.0, 0.0, 51.0, 0.0]
+    reload: [69.0, 478.0, 0.0, 51.0, 0.0],
+    date: '2024年06月13日'
   },
   9703050: {
     nationality: 97,
@@ -21018,14 +21248,15 @@ const ship_data = {
     jp_name: 'アドミラル・ヒッパー(META)',
     en_name: 'Admiral Hipper META',
     cn_name: '希佩尔海军上将·META',
-    tw_name: 'Admiral Hipper META',
+    tw_name: '希佩爾將軍·META',
     equip_1: [3],
     equip_2: [5],
     equip_3: [6],
     equip_4: [10],
     equip_5: [10],
     eq_p: [1.3, 1.6, 1.0, 0.3],
-    reload: [67.0, 466.0, 0.0, 50.0, 0.0]
+    reload: [67.0, 466.0, 0.0, 50.0, 0.0],
+    date: '2024年12月19日'
   },
   9703060: {
     nationality: 97,
@@ -21042,14 +21273,15 @@ const ship_data = {
     jp_name: 'ボルツァーノ(META)',
     en_name: 'Bolzano META',
     cn_name: '博尔扎诺·META',
-    tw_name: 'Bolzano META',
+    tw_name: '博爾扎諾·META',
     equip_1: [3],
     equip_2: [5],
     equip_3: [6],
     equip_4: [10],
     equip_5: [10],
     eq_p: [1.35, 1.7, 1.0, 0.3],
-    reload: [65.0, 450.0, 0.0, 48.0, 0.0]
+    reload: [65.0, 450.0, 0.0, 48.0, 0.0],
+    date: '2025年02月01日'
   },
 
   9704010: {
@@ -21108,7 +21340,7 @@ const ship_data = {
     base_list: [3, 3, 1],
     id: 9704034,
     skin_id: 9704030,
-    english_name: 'Repulse.META !TWnoData',
+    english_name: 'Repulse.META',
     star: 6,
     rarity: 5,
     retro: 0,
@@ -21117,7 +21349,7 @@ const ship_data = {
     jp_name: 'レパルス(META)',
     en_name: 'Repulse META',
     cn_name: '反击·META',
-    tw_name: '反擊·META*',
+    tw_name: '反擊·META',
     equip_1: [4],
     equip_2: [1],
     equip_3: [6, 21],
@@ -21133,7 +21365,7 @@ const ship_data = {
     base_list: [3, 3, 1],
     id: 9704044,
     skin_id: 9704040,
-    english_name: 'Renown.META !TWnoData',
+    english_name: 'Renown.META',
     star: 6,
     rarity: 5,
     retro: 0,
@@ -21142,7 +21374,7 @@ const ship_data = {
     jp_name: 'レナウン(META)',
     en_name: 'Renown META',
     cn_name: '声望·META',
-    tw_name: '聲望·META*',
+    tw_name: '聲望·META',
     equip_1: [4],
     equip_2: [1],
     equip_3: [6, 21],
@@ -21167,14 +21399,15 @@ const ship_data = {
     jp_name: '比叡(META)',
     en_name: 'Hiei META',
     cn_name: '比叡·META',
-    tw_name: 'Hiei META',
+    tw_name: '比叡·META',
     equip_1: [4],
     equip_2: [1, 2],
     equip_3: [6, 21],
     equip_4: [10],
     equip_5: [10],
     eq_p: [1.35, 1.5, 0.9],
-    reload: [61.0, 423.0, 0.0, 46.0, 0.0]
+    reload: [61.0, 423.0, 0.0, 46.0, 0.0],
+    date: '2024年09月12日'
   },
   9704060: {
     nationality: 97,
@@ -21191,14 +21424,15 @@ const ship_data = {
     jp_name: 'ダンケルク(META)',
     en_name: 'Dunkerque META',
     cn_name: '敦刻尔克·META',
-    tw_name: 'Dunkerque META',
+    tw_name: '敦克爾克·META',
     equip_1: [4],
     equip_2: [1],
     equip_3: [6, 21],
     equip_4: [10],
     equip_5: [10],
-    eq_p: [1.7, 1.8, 0.69999999999999996],
-    reload: [60.0, 415.0, 0.0, 45.0, 0.0]
+    eq_p: [1.7, 1.8, 0.7],
+    reload: [60.0, 415.0, 0.0, 45.0, 0.0],
+    date: '2025年08月01日'
   },
 
   9705010: {
@@ -21257,7 +21491,7 @@ const ship_data = {
     base_list: [3, 3, 1],
     id: 9705034,
     skin_id: 9705030,
-    english_name: 'Arizona.META !TWnoData',
+    english_name: 'Arizona.META',
     star: 6,
     rarity: 5,
     retro: 0,
@@ -21266,7 +21500,7 @@ const ship_data = {
     jp_name: 'アリゾナ(META)',
     en_name: 'Arizona META',
     cn_name: '亚利桑那·META',
-    tw_name: '亞利桑那·META*',
+    tw_name: '亞利桑那·META',
     equip_1: [4],
     equip_2: [1],
     equip_3: [6, 21],
@@ -21282,7 +21516,7 @@ const ship_data = {
     base_list: [3, 3, 1],
     id: 9705044,
     skin_id: 9705040,
-    english_name: 'Queen Elizabeth.META !TWnoData',
+    english_name: 'Queen Elizabeth.META',
     star: 6,
     rarity: 5,
     retro: 0,
@@ -21291,7 +21525,7 @@ const ship_data = {
     jp_name: 'クイーン・エリザベス(META)',
     en_name: 'Queen Elizabeth META',
     cn_name: '伊丽莎白女王·META',
-    tw_name: '伊麗莎白女王·META*',
+    tw_name: '伊莉莎白女王·META',
     equip_1: [4],
     equip_2: [1, 2],
     equip_3: [6, 21],
@@ -21316,14 +21550,15 @@ const ship_data = {
     jp_name: 'ロドニー(META)',
     en_name: 'Rodney META',
     cn_name: '罗德尼·META',
-    tw_name: 'Rodney META',
+    tw_name: '羅德尼·META',
     equip_1: [4],
     equip_2: [1, 2],
     equip_3: [6, 21],
     equip_4: [10],
     equip_5: [10],
     eq_p: [1.3, 2.0, 1.0],
-    reload: [57.0, 395.0, 0.0, 42.0, 0.0]
+    reload: [57.0, 395.0, 0.0, 42.0, 0.0],
+    date: '2024年03月14日'
   },
   9705060: {
     nationality: 97,
@@ -21340,14 +21575,15 @@ const ship_data = {
     jp_name: '長門(META)',
     en_name: 'Nagato META',
     cn_name: '长门·META',
-    tw_name: 'Nagato META',
+    tw_name: '長門·META',
     equip_1: [4],
     equip_2: [1, 2],
     equip_3: [6, 21],
     equip_4: [10],
     equip_5: [10],
     eq_p: [1.35, 2.1, 1.1],
-    reload: [54.0, 375.0, 0.0, 40.0, 0.0]
+    reload: [54.0, 375.0, 0.0, 40.0, 0.0],
+    date: '2024年09月05日'
   },
   9705070: {
     nationality: 97,
@@ -21364,14 +21600,15 @@ const ship_data = {
     jp_name: 'ジュリオ・チェザーレ(META)',
     en_name: 'Giulio Cesare META',
     cn_name: '朱利奥·凯撒·META',
-    tw_name: 'Giulio Cesare META',
+    tw_name: '朱利奧·凱撒·META',
     equip_1: [4],
     equip_2: [1],
     equip_3: [6, 21],
     equip_4: [10],
     equip_5: [10],
-    eq_p: [1.25, 1.5, 0.69999999999999996],
-    reload: [60.0, 414.0, 0.0, 44.0, 0.0]
+    eq_p: [1.25, 1.5, 0.7],
+    reload: [60.0, 414.0, 0.0, 44.0, 0.0],
+    date: '2024年12月01日'
   },
   9705080: {
     nationality: 97,
@@ -21388,14 +21625,15 @@ const ship_data = {
     jp_name: 'アンドレア・ドーリア(META)',
     en_name: 'Andrea Doria META',
     cn_name: '安德烈亚·多利亚·META',
-    tw_name: 'Andrea Doria META',
+    tw_name: '安德烈亞·多里亞·META',
     equip_1: [4],
     equip_2: [1, 2],
     equip_3: [6, 21],
     equip_4: [10],
     equip_5: [10],
     eq_p: [1.35, 2.0, 1.1],
-    reload: [57.0, 399.0, 0.0, 43, 0.0]
+    reload: [57.0, 399.0, 0.0, 43, 0.0],
+    date: '2025年02月27日'
   },
   9705090: {
     nationality: 97,
@@ -21412,14 +21650,15 @@ const ship_data = {
     jp_name: 'ネバダ(META)',
     en_name: 'Nevada META',
     cn_name: '内华达·META',
-    tw_name: 'Nevada META',
+    tw_name: '內華達·META',
     equip_1: [4],
     equip_2: [1],
     equip_3: [6, 21],
     equip_4: [10],
     equip_5: [10],
     eq_p: [1.3, 2.0, 1.0],
-    reload: [60.0, 414.0, 0.0, 44, 0.0]
+    reload: [60.0, 414.0, 0.0, 44, 0.0],
+    date: '2025年04月01日'
   },
   9705100: {
     nationality: 97,
@@ -21436,7 +21675,7 @@ const ship_data = {
     jp_name: 'ガングート(META)',
     en_name: 'Gangut META',
     cn_name: '甘古特·META',
-    tw_name: 'Gangut META',
+    tw_name: '甘古特·META',
     equip_1: [4],
     equip_2: [1, 2],
     equip_3: [6, 21],
@@ -21512,7 +21751,7 @@ const ship_data = {
     jp_name: 'プリンストン(META)',
     en_name: 'Princeton META',
     cn_name: '普林斯顿·META',
-    tw_name: 'Princeton META',
+    tw_name: '普林斯頓·META',
     equip_1: [7],
     equip_2: [8],
     equip_3: [6],
@@ -21537,14 +21776,40 @@ const ship_data = {
     jp_name: '鳳翔(META)',
     en_name: 'Houshou META',
     cn_name: '凤翔·META',
-    tw_name: 'Houshou META',
+    tw_name: '鳳翔·META',
     equip_1: [2],
     equip_2: [7],
     equip_3: [8],
     equip_4: [10, 15],
     equip_5: [10, 15],
     eq_p: [1.0, 1.35, 1.35],
-    reload: [65.0, 450.0, 0.0, 48.0, 0.0]
+    reload: [65.0, 450.0, 0.0, 48.0, 0.0],
+    date: '2024年10月01日'
+  },
+  9706050: {
+    nationality: 97,
+    type: 6,
+    base_list: [3, 3, 1],
+    id: 9706054,
+    skin_id: 9706050,
+    english_name: 'Elbe.META !TWnoData',
+    star: 6,
+    rarity: 5,
+    retro: 0,
+    uni_id: '9706050',
+    painting: '30061_elbe_meta',
+    jp_name: 'エルベ(META)',
+    en_name: 'Elbe META',
+    cn_name: '易北·META',
+    tw_name: 'Elbe META',
+    equip_1: [7],
+    equip_2: [9],
+    equip_3: [6],
+    equip_4: [10, 15],
+    equip_5: [10, 15],
+    eq_p: [1.65, 1.35, 0.8],
+    reload: [71, 491, 0, 53, 0],
+    date: '2026年05月20日'
   },
 
   9707010: {
@@ -21637,14 +21902,15 @@ const ship_data = {
     jp_name: 'ベアルン(META)',
     en_name: 'Béarn META',
     cn_name: '贝亚恩·META',
-    tw_name: 'Béarn META',
+    tw_name: '貝亞恩·META',
     equip_1: [7],
     equip_2: [8],
     equip_3: [2, 9],
     equip_4: [10],
     equip_5: [10],
     eq_p: [1.45, 1.45, 1.0],
-    reload: [42.0, 292.0, 0.0, 32, 0.0]
+    reload: [42.0, 292.0, 0.0, 32, 0.0],
+    date: '2024年05月21日'
   },
   9707050: {
     nationality: 97,
@@ -21661,14 +21927,15 @@ const ship_data = {
     jp_name: '大鳳(META)',
     en_name: 'Taihou META',
     cn_name: '大凤·META',
-    tw_name: 'Taihou META',
+    tw_name: '大鳳·META',
     equip_1: [7],
     equip_2: [9],
     equip_3: [8],
     equip_4: [10],
     equip_5: [10],
     eq_p: [1.2, 1.3, 1.4],
-    reload: [45.0, 315.0, 0.0, 33.0, 0.0]
+    reload: [45.0, 315.0, 0.0, 33.0, 0.0],
+    date: '2024年12月12日'
   },
   9707060: {
     nationality: 97,
@@ -21685,14 +21952,15 @@ const ship_data = {
     jp_name: 'ホーネット(META)',
     en_name: 'Hornet META',
     cn_name: '大黄蜂·META',
-    tw_name: 'Hornet META',
+    tw_name: '大黃蜂·META',
     equip_1: [7],
     equip_2: [9],
     equip_3: [8],
     equip_4: [10],
     equip_5: [10],
     eq_p: [1.35, 1.25, 1.25],
-    reload: [47.0, 323.0, 0.0, 35, 0.0]
+    reload: [47.0, 323.0, 0.0, 35, 0.0],
+    date: '2025年03月13日'
   },
   9707070: {
     nationality: 97,
@@ -21709,14 +21977,15 @@ const ship_data = {
     jp_name: 'グロリアス(META)',
     en_name: 'Glorious META',
     cn_name: '光荣·META',
-    tw_name: 'Glorious META',
+    tw_name: '光榮·META',
     equip_1: [7],
     equip_2: [8],
     equip_3: [8],
     equip_4: [10],
     equip_5: [10],
     eq_p: [1.5, 1.3, 1.3],
-    reload: [48.0, 330.0, 0.0, 35, 0.0]
+    reload: [48.0, 330.0, 0.0, 35, 0.0],
+    date: '2025年05月20日'
   },
   9707080: {
     nationality: 97,
@@ -21733,14 +22002,15 @@ const ship_data = {
     jp_name: 'ヨークタウン(META)',
     en_name: 'Yorktown META',
     cn_name: '约克城·META',
-    tw_name: 'Yorktown META',
+    tw_name: '約克鎮·META',
     equip_1: [7],
     equip_2: [9],
     equip_3: [8],
     equip_4: [10],
     equip_5: [10],
-    eq_p: [1.3500000000000001, 1.25, 1.25],
-    reload: [48.0, 332.0, 0.0, 36.0, 0.0]
+    eq_p: [1.35, 1.25, 1.25],
+    reload: [48.0, 332.0, 0.0, 36.0, 0.0],
+    date: '2025年12月11日'
   },
 
   9708010: {
@@ -21758,7 +22028,7 @@ const ship_data = {
     jp_name: 'U-556(META)',
     en_name: 'U-556 META',
     cn_name: 'U-556·META',
-    tw_name: 'U-556 META',
+    tw_name: 'U-556·META',
     equip_1: [13],
     equip_2: [13],
     equip_3: [1],
@@ -21784,14 +22054,15 @@ const ship_data = {
     jp_name: 'ヴェスタル(META)',
     en_name: 'Vestal META',
     cn_name: '女灶神·META',
-    tw_name: 'Vestal META',
+    tw_name: '女灶神·META',
     equip_1: [10],
     equip_2: [6],
     equip_3: [6],
     equip_4: [10],
     equip_5: [10],
     eq_p: [1.0, 1.0, 1.0],
-    reload: [62.0, 431.0, 0.0, 46, 0.0]
+    reload: [62.0, 431.0, 0.0, 46, 0.0],
+    date: '2023年06月01日'
   },
 
   9713010: {
@@ -21809,14 +22080,15 @@ const ship_data = {
     jp_name: 'エレバス(META)',
     en_name: 'Erebus META',
     cn_name: '黑暗界·META',
-    tw_name: 'Erebus META',
+    tw_name: '黑暗界·META',
     equip_1: [4],
     equip_2: [1],
     equip_3: [6],
     equip_4: [10],
     equip_5: [10],
     eq_p: [1.35, 2.0, 1.0],
-    reload: [54.0, 376.0, 0.0, 41, 0.0]
+    reload: [54.0, 376.0, 0.0, 41, 0.0],
+    date: '2023年12月01日'
   },
 
   10100010: {
@@ -22638,7 +22910,7 @@ const ship_data = {
     jp_name: 'ルナ',
     en_name: 'Luna',
     cn_name: '露娜',
-    tw_name: 'Luna',
+    tw_name: '露娜',
     equip_1: [7],
     equip_2: [8],
     equip_3: [6, 15],
@@ -22663,7 +22935,7 @@ const ship_data = {
     jp_name: 'たまき',
     en_name: 'Tamaki',
     cn_name: '环',
-    tw_name: 'Tamaki',
+    tw_name: '環',
     equip_1: [4],
     equip_2: [1, 2],
     equip_3: [6],
@@ -22688,7 +22960,7 @@ const ship_data = {
     jp_name: 'エリーゼ',
     en_name: 'Elise',
     cn_name: '伊莉丝',
-    tw_name: 'Elise',
+    tw_name: '伊莉絲',
     equip_1: [7],
     equip_2: [9],
     equip_3: [8],
@@ -22713,7 +22985,7 @@ const ship_data = {
     jp_name: 'しずく',
     en_name: 'Shizuku',
     cn_name: '雫',
-    tw_name: 'Shizuku',
+    tw_name: '雫',
     equip_1: [4],
     equip_2: [1, 2],
     equip_3: [6, 21],
@@ -22738,7 +23010,7 @@ const ship_data = {
     jp_name: 'シャンディ',
     en_name: 'Shandy',
     cn_name: '香迪',
-    tw_name: 'Shandy',
+    tw_name: '香蒂',
     equip_1: [3],
     equip_2: [5],
     equip_3: [6],
@@ -22763,7 +23035,7 @@ const ship_data = {
     jp_name: 'つくし',
     en_name: 'Tsukushi',
     cn_name: '筑紫',
-    tw_name: 'Tsukushi',
+    tw_name: '筑紫',
     equip_1: [1],
     equip_2: [5],
     equip_3: [6],
@@ -22788,7 +23060,7 @@ const ship_data = {
     jp_name: 'パティ',
     en_name: 'Patty',
     cn_name: '派蒂',
-    tw_name: 'Patty',
+    tw_name: '派蒂',
     equip_1: [13],
     equip_2: [13],
     equip_3: [1],
@@ -22813,7 +23085,7 @@ const ship_data = {
     jp_name: 'ゆきの',
     en_name: 'Yukino',
     cn_name: '千乃',
-    tw_name: 'Yukino',
+    tw_name: '千乃',
     equip_1: [2],
     equip_2: [1],
     equip_3: [6],
@@ -23190,7 +23462,7 @@ const ship_data = {
     jp_name: '2代目',
     en_name: 'The 2nd',
     cn_name: '第二代',
-    tw_name: 'The 2nd',
+    tw_name: '第二代',
     equip_1: [4],
     equip_2: [7],
     equip_3: [6, 21],
@@ -23215,7 +23487,7 @@ const ship_data = {
     jp_name: 'ひめ',
     en_name: 'Princess Hime',
     cn_name: '公主',
-    tw_name: 'Princess Hime',
+    tw_name: '公主',
     equip_1: [1],
     equip_2: [6],
     equip_3: [10, 18],
@@ -23392,14 +23664,15 @@ const ship_data = {
     jp_name: '飛鳥',
     en_name: 'Asuka',
     cn_name: '飞鸟',
-    tw_name: 'Asuka',
+    tw_name: '飛鳥',
     equip_1: [2],
     equip_2: [5],
     equip_3: [6],
     equip_4: [10, 14],
     equip_5: [10, 14],
     eq_p: [1.25, 1.4, 1.0],
-    reload: [71.0, 488.0, 0.0, 53.0, 0.0]
+    reload: [71.0, 488.0, 0.0, 53.0, 0.0],
+    date: '2023年11月23日'
   },
   11000020: {
     nationality: 110,
@@ -23416,14 +23689,15 @@ const ship_data = {
     jp_name: '斑鳩',
     en_name: 'Ikaruga',
     cn_name: '斑鸠',
-    tw_name: 'Ikaruga',
+    tw_name: '斑鳩',
     equip_1: [3],
     equip_2: [5],
     equip_3: [6],
     equip_4: [10],
     equip_5: [10],
     eq_p: [1.2, 1.2, 1.1],
-    reload: [64.0, 446.0, 0.0, 48.0, 0.0]
+    reload: [64.0, 446.0, 0.0, 48.0, 0.0],
+    date: '2023年11月23日'
   },
   11000030: {
     nationality: 110,
@@ -23440,14 +23714,15 @@ const ship_data = {
     jp_name: '焔',
     en_name: 'Homura',
     cn_name: '焰',
-    tw_name: 'Homura',
+    tw_name: '焰',
     equip_1: [13],
     equip_2: [13],
     equip_3: [1],
     equip_4: [10],
     equip_5: [10],
     eq_p: [1.3, 1.25, 0.85],
-    reload: [35.0, 244.0, 0.0, 26.0, 0.0]
+    reload: [35.0, 244.0, 0.0, 26.0, 0.0],
+    date: '2023年11月23日'
   },
   11000040: {
     nationality: 110,
@@ -23464,14 +23739,15 @@ const ship_data = {
     jp_name: '雪泉',
     en_name: 'Yumi',
     cn_name: '雪泉',
-    tw_name: 'Yumi',
+    tw_name: '雪泉',
     equip_1: [7],
     equip_2: [9],
     equip_3: [8],
     equip_4: [10],
     equip_5: [10],
     eq_p: [1.4, 1.3, 1.3],
-    reload: [43.0, 295.0, 0.0, 32.0, 0.0]
+    reload: [43.0, 295.0, 0.0, 32.0, 0.0],
+    date: '2023年11月23日'
   },
   11000050: {
     nationality: 110,
@@ -23488,14 +23764,15 @@ const ship_data = {
     jp_name: '雪不帰',
     en_name: 'Fubuki',
     cn_name: '雪不归',
-    tw_name: 'Fubuki',
+    tw_name: '雪不歸',
     equip_1: [4],
     equip_2: [1, 2],
     equip_3: [6, 21],
     equip_4: [10],
     equip_5: [10],
     eq_p: [1.35, 2.0, 1.0],
-    reload: [61.0, 426.0, 0.0, 46.0, 0.0]
+    reload: [61.0, 426.0, 0.0, 46.0, 0.0],
+    date: '2023年11月23日'
   },
   11000060: {
     nationality: 110,
@@ -23512,14 +23789,15 @@ const ship_data = {
     jp_name: '紫',
     en_name: 'Murasaki',
     cn_name: '紫',
-    tw_name: 'Murasaki',
+    tw_name: '紫',
     equip_1: [7],
     equip_2: [8],
     equip_3: [6],
     equip_4: [10, 15],
     equip_5: [10, 15],
     eq_p: [1.35, 1.45, 1.0],
-    reload: [68.0, 471.0, 0.0, 51.0, 0.0]
+    reload: [68.0, 471.0, 0.0, 51.0, 0.0],
+    date: '2023年11月23日'
   },
   11000070: {
     nationality: 110,
@@ -23536,14 +23814,15 @@ const ship_data = {
     jp_name: '夕焼',
     en_name: 'Yūyaki',
     cn_name: '夕烧',
-    tw_name: 'Yūyaki',
+    tw_name: '夕燒',
     equip_1: [3],
     equip_2: [1],
     equip_3: [6],
     equip_4: [10],
     equip_5: [10],
     eq_p: [1.3, 0.55, 1.05],
-    reload: [62.0, 429.0, 0.0, 46.0, 0.0]
+    reload: [62.0, 429.0, 0.0, 46.0, 0.0],
+    date: '2023年11月23日'
   },
 
   11100010: {
@@ -23561,14 +23840,15 @@ const ship_data = {
     jp_name: 'ララ・サタリン・デビルーク',
     en_name: 'Lala Satalin Deviluke',
     cn_name: '菈菈·撒塔琳·戴比路克',
-    tw_name: 'Lala Satalin Deviluke',
+    tw_name: '菈菈·撒塔琳·戴比路克',
     equip_1: [3],
     equip_2: [1],
     equip_3: [6],
     equip_4: [10],
     equip_5: [10],
-    eq_p: [1.25, 0.55000000000000004, 1.1000000000000001],
-    reload: [69.0, 471.0, 0.0, 51.0, 0.0]
+    eq_p: [1.25, 0.55, 1.10],
+    reload: [69.0, 471.0, 0.0, 51.0, 0.0],
+    date: '2024年11月21日'
   },
   11100020: {
     nationality: 111,
@@ -23585,14 +23865,15 @@ const ship_data = {
     jp_name: 'ナナ・アスタ・デビルーク',
     en_name: 'Nana Astar Deviluke',
     cn_name: '娜娜·阿丝达·戴比路克',
-    tw_name: 'Nana Astar Deviluke',
+    tw_name: '娜娜·阿絲達·戴比路克',
     equip_1: [1],
     equip_2: [5],
     equip_3: [6],
     equip_4: [10, 14],
     equip_5: [10, 14],
-    eq_p: [1.25, 1.3999999999999999, 1.1499999999999999],
-    reload: [82.0, 572.0, 0.0, 62.0, 0.0]
+    eq_p: [1.25, 1.4, 1.15],
+    reload: [82.0, 572.0, 0.0, 62.0, 0.0],
+    date: '2024年11月21日'
   },
   11100030: {
     nationality: 111,
@@ -23609,14 +23890,15 @@ const ship_data = {
     jp_name: 'モモ・ベリア・デビルーク',
     en_name: 'Momo Belia Deviluke',
     cn_name: '梦梦·贝莉雅·戴比路克',
-    tw_name: 'Momo Belia Deviluke',
+    tw_name: '茉茉·貝莉雅·戴比路克',
     equip_1: [2],
     equip_2: [5],
     equip_3: [6],
     equip_4: [10, 14],
     equip_5: [10, 14],
-    eq_p: [1.3500000000000001, 1.5, 1.0, 0.29999999999999999],
-    reload: [71.0, 488.0, 0.0, 53.0, 0.0]
+    eq_p: [1.35, 1.5, 1.0, 0.3],
+    reload: [71.0, 488.0, 0.0, 53.0, 0.0],
+    date: '2024年11月21日'
   },
   11100040: {
     nationality: 111,
@@ -23633,14 +23915,15 @@ const ship_data = {
     jp_name: '金色の闇',
     en_name: 'Golden Darkness',
     cn_name: '金色暗影',
-    tw_name: 'Golden Darkness',
+    tw_name: '金色闇影',
     equip_1: [4],
     equip_2: [1, 2],
     equip_3: [6, 21],
     equip_4: [10],
     equip_5: [10],
-    eq_p: [1.3500000000000001, 2.0, 1.0],
-    reload: [57.0, 395.0, 0.0, 43.0, 0.0]
+    eq_p: [1.35, 2.0, 1.0],
+    reload: [57.0, 395.0, 0.0, 43.0, 0.0],
+    date: '2024年11月21日'
   },
   11100050: {
     nationality: 111,
@@ -23657,14 +23940,15 @@ const ship_data = {
     jp_name: '西連寺春菜',
     en_name: 'Haruna Sairenji',
     cn_name: '西连寺春菜',
-    tw_name: 'Haruna Sairenji',
+    tw_name: '西連寺春菜',
     equip_1: [4],
     equip_2: [1],
     equip_3: [6, 21],
     equip_4: [10],
     equip_5: [10],
-    eq_p: [1.3500000000000001, 1.5, 0.69999999999999996],
-    reload: [56.0, 391.0, 0.0, 42.0, 0.0]
+    eq_p: [1.35, 1.5, 0.7],
+    reload: [56.0, 391.0, 0.0, 42.0, 0.0],
+    date: '2024年11月21日'
   },
   11100060: {
     nationality: 111,
@@ -23681,14 +23965,15 @@ const ship_data = {
     jp_name: '古手川唯',
     en_name: 'Yui Kotegawa',
     cn_name: '古手川唯',
-    tw_name: 'Yui Kotegawa',
+    tw_name: '古手川唯',
     equip_1: [7],
     equip_2: [9],
     equip_3: [8],
     equip_4: [10],
     equip_5: [10],
-    eq_p: [1.2, 1.25, 1.3500000000000001],
-    reload: [43.0, 295.0, 0.0, 32.0, 0.0]
+    eq_p: [1.2, 1.25, 1.35],
+    reload: [43.0, 295.0, 0.0, 32.0, 0.0],
+    date: '2024年11月21日'
   },
 
   11200010: {
@@ -23713,7 +23998,8 @@ const ship_data = {
     equip_4: [10],
     equip_5: [10],
     eq_p: [1.35, 2.0, 1.0],
-    reload: [64.0, 442.0, 0.0, 47.0, 0.0]
+    reload: [64.0, 442.0, 0.0, 47.0, 0.0],
+    date: '2025年06月05日'
   },
   11200020: {
     nationality: 112,
@@ -23737,7 +24023,8 @@ const ship_data = {
     equip_4: [10],
     equip_5: [10],
     eq_p: [1.4, 1.3, 1.3],
-    reload: [51.0, 353.0, 0.0, 38.0, 0.0]
+    reload: [51.0, 353.0, 0.0, 38.0, 0.0],
+    date: '2025年06月05日'
   },
 
   11300010: {
@@ -23755,14 +24042,15 @@ const ship_data = {
     jp_name: 'ユミア・リースフェルト',
     en_name: 'Yumia Liessfeldt',
     cn_name: '优米雅·利斯菲尔德',
-    tw_name: 'Yumia Liessfeldt',
+    tw_name: '優米雅‧利斯菲爾德',
     equip_1: [7],
     equip_2: [8],
     equip_3: [6, 10],
     equip_4: [10, 15],
     equip_5: [10, 15],
-    eq_p: [1.45, 1.45, 0.80000000000000004],
-    reload: [67.0, 467.0, 0.0, 50.0, 0.0]
+    eq_p: [1.45, 1.45, 0.8],
+    reload: [67.0, 467.0, 0.0, 50.0, 0.0],
+    date: '2025年07月24日'
   },
   11300020: {
     nationality: 113,
@@ -23779,14 +24067,15 @@ const ship_data = {
     jp_name: 'アイラ・フォン・デューラー',
     en_name: 'Isla von Duerer',
     cn_name: '艾菈·冯·杜勒',
-    tw_name: 'Isla von Duerer',
+    tw_name: '艾菈‧馮‧杜勒',
     equip_1: [2],
     equip_2: [5],
     equip_3: [6],
     equip_4: [10, 14],
     equip_5: [10, 14],
-    eq_p: [1.55, 1.3999999999999999, 1.1000000000000001, 0.29999999999999999],
-    reload: [71.0, 492.0, 0.0, 53.0, 0.0]
+    eq_p: [1.55, 1.4, 1.1, 0.3],
+    reload: [71.0, 492.0, 0.0, 53.0, 0.0],
+    date: '2025年07月24日'
   },
   11300030: {
     nationality: 113,
@@ -23803,14 +24092,15 @@ const ship_data = {
     jp_name: 'ニーナ・フリーデ',
     en_name: 'Nina Friede',
     cn_name: '妮娜·弗里德',
-    tw_name: 'Nina Friede',
+    tw_name: '妮娜‧弗里德',
     equip_1: [4],
     equip_2: [1, 2],
     equip_3: [6, 21],
     equip_4: [10],
     equip_5: [10],
-    eq_p: [1.3999999999999999, 2.0, 1.0],
-    reload: [57.0, 400.0, 0.0, 43.0, 0.0]
+    eq_p: [1.4, 2.0, 1.0],
+    reload: [57.0, 400.0, 0.0, 43.0, 0.0],
+    date: '2025年07月24日'
   },
   11300040: {
     nationality: 113,
@@ -23827,14 +24117,15 @@ const ship_data = {
     jp_name: 'レイニャ',
     en_name: 'Lenja',
     cn_name: '蕾妮雅',
-    tw_name: 'Lenja',
+    tw_name: '蕾妮雅',
     equip_1: [1],
     equip_2: [5],
     equip_3: [6],
     equip_4: [10, 14],
     equip_5: [10, 14],
-    eq_p: [1.25, 1.3999999999999999, 1.1499999999999999],
-    reload: [88.0, 615.0, 0.0, 66.0, 0.0]
+    eq_p: [1.25, 1.4, 1.15],
+    reload: [88.0, 615.0, 0.0, 66.0, 0.0],
+    date: '2025年07月24日'
   },
 
   11400010: {
@@ -23852,14 +24143,15 @@ const ship_data = {
     jp_name: 'ヘスティア',
     en_name: 'Hestia',
     cn_name: '赫斯缇雅',
-    tw_name: 'Hestia',
+    tw_name: '赫斯緹雅',
     equip_1: [10],
     equip_2: [6],
     equip_3: [6],
     equip_4: [10],
     equip_5: [10],
     eq_p: [1.0, 1.0, 1.0],
-    reload: [62.0, 431.0, 0.0, 46.0, 0.0]
+    reload: [62.0, 431.0, 0.0, 46.0, 0.0],
+    date: '2025年10月09日'
   },
   11400020: {
     nationality: 114,
@@ -23876,14 +24168,15 @@ const ship_data = {
     jp_name: 'リュー・リオン',
     en_name: 'Ryu Lion',
     cn_name: '琉·璃昂',
-    tw_name: 'Ryu Lion',
+    tw_name: '琉·璃昂',
     equip_1: [2],
     equip_2: [5],
     equip_3: [6],
     equip_4: [10, 14],
     equip_5: [10, 14],
-    eq_p: [1.55, 1.3999999999999999, 1.1000000000000001, 0.29999999999999999],
-    reload: [75.0, 523.0, 0.0, 56.0, 0.0]
+    eq_p: [1.55, 1.4, 1.1, 0.3],
+    reload: [75.0, 523.0, 0.0, 56.0, 0.0],
+    date: '2025年10月09日'
   },
 
   11500010: {
@@ -23901,14 +24194,15 @@ const ship_data = {
     jp_name: '夜刀神十香',
     en_name: 'Tohka Yatogami',
     cn_name: '夜刀神十香',
-    tw_name: 'Tohka Yatogami',
+    tw_name: '夜刀神十香',
     equip_1: [3],
     equip_2: [1],
     equip_3: [6],
     equip_4: [10],
     equip_5: [10],
-    eq_p: [1.1000000000000001, 0.69999999999999996, 1.1000000000000001],
-    reload: [73.0, 510.0, 0.0, 55.0, 0.0]
+    eq_p: [1.1, 0.7, 1.1],
+    reload: [73.0, 510.0, 0.0, 55.0, 0.0],
+    date: '2025年11月20日'
   },
   11500020: {
     nationality: 115,
@@ -23925,14 +24219,15 @@ const ship_data = {
     jp_name: '鳶一折紙',
     en_name: 'Origami Tobiichi',
     cn_name: '鸢一折纸',
-    tw_name: 'Origami Tobiichi',
+    tw_name: '鳶一折紙',
     equip_1: [7],
     equip_2: [9],
     equip_3: [8],
     equip_4: [10],
     equip_5: [10],
-    eq_p: [1.3999999999999999, 1.3, 1.3],
-    reload: [53.0, 372.0, 0.0, 40.0, 0.0]
+    eq_p: [1.4, 1.3, 1.3],
+    reload: [53.0, 372.0, 0.0, 40.0, 0.0],
+    date: '2025年11月20日'
   },
   11500030: {
     nationality: 115,
@@ -23949,14 +24244,15 @@ const ship_data = {
     jp_name: '五河琴里',
     en_name: 'Kotori Itsuka',
     cn_name: '五河琴里',
-    tw_name: 'Kotori Itsuka',
+    tw_name: '五河琴里',
     equip_1: [4],
     equip_2: [1, 2],
     equip_3: [6, 21],
     equip_4: [10],
     equip_5: [10],
     eq_p: [1.45, 2.0, 1.0],
-    reload: [54.0, 375.0, 0.0, 40.0, 0.0]
+    reload: [54.0, 375.0, 0.0, 40.0, 0.0],
+    date: '2025年11月20日'
   },
   11500040: {
     nationality: 115,
@@ -23973,14 +24269,15 @@ const ship_data = {
     jp_name: '四糸乃',
     en_name: 'Yoshino',
     cn_name: '四糸乃',
-    tw_name: 'Yoshino',
+    tw_name: '四糸乃',
     equip_1: [7],
     equip_2: [9],
     equip_3: [8],
     equip_4: [10, 15],
     equip_5: [10, 15],
     eq_p: [1.3500000000000001, 1.3, 1.3],
-    reload: [71.0, 492.0, 0.0, 53.0, 0.0]
+    reload: [71.0, 492.0, 0.0, 53.0, 0.0],
+    date: '2025年11月20日'
   },
   11500050: {
     nationality: 115,
@@ -23997,14 +24294,15 @@ const ship_data = {
     jp_name: '時崎狂三',
     en_name: 'Kurumi Tokisaki',
     cn_name: '时崎狂三',
-    tw_name: 'Kurumi Tokisaki',
+    tw_name: '時崎狂三',
     equip_1: [2],
     equip_2: [1],
     equip_3: [6],
     equip_4: [10, 14],
     equip_5: [10, 14],
-    eq_p: [1.3, 0.69999999999999996, 1.1000000000000001],
-    reload: [73.0, 505.0, 0.0, 55.0, 0.0]
+    eq_p: [1.3, 0.7, 1.1],
+    reload: [73.0, 505.0, 0.0, 55.0, 0.0],
+    date: '2025年11月20日'
   },
   11500060: {
     nationality: 115,
@@ -24021,13 +24319,14 @@ const ship_data = {
     jp_name: '八舞耶倶矢・八舞夕弦',
     en_name: 'Kaguya Yamai・Yuzuru Yamai',
     cn_name: '八舞耶俱矢·八舞夕弦',
-    tw_name: 'Kaguya Yamai・Yuzuru Yamai',
+    tw_name: '八舞耶俱矢·八舞夕弦',
     equip_1: [2],
     equip_2: [5],
     equip_3: [6],
     equip_4: [10, 14],
     equip_5: [10, 14],
-    eq_p: [1.55, 1.3999999999999999, 1.1000000000000001, 0.29999999999999999],
-    reload: [80.0, 554.0, 0.0, 59.0, 0.0]
+    eq_p: [1.55, 1.4, 1.1, 0.3],
+    reload: [80.0, 554.0, 0.0, 59.0, 0.0],
+    date: '2025年11月20日'
   }
 }
