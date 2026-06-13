@@ -3306,5 +3306,70 @@ const sp_weapon_data = {
     cn_name: '王牌的决胜左轮',
     en_name: "Ace's Decisive Revolver",
     tw_name: "Ace's Decisive Revolver"
+  },
+  9915360: {
+    id: 9915360,
+    icon: '15360',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    limit: 29904,
+    type: 4,
+    jp_name: 'パイレーツヒロイン',
+    cn_name: '海盗英雄的剑枪组合',
+    en_name: "Privateer's Heroism",
+    tw_name: "Privateer's Heroism"
+  },
+  9915380: {
+    id: 9915380,
+    icon: '15380',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    limit: 10803,
+    type: 8,
+    jp_name: 'カヴァラゴーグル',
+    cn_name: '黑尾鲹的潜水镜',
+    en_name: "Blacktail Diving Goggles",
+    tw_name: "Blacktail Diving Goggles"
+  },
+  9915400: {
+    id: 9915400,
+    icon: '15400',
+    eq_reload: [6, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+    rarity: 4,
+    tech: 0,
+    limit: 30706,
+    type: 7,
+    jp_name: '打刀・幸運鶴',
+    cn_name: '幸运鹤的打刀',
+    en_name: "Auspicious Crane's Uchigatana",
+    tw_name: "Auspicious Crane's Uchigatana"
+  },
+  9915420: {
+    id: 9915420,
+    icon: '15420',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    limit: 30133,
+    type: 1,
+    jp_name: '蝶結びと鈴(防犯用)',
+    cn_name: '蝴蝶结铃铛警报器',
+    en_name: "Safety Bell and Butterfly Bow",
+    tw_name: "Safety Bell and Butterfly Bow"
+  },
+  9915440: {
+    id: 9915440,
+    icon: '15440',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    limit: 40304,
+    type: 4,
+    jp_name: '尊き姫君のご命令',
+    cn_name: '贵公主的命令',
+    en_name: "Highborn Princess's Command",
+    tw_name: "Highborn Princess's Command"
   }
 };
