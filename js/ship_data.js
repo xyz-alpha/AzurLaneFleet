@@ -19474,7 +19474,7 @@ const ship_data = {
     rarity: 5,
     retro: 0,
     uni_id: '818010',
-    painting: '743_Cherbourg',
+    painting: '743_cherbourg',
     jp_name: 'シェルブール',
     en_name: 'Cherbourg',
     cn_name: '瑟堡',
