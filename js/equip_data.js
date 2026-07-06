@@ -15158,5 +15158,20 @@ const equip_data = {
     en_name: 'Pressure-Resistant Hull Design',
     equip_limit: 800,
     cd: []
+  },
+  151180: {
+    nationality: 10,
+    type: 10,
+    rarity: 4,
+    tech: 0,
+    id: 151180,
+    icon: '151180',
+    ship_type_forbidden: [],
+    jp_name: '笑わせ担当',
+    cn_name: '搞笑担当',
+    en_name: 'Master of Laughter',
+    tw_name: 'Master of Laughter',
+    equip_limit: 151180,
+    cd: []
   }
 };
