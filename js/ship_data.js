@@ -8338,18 +8338,31 @@ const ship_data = {
     reload: [66, 457, 0, 49, 0],
     date: '2022年07月14日'
   },
-
-
-
-
-
-
-
-
-
-
-
-
+  299060: {
+    nationality: 2,
+    type: 4,
+    base_list: [3, 2, 1],
+    id: 299064,
+    skin_id: 299060,
+    english_name: 'HMS Duncan !TWnoData',
+    star: 6,
+    rarity: 5,
+    retro: 0,
+    uni_id: '299060',
+    painting: '20043_duncan',
+    jp_name: 'ダンカン',
+    en_name: 'Duncan',
+    cn_name: '邓肯',
+    tw_name: 'Duncan',
+    equip_1: [4],
+    equip_2: [1, 2],
+    equip_3: [6, 21],
+    equip_4: [10],
+    equip_5: [10],
+    eq_p: [1.45, 1.8, 1.1],
+    reload: [62.0, 430.0, 0.0, 46.0, 0.0],
+    date: '2026年07月09日'
+  },
 
 
   301010: {
@@ -12365,8 +12378,8 @@ const ship_data = {
     painting: 'xiangfeng_g',
     jp_name: '祥鳳改',
     en_name: 'Shouhou (Retrofit)',
-    cn_name: '祥凤改',
-    tw_name: '祥鳳改',
+    cn_name: '祥凤.改',
+    tw_name: '祥鳳.改',
     equip_1: [9],
     equip_2: [8],
     equip_3: [6],
@@ -12566,8 +12579,8 @@ const ship_data = {
     painting: 'canglong_g',
     jp_name: '蒼龍改',
     en_name: 'Souryuu (Retrofit)',
-    cn_name: '苍龙改',
-    tw_name: '蒼龍改',
+    cn_name: '苍龙.改',
+    tw_name: '蒼龍.改',
     equip_1: [7],
     equip_2: [9],
     equip_3: [8],
@@ -12616,8 +12629,8 @@ const ship_data = {
     painting: 'feilong_g',
     jp_name: '飛龍改',
     en_name: 'Hiryuu (Retrofit)',
-    cn_name: '飞龙改',
-    tw_name: '飛龍改',
+    cn_name: '飞龙.改',
+    tw_name: '飛龍.改',
     equip_1: [7],
     equip_2: [9],
     equip_3: [8],
@@ -12842,7 +12855,7 @@ const ship_data = {
     jp_name: '大鳳ちゃん',
     en_name: 'Taihou-chan',
     cn_name: '小大凤',
-    tw_name: 'Taihou-chan',
+    tw_name: '小大鳳',
     equip_1: [7],
     equip_2: [9],
     equip_3: [8],
@@ -12867,14 +12880,15 @@ const ship_data = {
     jp_name: '信濃ちゃん',
     en_name: 'Shinano-chan',
     cn_name: '小信浓',
-    tw_name: 'Shinano-chan',
+    tw_name: '小信濃',
     equip_1: [7, 8, 9],
     equip_2: [9],
     equip_3: [8],
     equip_4: [10],
     equip_5: [10],
     eq_p: [1.2, 1.3, 1.35],
-    reload: [43.0, 297.0, 0.0, 32.0, 0.0]
+    reload: [43.0, 297.0, 0.0, 32.0, 0.0],
+    date: '2024年04月25日'
   },
   307150: {
     nationality: 3,
@@ -13378,6 +13392,31 @@ const ship_data = {
     eq_p: [1.4, 2.1, 1.0],
     reload: [69.0, 482.0, 0.0, 52.0, 0.0],
     date: '2024年07月11日'
+  },
+  399080: {
+    nationality: 3,
+    type: 2,
+    base_list: [2, 2, 1],
+    id: 399084,
+    skin_id: 399080,
+    english_name: 'IJN Takahashi !TWnoData',
+    star: 6,
+    rarity: 5,
+    retro: 0,
+    uni_id: '399080',
+    painting: '20044_takahashi',
+    jp_name: '高梁',
+    en_name: 'Takahashi',
+    cn_name: '高梁',
+    tw_name: 'Takahashi',
+    equip_1: [2],
+    equip_2: [5],
+    equip_3: [6],
+    equip_4: [10, 14],
+    equip_5: [10, 14],
+    eq_p: [1.3, 1.5, 1.75],
+    reload: [62.0, 430.0, 0.0, 46.0, 0.0],
+    date: '2026年07月09日'
   },
 
 
@@ -15938,6 +15977,31 @@ const ship_data = {
     eq_p: [1.7, 2.2, 1.2],
     reload: [61.0, 426.0, 0.0, 46.0, 0.0],
     date: '2025年07月10日'
+  },
+  499110: {
+    nationality: 4,
+    type: 7,
+    base_list: [3, 3, 3],
+    id: 499114,
+    skin_id: 499110,
+    english_name: 'KMS Max Immelmann !TWnoData',
+    star: 6,
+    rarity: 6,
+    retro: 0,
+    uni_id: '499110',
+    painting: '20045_mimmelmann',
+    jp_name: 'マックス・インメルマン',
+    en_name: 'Max Immelmann',
+    cn_name: '马克斯·殷麦曼',
+    tw_name: 'Max Immelmann',
+    equip_1: [7],
+    equip_2: [9, 8],
+    equip_3: [8, 7],
+    equip_4: [10],
+    equip_5: [10],
+    eq_p: [1.6, 1.6, 1.6],
+    reload: [48, 335, 0, 36, 0],
+    date: '2026年07月09日'
   },
 
 
@@ -19599,6 +19663,31 @@ const ship_data = {
     reload: [75.0, 523.0, 0.0, 56.0, 0.0],
     date: '2024年07月11日'
   },
+  899050: {
+    nationality: 8,
+    type: 1,
+    base_list: [1, 2, 1],
+    id: 899054,
+    skin_id: 899050,
+    english_name: 'FFNF Orage !TWnoData',
+    star: 6,
+    rarity: 5,
+    retro: 0,
+    uni_id: '899050',
+    painting: '20046_orage',
+    jp_name: 'オラージュ',
+    en_name: 'Orage',
+    cn_name: '暴风雨',
+    tw_name: 'Orage',
+    equip_1: [1],
+    equip_2: [5],
+    equip_3: [6],
+    equip_4: [10, 14],
+    equip_5: [10, 14],
+    eq_p: [1.7, 1.4, 0.8],
+    reload: [80.0, 554.0, 0.0, 59.0, 0.0],
+    date: '2026年07月09日'
+  },
 
 
   901010: {
@@ -20310,6 +20399,33 @@ const ship_data = {
     eq_p: [1.05, 0.55, 1.75],
     reload: [66.0, 457.0, 0.0, 49.0, 0.0],
     date: '2025年07月10日'
+  },
+
+
+  1299010: {
+    nationality: 12,
+    type: 5,
+    base_list: [3, 3, 1],
+    id: 1299014,
+    skin_id: 1299010,
+    english_name: 'Valparaiso !TWnoData',
+    star: 6,
+    rarity: 6,
+    retro: 0,
+    uni_id: '1299010',
+    painting: '20047_valparaiso',
+    jp_name: 'バルパライソ',
+    en_name: 'Valparaíso',
+    cn_name: '瓦尔帕莱索',
+    tw_name: 'Valparaíso',
+    equip_1: [4],
+    equip_2: [1],
+    equip_3: [6, 21],
+    equip_4: [10],
+    equip_5: [10],
+    eq_p: [1.4, 1.5, 1.5],
+    reload: [65, 449, 0, 48, 0],
+    date: '2026年07月09日'
   },
 
 
