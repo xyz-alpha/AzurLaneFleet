@@ -3214,7 +3214,7 @@ const sp_weapon_data = {
     jp_name: 'シュトーレン',
     cn_name: '史多伦面包',
     en_name: 'Stollen',
-    tw_name: 'Stollen'
+    tw_name: '史多倫麵包'
   },
   9915220: {
     id: 9915220,
@@ -3227,7 +3227,7 @@ const sp_weapon_data = {
     jp_name: 'ししゃもの天ぷら',
     cn_name: '柳叶鱼天妇罗',
     en_name: 'Shishamo Tempura',
-    tw_name: 'Shishamo Tempura'
+    tw_name: '柳葉魚天婦羅'
   },
   9915240: {
     id: 9915240,
@@ -3240,7 +3240,7 @@ const sp_weapon_data = {
     jp_name: 'チリクラブ',
     cn_name: '辣椒蟹',
     en_name: 'Chili Crab',
-    tw_name: 'Chili Crab'
+    tw_name: '辣椒蟹'
   },
   9915260: {
     id: 9915260,
@@ -3253,7 +3253,7 @@ const sp_weapon_data = {
     jp_name: 'カップ麺',
     cn_name: '杯面',
     en_name: 'Cup Ramen',
-    tw_name: 'Cup Ramen'
+    tw_name: '杯麵'
   },
   9915280: {
     id: 9915280,
@@ -3266,7 +3266,7 @@ const sp_weapon_data = {
     jp_name: 'ハンバーガー',
     cn_name: '汉堡',
     en_name: 'Hamburger',
-    tw_name: 'Hamburger'
+    tw_name: '漢堡'
   },
   9915300: {
     id: 9915300,
@@ -3279,7 +3279,7 @@ const sp_weapon_data = {
     jp_name: 'ハンバーガー',
     cn_name: '抹茶冰淇淋',
     en_name: 'Matcha Ice Cream',
-    tw_name: 'Matcha Ice Cream'
+    tw_name: '抹茶冰淇淋'
   },
   9915320: {
     id: 9915320,
@@ -3371,6 +3371,32 @@ const sp_weapon_data = {
     cn_name: '贵公主的命令',
     en_name: "Highborn Princess's Command",
     tw_name: "Highborn Princess's Command"
+  },
+  9915460: {
+    id: 9915460,
+    icon: '15460',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    limit: 1170001,
+    type: 4,
+    jp_name: '四◯式戦術刀',
+    cn_name: '四o式战术刀',
+    en_name: "Type-4O Sword",
+    tw_name: "Type-4O Sword"
+  },
+  9915480: {
+    id: 9915480,
+    icon: '15480',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    limit: 1170002,
+    type: 2,
+    jp_name: '白の契約',
+    cn_name: '白之契约',
+    en_name: "Virtuous Contract",
+    tw_name: "Virtuous Contract"
   },
   9915500: {
     id: 9915500,
