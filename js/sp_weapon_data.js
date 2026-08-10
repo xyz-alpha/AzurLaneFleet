@@ -2415,7 +2415,7 @@ const sp_weapon_data = {
     jp_name: '長女のチャームポイント',
     cn_name: '长女的迷人之处',
     en_name: "Biggest Girl's Bonnie Bells",
-    tw_name: "Biggest Girl's Bonnie Bells"
+    tw_name: "長女的迷人之處"
   },
   9914020: {
     id: 9914020,
@@ -2429,7 +2429,7 @@ const sp_weapon_data = {
     jp_name: '公私スケジュール',
     cn_name: '公私日程表',
     en_name: 'Public-Private Schedule',
-    tw_name: 'Public-Private Schedule'
+    tw_name: '公私行程表'
   },
   9914040: {
     id: 9914040,
@@ -2442,7 +2442,7 @@ const sp_weapon_data = {
     jp_name: 'ヴェリーカヤ',
     cn_name: '冬日权杖剑',
     en_name: 'Rime Sword of the Great One',
-    tw_name: 'Rime Sword of the Great One'
+    tw_name: '冬季權杖劍'
   },
   9914060: {
     id: 9914060,
@@ -2456,7 +2456,7 @@ const sp_weapon_data = {
     jp_name: '愛蔵ソウジ道具',
     cn_name: '扫除用道具',
     en_name: 'Cherished Cleaning Equipment',
-    tw_name: 'Cherished Cleaning Equipment'
+    tw_name: '掃除用道具'
   },
   9914080: {
     id: 9914080,
@@ -2469,7 +2469,7 @@ const sp_weapon_data = {
     jp_name: '「大ザメ」',
     cn_name: '“大鱼”',
     en_name: '"Great Shark"',
-    tw_name: '"Great Shark"'
+    tw_name: '「大魚」'
   },
   9914100: {
     id: 9914100,
@@ -2483,7 +2483,7 @@ const sp_weapon_data = {
     jp_name: 'エースの一枚',
     cn_name: '一张王牌',
     en_name: "The Ace's Card",
-    tw_name: "The Ace's Card"
+    tw_name: "一張王牌"
   },
   9914120: {
     id: 9914120,
@@ -2497,7 +2497,7 @@ const sp_weapon_data = {
     jp_name: '昨日、または一昨日の夜',
     cn_name: '属于夜晚的余兴',
     en_name: 'Yesterday Or the Night Before That',
-    tw_name: 'Yesterday Or the Night Before That'
+    tw_name: '屬於夜晚的餘興'
   },
   9914140: {
     id: 9914140,
@@ -2510,7 +2510,7 @@ const sp_weapon_data = {
     jp_name: 'ラッキールー',
     cn_name: '“Lucky Lou”',
     en_name: 'Lucky Lou',
-    tw_name: 'Lucky Lou'
+    tw_name: '「Lucky Lou」'
   },
   9914160: {
     id: 9914160,
@@ -2523,7 +2523,7 @@ const sp_weapon_data = {
     jp_name: 'オールドレディの王剣',
     cn_name: '老女士的王家之剑',
     en_name: "Old Lady's Royal Sword",
-    tw_name: "Old Lady's Royal Sword"
+    tw_name: "老女士的王家之劍"
   },
   9914180: {
     id: 9914180,
@@ -2536,7 +2536,7 @@ const sp_weapon_data = {
     jp_name: '堅くて柔らかい',
     cn_name: '坚毅而温柔',
     en_name: 'Hard and Soft',
-    tw_name: 'Hard and Soft'
+    tw_name: '堅毅溫柔'
   },
   9914200: {
     id: 9914200,
@@ -2549,7 +2549,7 @@ const sp_weapon_data = {
     jp_name: '岩清水仙龍真言鋒',
     cn_name: '岩清水仙龙真言锋',
     en_name: "Hermit Dragon of Iwashimizu's Shingon Blade",
-    tw_name: "Hermit Dragon of Iwashimizu's Shingon Blade"
+    tw_name: "岩清水仙龍真言鋒"
   },
   9914220: {
     id: 9914220,
@@ -2563,7 +2563,7 @@ const sp_weapon_data = {
     jp_name: '軽晷針白兵儀典艤装LS',
     cn_name: '轻冕针近战仪式舰装LS',
     en_name: "The Punctualist's Ceremonial Needle",
-    tw_name: "The Punctualist's Ceremonial Needle"
+    tw_name: "輕冕針近戰儀式艦裝LS"
   },
   9914240: {
     id: 9914240,
@@ -2603,7 +2603,7 @@ const sp_weapon_data = {
     jp_name: '千鹤唳',
     cn_name: '千鹤唳',
     en_name: 'Call of a Thousand Cranes',
-    tw_name: 'Call of a Thousand Cranes'
+    tw_name: '千鶴唳'
   },
   9914300: {
     id: 9914300,
@@ -2616,7 +2616,7 @@ const sp_weapon_data = {
     jp_name: 'クローリクセット',
     cn_name: '“兔兔”套装',
     en_name: 'Królik and Canteen',
-    tw_name: 'Królik and Canteen'
+    tw_name: '「兔兔」套裝'
   },
   9914320: {
     id: 9914320,
@@ -2629,7 +2629,7 @@ const sp_weapon_data = {
     jp_name: 'エフェメラルレコード',
     cn_name: '刹那追忆',
     en_name: 'Ephemeral Record',
-    tw_name: 'Ephemeral Record'
+    tw_name: '剎那追憶'
   },
   9914340: {
     id: 9914340,
@@ -2643,7 +2643,7 @@ const sp_weapon_data = {
     jp_name: '秘槍トリアイナ',
     cn_name: '秘枪三叉戟',
     en_name: 'Secret Triaina',
-    tw_name: 'Secret Triaina'
+    tw_name: '祕槍三叉戟'
   },
   9914360: {
     id: 9914360,
@@ -2657,7 +2657,7 @@ const sp_weapon_data = {
     jp_name: 'ハントレス',
     cn_name: '女猎人 ',
     en_name: 'Huntress',
-    tw_name: 'Huntress'
+    tw_name: '女獵人'
   },
   9914380: {
     id: 9914380,
@@ -2683,7 +2683,7 @@ const sp_weapon_data = {
     jp_name: '幸運をもたらす錨',
     cn_name: '锚定幸运',
     en_name: 'Anchor of Fortune',
-    tw_name: 'Anchor of Fortune'
+    tw_name: '錨定幸運'
   },
   9914420: {
     id: 9914420,
@@ -2696,7 +2696,7 @@ const sp_weapon_data = {
     jp_name: '探求者の証',
     cn_name: '探索者的证明',
     en_name: "Pursuer's Proof",
-    tw_name: "Pursuer's Proof"
+    tw_name: "探索者的證明"
   },
   9914440: {
     id: 9914440,
@@ -2723,7 +2723,7 @@ const sp_weapon_data = {
     jp_name: '高貴で幸運で無敵なのだ',
     cn_name: '高贵！幸运！无敌！',
     en_name: 'Noble, Lucky, and Invincible',
-    tw_name: 'Noble, Lucky, and Invincible'
+    tw_name: '高貴！幸運！無敵！'
   },
   9914480: {
     id: 9914480,
@@ -2737,7 +2737,7 @@ const sp_weapon_data = {
     jp_name: '自由を顕す奇跡',
     cn_name: '象征着自由的奇迹',
     en_name: 'The Miracle That Symbolizes Freedom',
-    tw_name: 'The Miracle That Symbolizes Freedom'
+    tw_name: '象徵自由的奇蹟'
   },
   9914500: {
     id: 9914500,
@@ -2750,7 +2750,7 @@ const sp_weapon_data = {
     jp_name: 'アイドルの必殺技',
     cn_name: '偶像的必杀技',
     en_name: 'The Stage is Mine',
-    tw_name: 'The Stage is Mine'
+    tw_name: '偶像的必殺技'
   },
   9914520: {
     id: 9914520,
@@ -2763,7 +2763,7 @@ const sp_weapon_data = {
     jp_name: '見習い騎士のレイピア',
     cn_name: '见习骑士的佩剑',
     en_name: "Squire's Rapier",
-    tw_name: "Squire's Rapier"
+    tw_name: "見習騎士的佩劍"
   },
   9914540: {
     id: 9914540,
@@ -2789,7 +2789,7 @@ const sp_weapon_data = {
     jp_name: '風紀、守るべし！',
     cn_name: '禁止扰乱风纪！',
     en_name: 'Protector of Order',
-    tw_name: 'Protector of Order'
+    tw_name: '禁止擾亂風紀！'
   },
   9914580: {
     id: 9914580,
@@ -2802,7 +2802,7 @@ const sp_weapon_data = {
     jp_name: 'ヘスティアの紐',
     cn_name: '赫斯缇亚的缎带',
     en_name: "Hestia's String",
-    tw_name: "Hestia's String"
+    tw_name: "赫斯緹雅的緞帶"
   },
   9914600: {
     id: 9914600,
@@ -2815,7 +2815,7 @@ const sp_weapon_data = {
     jp_name: 'アルヴス・ユースティティア',
     cn_name: '精灵正义女神',
     en_name: "Alf's Justitia",
-    tw_name: "Alf's Justitia"
+    tw_name: "精靈正義女神"
   },
   9914620: {
     id: 9914620,
@@ -2828,7 +2828,7 @@ const sp_weapon_data = {
     jp_name: 'イブニングローズ',
     cn_name: '暗夜蔷薇 ',
     en_name: 'Evening Rose',
-    tw_name: 'Evening Rose'
+    tw_name: '暗夜薔薇'
   },
   9914640: {
     id: 9914640,
@@ -2841,7 +2841,7 @@ const sp_weapon_data = {
     jp_name: '秩序と審判の槍',
     cn_name: '秩序与审判之枪',
     en_name: 'Spear of Order and Judgment',
-    tw_name: 'Spear of Order and Judgment'
+    tw_name: '秩序與審判之槍'
   },
   9914660: {
     id: 9914660,
@@ -2854,7 +2854,7 @@ const sp_weapon_data = {
     jp_name: '真珠の心',
     cn_name: '珍珠之心',
     en_name: 'Heart of Pearl',
-    tw_name: 'Heart of Pearl'
+    tw_name: '珍珠之心'
   },
   9914680: {
     id: 9914680,
@@ -2867,7 +2867,7 @@ const sp_weapon_data = {
     jp_name: 'キュリオスエッジ',
     cn_name: '好奇者之刀',
     en_name: "Seeker's Saber",
-    tw_name: "Seeker's Saber"
+    tw_name: "好奇者之刀"
   },
   9914700: {
     id: 9914700,
@@ -2881,7 +2881,7 @@ const sp_weapon_data = {
     jp_name: 'アドベンチャースタッフ',
     cn_name: '冒险者之杖',
     en_name: "Adventure's Staff",
-    tw_name: "Adventure's Staff"
+    tw_name: "冒險者之杖"
   },
   9914720: {
     id: 9914720,
@@ -2894,7 +2894,7 @@ const sp_weapon_data = {
     jp_name: 'Alarmtauchen！',
     cn_name: '极速潜行',
     en_name: 'Alarmtauchen!',
-    tw_name: 'Alarmtauchen!'
+    tw_name: '極速潛行'
   },
   9914740: {
     id: 9914740,
@@ -2908,7 +2908,7 @@ const sp_weapon_data = {
     jp_name: '一射必中',
     cn_name: '正中靶心',
     en_name: 'Going for the Bullseye',
-    tw_name: 'Going for the Bullseye'
+    tw_name: '正中靶心'
   },
   9914760: {
     id: 9914760,
@@ -2921,7 +2921,7 @@ const sp_weapon_data = {
     jp_name: '鏖殺公（サンダルフォン）',
     cn_name: '鏖杀公',
     en_name: 'Sandalphon',
-    tw_name: 'Sandalphon'
+    tw_name: '鏖殺公'
   },
   9914780: {
     id: 9914780,
@@ -2935,7 +2935,7 @@ const sp_weapon_data = {
     jp_name: '灼爛殲鬼（カマエル）',
     cn_name: '灼烂歼鬼',
     en_name: 'Camael',
-    tw_name: 'Camael'
+    tw_name: '灼爛殲鬼'
   },
   9914800: {
     id: 9914800,
@@ -2948,7 +2948,7 @@ const sp_weapon_data = {
     jp_name: '絶滅天使（メタトロン）',
     cn_name: '绝灭天使',
     en_name: 'Metatron',
-    tw_name: 'Metatron'
+    tw_name: '絕滅天使'
   },
   9914820: {
     id: 9914820,
@@ -2961,7 +2961,7 @@ const sp_weapon_data = {
     jp_name: '刻々帝（ザフキエル）',
     cn_name: '刻刻帝',
     en_name: 'Zafkiel',
-    tw_name: 'Zafkiel'
+    tw_name: '刻刻帝'
   },
   9914840: {
     id: 9914840,
@@ -2975,7 +2975,7 @@ const sp_weapon_data = {
     jp_name: '氷結傀儡（ザドキエル）',
     cn_name: '冰结傀儡',
     en_name: 'Zadkiel',
-    tw_name: 'Zadkiel'
+    tw_name: '冰結傀儡'
   },
   9914860: {
     id: 9914860,
@@ -2988,7 +2988,7 @@ const sp_weapon_data = {
     jp_name: '颶風騎士（ラファエル）',
     cn_name: '飓风骑士',
     en_name: 'Raphael',
-    tw_name: 'Raphael'
+    tw_name: '颶風騎士'
   },
   9914880: {
     id: 9914880,
@@ -3002,7 +3002,7 @@ const sp_weapon_data = {
     jp_name: 'レディの象徴（多分）',
     cn_name: '淑女的象征（大概）',
     en_name: "A Lady's Hallmark (Perhaps)",
-    tw_name: "A Lady's Hallmark (Perhaps)"
+    tw_name: "淑女的象徵（大概）"
   },
   9914900: {
     id: 9914900,
@@ -3015,7 +3015,7 @@ const sp_weapon_data = {
     jp_name: '吉祥秋津',
     cn_name: '吉祥秋津',
     en_name: 'Auspicious Dragonfly',
-    tw_name: 'Auspicious Dragonfly'
+    tw_name: '吉祥秋津'
   },
   9914920: {
     id: 9914920,
@@ -3028,7 +3028,7 @@ const sp_weapon_data = {
     jp_name: 'アイゼンくん',
     cn_name: '小铁（Eisen）',
     en_name: 'Eisen',
-    tw_name: 'Eisen'
+    tw_name: '小鐵（Eisen）'
   },
   9914940: {
     id: 9914940,
@@ -3041,7 +3041,7 @@ const sp_weapon_data = {
     jp_name: 'あざとい要注意',
     cn_name: '注意危险哦？',
     en_name: 'Eyes Out for Danger',
-    tw_name: 'Eyes Out for Danger'
+    tw_name: '注意危險哦？'
   },
   9914960: {
     id: 9914960,
@@ -3054,7 +3054,7 @@ const sp_weapon_data = {
     jp_name: '月桂の時輪',
     cn_name: '月桂时轮',
     en_name: 'Laureled Timepiece',
-    tw_name: 'Laureled Timepiece'
+    tw_name: '月桂時輪'
   },
   9914980: {
     id: 9914980,
@@ -3383,7 +3383,7 @@ const sp_weapon_data = {
     jp_name: '四◯式戦術刀',
     cn_name: '四o式战术刀',
     en_name: "Type-4O Sword",
-    tw_name: "Type-4O Sword"
+    tw_name: "四〇式戰術刀"
   },
   9915480: {
     id: 9915480,
@@ -3396,7 +3396,7 @@ const sp_weapon_data = {
     jp_name: '白の契約',
     cn_name: '白之契约',
     en_name: "Virtuous Contract",
-    tw_name: "Virtuous Contract"
+    tw_name: "白之契約"
   },
   9915500: {
     id: 9915500,
@@ -3409,7 +3409,7 @@ const sp_weapon_data = {
     jp_name: 'グラーツィア・スタイル',
     cn_name: '波拉的护手刺剑',
     en_name: "Grazia e Disciplina",
-    tw_name: "Grazia e Disciplina"
+    tw_name: "波拉的護手刺劍"
   },
   9915520: {
     id: 9915520,
@@ -3422,6 +3422,32 @@ const sp_weapon_data = {
     jp_name: 'OKキャップ',
     cn_name: '十分OK！',
     en_name: "OK! Cap",
-    tw_name: "OK! Cap"
+    tw_name: "十分OK！"
+  },
+  9915540: {
+    id: 9915540,
+    icon: '15540',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    limit: 20509,
+    type: 6,
+    jp_name: '焼き立ての闘志',
+    cn_name: '皇家骑士剑',
+    en_name: "Ovenforged Pride",
+    tw_name: "Ovenforged Pride"
+  },
+  9915560: {
+    id: 9915560,
+    icon: '15560',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    limit: 30308,
+    type: 4,
+    jp_name: '派手さも流儀のうち',
+    cn_name: '完美之帽',
+    en_name: "Wear It With Flair",
+    tw_name: "Wear It With Flair"
   }
 };

@@ -5373,8 +5373,8 @@ const equip_data = {
       6, 7, 9, 10, 11, 12, 14, 15, 16, 17, 22, 23, 24],
     jp_name: '113mm単装両用砲Mark IV',
     cn_name: '单装113mm高平两用炮Mark IV',
+    tw_name: '單裝113mm高平兩用砲Mark IV',
     en_name: 'Single 113mm Dual-Purpose Mark IV Gun Mount',
-    tw_name: 'Single 113mm Dual-Purpose Mark IV Gun Mount',
     equip_limit: 0,
     cd: [
       141, 137, 134, 130, 127, 123, 119, 115, 111, 108, 105, 105, 105, 105]
@@ -10190,7 +10190,7 @@ const equip_data = {
       8, 17, 22, 23, 24],
     jp_name: '試作型203mmSKC三連装砲改',
     cn_name: '试作型三联装203mmSKC主炮改',
-    tw_name: 'Prototype Triple 203mm SKC Main Gun Mount',
+    tw_name: '試作型三聯裝203mmSKC主炮改',
     en_name: 'Prototype Triple 203mm SKC Main Gun Mount',
     equip_limit: 0,
     cd: [
@@ -10992,7 +10992,7 @@ const equip_data = {
       8, 17, 22, 23, 24],
     jp_name: '試作型55mm Gerät 58対空砲',
     cn_name: '试作型55mm Gerät 58防空炮',
-    tw_name: 'Prototype 55mm Gerät 58 AA Gun Mount',
+    tw_name: '試作型55mm Gerät 58防空炮',
     en_name: 'Prototype 55mm Gerät 58 AA Gun Mount',
     equip_limit: 0,
     cd: [
@@ -11009,8 +11009,8 @@ const equip_data = {
       7, 8, 9, 11, 14, 15, 16, 17, 22, 23, 24],
     jp_name: '40mm Flak28機関銃',
     cn_name: '单装40mm Flak28机炮',
+    tw_name: '單裝40mm Flak28機炮',
     en_name: '40mm Flak28 Machine Gun',
-    tw_name: '40mm Flak28 Machine Gun',
     equip_limit: 0,
     cd: [
       104, 101, 98, 94, 92, 88, 86, 83, 80, 76, 73, 73]
@@ -11197,8 +11197,8 @@ const equip_data = {
       22, 23, 24],
     jp_name: '試作型艦上式FW-190 G-3/R1',
     cn_name: '试作舰载型FW-190 G-3/R1',
+    tw_name: '試作艦載型FW-190 G-3/R1',
     en_name: 'Prototype Carrier-Based FW-190 G-3/R1',
-    tw_name: 'Prototype Carrier-Based FW-190 G-3/R1',
     equip_limit: 0,
     cd: [
       1708, 1683, 1658, 1633, 1608, 1583, 1558, 1533, 1508, 1483, 1458, 1458, 1458, 1458]
@@ -11592,8 +11592,8 @@ const equip_data = {
       1, 2, 3, 6, 7, 8, 9, 11, 12, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24],
     jp_name: '406mm三連装砲B-37 MK-1',
     cn_name: 'B-37 三联装406mm主炮Mk-1',
+    tw_name: 'B-37 三聯裝406mm主炮Mk-1',
     en_name: 'Triple 406mm MK-1 Main Gun Mount',
-    tw_name: 'Triple 406mm MK-1 Main Gun Mount',
     equip_limit: 0,
     cd: [
       4622, 4526, 4431, 4335, 4240, 4146, 4049, 3955, 3859, 3764, 3670, 3670, 3670, 3670]
@@ -11796,8 +11796,8 @@ const equip_data = {
       22, 23, 24],
     jp_name: '試作型艦上式La-9',
     cn_name: '试作舰载型La-9',
+    tw_name: '試作艦載型La-9',
     en_name: 'Prototype Carrier-Based La-9',
-    tw_name: 'Prototype Carrier-Based La-9',
     equip_limit: 0,
     cd: [
       2119, 2083, 2047, 2011, 1975, 1939, 1903, 1867, 1831, 1795, 1759, 1759, 1759, 1759]
@@ -11813,8 +11813,8 @@ const equip_data = {
       10, 22, 23, 24],
     jp_name: '試作型VIT-2（モードチェンジ）',
     cn_name: '试作型VIT-2（模式调整）',
+    tw_name: '試作型VIT-2（模式調整）',
     en_name: 'Prototype VIT-2 (Mode Change)',
-    tw_name: 'Prototype VIT-2 (Mode Change)',
     equip_limit: 0,
     cd: [
       2104, 2068, 2032, 1996, 1960, 1924, 1888, 1852, 1816, 1780, 1744, 1744, 1744, 1744]
@@ -11830,8 +11830,8 @@ const equip_data = {
       22, 23, 24],
     jp_name: '試作型180mm三連装砲B-1-P Model1932改',
     cn_name: '试作型B-1-P 三联装180mm主炮Model1932改',
+    tw_name: '試作型B-1-P 三聯裝180mm主炮Model1932改',
     en_name: 'Prototype Triple 180mm B-1-P Model 1932 (Impr.) Main Gun Mount',
-    tw_name: 'Prototype Triple 180mm B-1-P Model 1932 (Impr.) Main Gun Mount',
     equip_limit: 0,
     cd: [
       586, 570, 564, 548, 542, 526, 520, 514, 508, 502, 496, 496, 496, 496]
@@ -11847,8 +11847,8 @@ const equip_data = {
       10, 22, 23, 24],
     jp_name: '試作型Su-6(艦載型)',
     cn_name: '试作舰载型Su-6',
+    tw_name: '試作艦載型Su-6',
     en_name: 'Prototype Carrier-Based Su-6',
-    tw_name: 'Prototype Carrier-Based Su-6',
     equip_limit: 0,
     cd: [
       2154, 2116, 2078, 2040, 2002, 1964, 1926, 1888, 1850, 1812, 1774, 1774, 1774, 1774]
@@ -11864,8 +11864,8 @@ const equip_data = {
       22, 23, 24],
     jp_name: 'B-1-K 180mm単装砲',
     cn_name: 'B-1-K 单装180mm主炮',
+    tw_name: 'B-1-K 單裝180mm主炮',
     en_name: 'Single 180mm B-1-K Main Gun Mount',
-    tw_name: 'Single 180mm B-1-K Main Gun Mount',
     equip_limit: 0,
     cd: [
       316, 307, 297, 288, 280, 270, 262, 251, 243, 234, 225, 225]
@@ -11881,8 +11881,8 @@ const equip_data = {
       22, 23, 24],
     jp_name: 'B-38 152mm連装砲MK17',
     cn_name: 'B-38 双联装152mm主炮MK17',
+    tw_name: 'B-38 雙聯裝152mm主炮MK17',
     en_name: 'Twin 152mm B-38 MK17 Main Gun Mount',
-    tw_name: 'Twin 152mm B-38 MK17 Main Gun Mount',
     equip_limit: 0,
     cd: [
       541, 525, 519, 503, 497, 481, 475, 469, 463, 457, 451, 451]
@@ -11898,8 +11898,8 @@ const equip_data = {
       22, 23, 24],
     jp_name: '130mm単装砲Model1913',
     cn_name: '130mm单装炮Model1913',
+    tw_name: '130mm單裝炮Model1913',
     en_name: 'Single 130mm Model 1913 Main Gun Mount',
-    tw_name: 'Single 130mm Model 1913 Main Gun Mount',
     equip_limit: 0,
     cd: [
       246, 240, 234, 228, 222, 216, 210, 210]
@@ -11915,8 +11915,8 @@ const equip_data = {
       22, 23, 24],
     jp_name: '356mm三連装砲Model1913',
     cn_name: '三联装356mm主炮Model1913',
+    tw_name: '三聯裝356mm主炮Model1913',
     en_name: 'Triple 356mm Model 1913 Main Gun Mount',
-    tw_name: 'Triple 356mm Model 1913 Main Gun Mount',
     equip_limit: 0,
     cd: [
       4370, 4283, 4196, 4109, 4022, 3935, 3848, 3761, 3674, 3587, 3500, 3500]
@@ -11932,8 +11932,8 @@ const equip_data = {
       10, 22, 23, 24],
     jp_name: 'R-5',
     cn_name: 'R-5轰炸机',
+    tw_name: 'R-5轟炸機',
     en_name: 'R-5',
-    tw_name: 'R-5',
     equip_limit: 0,
     cd: [
       1985, 1955, 1925, 1895, 1865, 1835, 1805, 1805]
@@ -11949,8 +11949,8 @@ const equip_data = {
       10, 22, 23, 24],
     jp_name: 'LBSh',
     cn_name: 'LBSh',
-    en_name: 'LBSh',
     tw_name: 'LBSh',
+    en_name: 'LBSh',
     equip_limit: 0,
     cd: [
       2140, 2102, 2064, 2026, 1988, 1950, 1912, 1874, 1836, 1798, 1760, 1760]
@@ -11966,7 +11966,7 @@ const equip_data = {
       8, 17, 22, 23, 24],
     jp_name: 'SM-40 試作型220mm三連装砲',
     cn_name: 'SM-40 试作型三联装220mm主炮',
-    tw_name: 'SM-40 Prototype Triple 220mm Main Gun Mount',
+    tw_name: 'SM-40 試作型三聯裝220mm主炮',
     en_name: 'SM-40 Prototype Triple 220mm Main Gun Mount',
     equip_limit: 0,
     cd: [
@@ -11983,8 +11983,8 @@ const equip_data = {
       22, 23, 24],
     jp_name: 'I-15',
     cn_name: 'I-15',
-    en_name: 'I-15',
     tw_name: 'I-15',
+    en_name: 'I-15',
     equip_limit: 0,
     cd: [
       1638, 1615, 1592, 1569, 1546, 1523, 1500, 1500]
@@ -12000,8 +12000,8 @@ const equip_data = {
       22, 23, 24],
     jp_name: '試作型艦上式Yak-1',
     cn_name: '试作舰载型Yak-1',
+    tw_name: '試作艦載型Yak-1',
     en_name: 'Prototype Carrier-Based Yak-1',
-    tw_name: 'Prototype Carrier-Based Yak-1',
     equip_limit: 0,
     cd: [
       1750, 1715, 1680, 1645, 1610, 1575, 1540, 1505, 1470, 1435, 1400, 1400]
@@ -12017,8 +12017,8 @@ const equip_data = {
       22, 23, 24],
     jp_name: '試作型艦上式Yak-3',
     cn_name: '试作舰载型Yak-3',
+    tw_name: '試作艦載型Yak-3',
     en_name: 'Prototype Carrier-Based Yak-3',
-    tw_name: 'Prototype Carrier-Based Yak-3',
     equip_limit: 0,
     cd: [
       1750, 1715, 1680, 1645, 1610, 1575, 1540, 1505, 1470, 1435, 1400, 1400]
@@ -12034,8 +12034,8 @@ const equip_data = {
       22, 23, 24],
     jp_name: '試作型艦上式Yak-7',
     cn_name: '试作舰载型Yak-7',
+    tw_name: '試作艦載型Yak-7',
     en_name: 'Prototype Carrier-Based Yak-7',
-    tw_name: 'Prototype Carrier-Based Yak-7',
     equip_limit: 0,
     cd: [
       1724, 1702, 1680, 1658, 1636, 1614, 1592, 1570, 1548, 1526, 1504, 1504]
@@ -12537,7 +12537,7 @@ const equip_data = {
       1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 17, 18, 20, 21, 22, 23, 24],
     jp_name: 'かに（レシート付き）',
     cn_name: '帝王蟹(附带小票)',
-    tw_name: 'Crab (With Receipt)',
+    tw_name: '帝王蟹（附帶收據）',
     en_name: 'Crab (With Receipt)',
     equip_limit: 89640,
     cd: []
@@ -12553,7 +12553,7 @@ const equip_data = {
       1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 17, 18, 20, 21, 22, 23, 24],
     jp_name: '竜の置物',
     cn_name: '木龙雕塑',
-    tw_name: 'Dragon Figurine',
+    tw_name: '木龍雕塑',
     en_name: 'Dragon Figurine',
     equip_limit: 89640,
     cd: []
@@ -12568,7 +12568,7 @@ const equip_data = {
     ship_type_forbidden: [],
     jp_name: 'シノビのメダル',
     cn_name: '忍者大师徽章',
-    tw_name: 'Shinobi Medal',
+    tw_name: '忍者大師徽章',
     en_name: 'Shinobi Medal',
     equip_limit: 0,
     cd: []
@@ -12583,7 +12583,7 @@ const equip_data = {
     ship_type_forbidden: [],
     jp_name: 'シノビの装束',
     cn_name: '忍者装束',
-    tw_name: 'Shinobi Attire',
+    tw_name: '忍者裝束',
     en_name: 'Shinobi Attire',
     equip_limit: 0,
     cd: []
@@ -12598,7 +12598,7 @@ const equip_data = {
     ship_type_forbidden: [],
     jp_name: '忍術の巻物',
     cn_name: '忍术卷轴',
-    tw_name: 'Ninjutsu Scroll',
+    tw_name: '忍術捲軸',
     en_name: 'Ninjutsu Scroll',
     equip_limit: 0,
     cd: []
@@ -12613,7 +12613,7 @@ const equip_data = {
     ship_type_forbidden: [],
     jp_name: 'パッションμチケット',
     cn_name: 'μ兵装三期LIVE纪念票',
-    tw_name: 'Harmony μ Ticket',
+    tw_name: 'μ兵裝三期LIVE紀念票',
     en_name: 'Harmony μ Ticket',
     equip_limit: 0,
     cd: []
@@ -12628,7 +12628,7 @@ const equip_data = {
     ship_type_forbidden: [],
     jp_name: '「Alizarin」応援タオル',
     cn_name: '「Alizarin」应援毛巾',
-    tw_name: 'Alizarin Support Towel',
+    tw_name: '「Alizarin」應援毛巾',
     en_name: 'Alizarin Support Towel',
     equip_limit: 0,
     cd: []
@@ -12643,7 +12643,7 @@ const equip_data = {
     ship_type_forbidden: [],
     jp_name: '「Cyanidin」応援タオル',
     cn_name: '「Cyanidin」应援毛巾',
-    tw_name: 'Cyanidin Support Towel',
+    tw_name: '「Cyanidin」應援毛巾',
     en_name: 'Cyanidin Support Towel',
     equip_limit: 0,
     cd: []
@@ -12762,7 +12762,7 @@ const equip_data = {
       6, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 22, 23, 24],
     jp_name: '138.6mm連装砲Mle 1934',
     cn_name: '双联装138.6mm主炮Mle1934',
-    tw_name: 'Twin 138.6mm Mle 1934 Naval Gun',
+    tw_name: '雙聯裝138.6mm主炮Mle1934',
     en_name: 'Twin 138.6mm Mle 1934 Naval Gun',
     equip_limit: 0,
     cd: [
@@ -12983,7 +12983,7 @@ const equip_data = {
       22, 23, 24],
     jp_name: '試作型380mm三連装砲Mle1935',
     cn_name: '试作型三联装380mm主炮Mle1935',
-    tw_name: 'Prototype Triple 380mm Mle 1935 Main Gun Mount',
+    tw_name: '試作型三聯裝380mm主炮Mle1935',
     en_name: 'Prototype Triple 380mm Mle 1935 Main Gun Mount',
     equip_limit: 0,
     cd: [
@@ -13102,7 +13102,7 @@ const equip_data = {
       22, 23, 24],
     jp_name: '100mm連装高角砲Mle1937',
     cn_name: '双联装100mm高炮Mle1937',
-    tw_name: 'Twin 100mm Mle1937 High-Angle Gun',
+    tw_name: '雙聯裝100mm高炮Mle1937',
     en_name: 'Twin 100mm Mle1937 High-Angle Gun',
     equip_limit: 0,
     cd: [
@@ -13119,7 +13119,7 @@ const equip_data = {
       22, 23, 24],
     jp_name: '100mm連装高角砲Mle1945',
     cn_name: '双联装100mm高炮Mle1945',
-    tw_name: 'Twin 100mm Mle1945 High-Angle Gun',
+    tw_name: '雙聯裝100mm高炮Mle1945',
     en_name: 'Twin 100mm Mle1945 High-Angle Gun',
     equip_limit: 0,
     cd: [
@@ -13458,7 +13458,7 @@ const equip_data = {
     ship_type_forbidden: [],
     jp_name: 'クロスプローチ',
     cn_name: '十字胸针',
-    tw_name: 'Cross Brooch',
+    tw_name: '十字胸針',
     en_name: 'Cross Brooch',
     equip_limit: 0,
     cd: []
@@ -13558,7 +13558,7 @@ const equip_data = {
     ship_type_forbidden: [22, 23, 24],
     jp_name: '試作型127mm連装砲Mle1948',
     cn_name: '试作型双联装127mm主炮Mle1948',
-    tw_name: 'Twin 127mm Mle 1948 Naval Gun',
+    tw_name: '試作型雙聯裝127mm主炮Mle1948',
     en_name: 'Twin 127mm Mle 1948 Naval Gun',
     equip_limit: 0,
     cd: [
@@ -13951,7 +13951,7 @@ const equip_data = {
       22, 23, 24],
     jp_name: '120mm連装砲',
     cn_name: '双联装120mm主炮',
-    tw_name: 'Twin 120mm Gun Mount',
+    tw_name: '雙聯裝120mm主炮',
     en_name: 'Twin 120mm Gun Mount',
     equip_limit: 0,
     cd: [
@@ -14002,7 +14002,7 @@ const equip_data = {
       22, 23, 24],
     jp_name: '試作型152mm三連装砲Model1936',
     cn_name: '试作型三联装152mm主炮Model1936',
-    tw_name: 'Prototype Triple 152mm Model 1936 Main Gun Mount',
+    tw_name: '試作型三聯裝152mm主炮Model1936',
     en_name: 'Prototype Triple 152mm Model 1936 Main Gun Mount',
     equip_limit: 0,
     cd: [
@@ -14258,7 +14258,7 @@ const equip_data = {
       8, 17, 22, 23, 24],
     jp_name: '試作型254mm三連装砲Model1939',
     cn_name: '试作型三联装254mm主炮Model1939',
-    tw_name: 'Prototype Triple 254mm Model 1939 Main Gun Mount',
+    tw_name: '試作型三聯裝254mm主炮Model1939',
     en_name: 'Prototype Triple 254mm Model 1939 Main Gun Mount',
     equip_limit: 0,
     cd: [
@@ -14275,7 +14275,7 @@ const equip_data = {
       22, 23, 24],
     jp_name: '305mm三連装砲Model1909',
     cn_name: '三联装305mm主炮Model1909',
-    tw_name: 'Triple 305mm Model 1909 Main Gun Mount',
+    tw_name: '三聯裝305mm主炮Model1909',
     en_name: 'Triple 305mm Model 1909 Main Gun Mount',
     equip_limit: 0,
     cd: [
@@ -14292,7 +14292,7 @@ const equip_data = {
       22, 23, 24],
     jp_name: '381mm連装砲Model1914',
     cn_name: '双联装381mm主炮Model1914',
-    tw_name: 'Twin 381mm Model 1914 Main Gun Mount',
+    tw_name: '雙聯裝381mm主炮Model1914',
     en_name: 'Twin 381mm Model 1914 Main Gun Mount',
     equip_limit: 0,
     cd: [
@@ -14309,7 +14309,7 @@ const equip_data = {
       22, 23, 24],
     jp_name: '13.2mmBreda連装対空機関砲',
     cn_name: '双联装Breda13.2mm高炮',
-    tw_name: 'Twin 13.2mm Breda Anti-Air Autocannon',
+    tw_name: '雙聯裝Breda13.2mm高炮',
     en_name: 'Twin 13.2mm Breda Anti-Air Autocannon',
     equip_limit: 0,
     cd: [
@@ -14326,7 +14326,7 @@ const equip_data = {
       22, 23, 24],
     jp_name: '65mm対空砲Model1939',
     cn_name: '单装65mmModel1939高炮',
-    tw_name: '65mm Model 1939 Anti-Air Gun',
+    tw_name: '單裝65mmModel1939高炮',
     en_name: '65mm Model 1939 Anti-Air Gun',
     equip_limit: 0,
     cd: [
@@ -14343,7 +14343,7 @@ const equip_data = {
       22, 23, 24],
     jp_name: '20mmBreda連装対空機関砲',
     cn_name: '双联装Breda20mm高炮',
-    tw_name: 'Twin 20mm Breda Anti-Air Autocannon',
+    tw_name: '雙聯裝Breda20mm高炮',
     en_name: 'Twin 20mm Breda Anti-Air Autocannon',
     equip_limit: 0,
     cd: [
@@ -14360,7 +14360,7 @@ const equip_data = {
       22, 23, 24],
     jp_name: '試作型406mm三連装砲Model1940改',
     cn_name: '试作型三联装406mm主炮Model1940改',
-    tw_name: 'Prototype Triple 406mm Model 1940 (Improved) Main Gun Mount',
+    tw_name: '試作型三聯裝406mm主炮Model1940改',
     en_name: 'Prototype Triple 406mm Model 1940 (Improved) Main Gun Mount',
     equip_limit: 0,
     cd: [
@@ -14377,7 +14377,7 @@ const equip_data = {
       22, 23, 24],
     jp_name: '試作型20mmScotti六連装機関砲Model1941',
     cn_name: '试作型六联装Scotti20mm机炮Model1941',
-    tw_name: 'Prototype Sextuple 20mm Scotti Model 1941 Anti-Air Gun',
+    tw_name: '試作型六聯裝Scotti20mm機炮Model1941',
     en_name: 'Prototype Sextuple 20mm Scotti Model 1941 Anti-Air Gun',
     equip_limit: 0,
     cd: [
@@ -14394,7 +14394,7 @@ const equip_data = {
       22, 23, 24],
     jp_name: '試作型533mm四連装魚雷Si 270',
     cn_name: '试作型四联装533毫米鱼雷Si 270',
-    tw_name: 'Prototype Quadruple 533mm Si 270 Torpedo Mount',
+    tw_name: '試作型四聯裝533毫米魚雷Si 270',
     en_name: 'Prototype Quadruple 533mm Si 270 Torpedo Mount',
     equip_limit: 0,
     cd: [
@@ -14412,7 +14412,7 @@ const equip_data = {
     ship_type_forbidden: [],
     jp_name: '刺繍の錦嚢',
     cn_name: '刺绣锦囊',
-    tw_name: 'Embroidered Charm Pouch',
+    tw_name: '刺繡錦囊',
     en_name: 'Embroidered Charm Pouch',
     equip_limit: 0,
     cd: []
@@ -14427,7 +14427,7 @@ const equip_data = {
     ship_type_forbidden: [],
     jp_name: 'テンペスタ・フラッグ',
     cn_name: '飓风旗',
-    tw_name: 'Tempesta Banner',
+    tw_name: '颶風旗',
     en_name: 'Tempesta Banner',
     equip_limit: 0,
     cd: []
@@ -14443,7 +14443,7 @@ const equip_data = {
       1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 17, 18, 19, 20, 21],
     jp_name: '旧式重火砲',
     cn_name: '旧式重火炮',
-    tw_name: 'Old Heavy Cannon',
+    tw_name: '舊式重火炮',
     en_name: 'Old Heavy Cannon',
     equip_limit: 0,
     cd: [
@@ -14460,7 +14460,7 @@ const equip_data = {
       1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 17, 18, 19, 20, 21],
     jp_name: '旧式重火砲',
     cn_name: '旧式重火炮',
-    tw_name: 'Old Heavy Cannon',
+    tw_name: '舊式重火炮',
     en_name: 'Old Heavy Cannon',
     equip_limit: 0,
     cd: [
@@ -14477,7 +14477,7 @@ const equip_data = {
       1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 17, 18, 19, 20, 21],
     jp_name: '旧式半カノン砲',
     cn_name: '旧式半加农炮',
-    tw_name: 'Old Demi-Cannon',
+    tw_name: '舊式半加農炮',
     en_name: 'Old Demi-Cannon',
     equip_limit: 0,
     cd: [
@@ -14494,7 +14494,7 @@ const equip_data = {
       1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 17, 18, 19, 20, 21],
     jp_name: '旧式半カノン砲',
     cn_name: '旧式半加农炮',
-    tw_name: 'Old Demi-Cannon',
+    tw_name: '舊式半加農炮',
     en_name: 'Old Demi-Cannon',
     equip_limit: 0,
     cd: [
@@ -14511,7 +14511,7 @@ const equip_data = {
       1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 17, 18, 19, 20, 21],
     jp_name: '果物補給',
     cn_name: '果蔬补给品',
-    tw_name: 'Fruit Rations',
+    tw_name: '蔬果補給品',
     en_name: 'Fruit Rations',
     equip_limit: 150160,
     cd: []
@@ -14527,7 +14527,7 @@ const equip_data = {
       1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 17, 18, 19, 20, 21],
     jp_name: '航海望遠鏡',
     cn_name: '航海望远镜',
-    tw_name: 'Nautical Telescope',
+    tw_name: '航海望遠鏡',
     en_name: 'Nautical Telescope',
     equip_limit: 0,
     cd: []
@@ -14542,7 +14542,7 @@ const equip_data = {
     ship_type_forbidden: [],
     jp_name: '星の海B2Oエリア通行パス',
     cn_name: '星海B2O区通行证',
-    tw_name: 'Sea of Stars Area B20 Access Pass',
+    tw_name: '星海B2O區通行證',
     en_name: 'Sea of Stars Area B20 Access Pass',
     equip_limit: 0,
     cd: []
@@ -14558,7 +14558,7 @@ const equip_data = {
       1, 2, 3, 6, 7, 8, 9, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24],
     jp_name: '寰昌の釣り竿',
     cn_name: '寰昌的钓鱼竿',
-    tw_name: "Huan Ch'ang's Fishing Rod",
+    tw_name: "寰昌的釣竿",
     en_name: "Huan Ch'ang's Fishing Rod",
     equip_limit: 0,
     cd: []
@@ -14573,7 +14573,7 @@ const equip_data = {
     ship_type_forbidden: [],
     jp_name: 'アセンション・ボックス',
     cn_name: '通天之匣',
-    tw_name: 'Ascension Box',
+    tw_name: '通天之匣',
     en_name: 'Ascension Box',
     equip_limit: 0,
     cd: []
@@ -14588,7 +14588,7 @@ const equip_data = {
     ship_type_forbidden: [],
     jp_name: '異世界冒険端末',
     cn_name: '异世界冒险终端',
-    tw_name: 'RPG Adventure Interface',
+    tw_name: '異世界冒險終端',
     en_name: 'RPG Adventure Interface',
     equip_limit: 0,
     cd: []
@@ -14604,7 +14604,7 @@ const equip_data = {
       1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24],
     jp_name: '残された時の残響',
     cn_name: '被定格的彼岸花',
-    tw_name: 'Echoes of Relinquished Time',
+    tw_name: '被定格的彼岸花',
     en_name: 'Echoes of Relinquished Time',
     equip_limit: 0,
     cd: []
@@ -14619,7 +14619,7 @@ const equip_data = {
     ship_type_forbidden: [],
     jp_name: '謎のD装置',
     cn_name: '奇怪装置「D」',
-    tw_name: 'Enigmata "D"',
+    tw_name: '奇怪裝置「D」',
     en_name: 'Enigmata "D"',
     equip_limit: 0,
     cd: []
@@ -14634,7 +14634,7 @@ const equip_data = {
     ship_type_forbidden: [],
     jp_name: '共同演習記念コイン（限定版）',
     cn_name: '联合演习纪念币（限定版）',
-    tw_name: 'Limited-Edition Joint Exercise Coin',
+    tw_name: '聯合演習紀念幣（限定版）',
     en_name: 'Limited-Edition Joint Exercise Coin',
     equip_limit: 0,
     cd: []
@@ -14650,7 +14650,7 @@ const equip_data = {
       8, 17, 22, 23, 24],
     jp_name: '輸送用高速ドローン',
     cn_name: '速运高速无人机',
-    tw_name: 'Fargo Direct Drone',
+    tw_name: '快遞高速無人機',
     en_name: 'Fargo Direct Drone',
     equip_limit: 0,
     cd: []
@@ -14666,7 +14666,7 @@ const equip_data = {
       1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 17, 18, 19, 20, 21],
     jp_name: '貴重品の箱',
     cn_name: '珍贵货物箱',
-    tw_name: 'Chest Full of Treasure',
+    tw_name: '珍貴貨物箱',
     en_name: 'Chest Full of Treasure',
     equip_limit: 150380,
     cd: []
@@ -14682,7 +14682,7 @@ const equip_data = {
       1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 17, 18, 19, 20, 21],
     jp_name: 'ぶどう弾',
     cn_name: '葡萄弹',
-    tw_name: 'Grapeshot',
+    tw_name: '葡萄彈',
     en_name: 'Grapeshot',
     equip_limit: 3740,
     cd: []
@@ -14698,7 +14698,7 @@ const equip_data = {
       1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 17, 18, 19, 20, 21],
     jp_name: '酒類補給品',
     cn_name: '酒饮补给品',
-    tw_name: 'Rum Keg',
+    tw_name: '酒飲補給品',
     en_name: 'Rum Keg',
     equip_limit: 150420,
     cd: []
@@ -14713,7 +14713,7 @@ const equip_data = {
     ship_type_forbidden: [],
     jp_name: 'ぐつぐつ料理くん',
     cn_name: '咻咻料理君',
-    tw_name: 'Bubbly-Boily Chef',
+    tw_name: '咻咻料理君',
     en_name: 'Bubbly-Boily Chef',
     equip_limit: 0,
     cd: []
@@ -14728,7 +14728,7 @@ const equip_data = {
     ship_type_forbidden: [],
     jp_name: '売上アップマシン',
     cn_name: '嗡嗡倾听君',
-    tw_name: 'Sales Boosta-Bot',
+    tw_name: '嗡嗡傾聽君',
     en_name: 'Sales Boosta-Bot',
     equip_limit: 0,
     cd: []
@@ -14743,7 +14743,7 @@ const equip_data = {
     ship_type_forbidden: [],
     jp_name: '存在感消去スプレー',
     cn_name: '嘘嘘隐身君',
-    tw_name: 'Sneaky-Stealthy Prowler',
+    tw_name: '噓噓隱身君',
     en_name: 'Sneaky-Stealthy Prowler',
     equip_limit: 0,
     cd: []
@@ -14758,7 +14758,7 @@ const equip_data = {
     ship_type_forbidden: [],
     jp_name: '仕事が楽しくなるメカ',
     cn_name: '嘻嘻加班君',
-    tw_name: 'All Work, All Play Robot',
+    tw_name: '嘻嘻加班君',
     en_name: 'All Work, All Play Robot',
     equip_limit: 0,
     cd: []
@@ -14774,7 +14774,7 @@ const equip_data = {
       1, 2, 6, 7, 8, 11, 12, 17, 20, 21, 22, 23, 24],
     jp_name: 'ぐんぐんグロースくん',
     cn_name: '嘭嘭速生君',
-    tw_name: 'Speedy Sprouty Botanist',
+    tw_name: '嘭嘭速生君',
     en_name: 'Speedy Sprouty Botanist',
     equip_limit: 0,
     cd: []
@@ -14790,7 +14790,7 @@ const equip_data = {
       1, 2, 3, 6, 7, 8, 9, 11, 12, 17, 18, 19, 20, 21, 22, 23, 24],
     jp_name: 'もくもくホラーくん',
     cn_name: '噗噗氛围君',
-    tw_name: 'Spooky Scary Specter',
+    tw_name: '噗噗氛圍君',
     en_name: 'Spooky Scary Specter',
     equip_limit: 0,
     cd: []
@@ -14805,7 +14805,7 @@ const equip_data = {
     ship_type_forbidden: [],
     jp_name: 'でるでるオーラくん',
     cn_name: '辉辉光环君',
-    tw_name: 'More-y Glory Aura Booster',
+    tw_name: '輝輝光環君',
     en_name: 'More-y Glory Aura Booster',
     equip_limit: 0,
     cd: []
@@ -14820,7 +14820,7 @@ const equip_data = {
     ship_type_forbidden: [],
     jp_name: '絆のハンカチ',
     cn_name: '孟菲斯之蓝',
-    tw_name: 'Precious Handkerchief',
+    tw_name: '曼非斯之藍',
     en_name: 'Precious Handkerchief',
     equip_limit: 0,
     cd: []
@@ -14835,7 +14835,7 @@ const equip_data = {
     ship_type_forbidden: [],
     jp_name: '伏波の作戦計画',
     cn_name: '伏波的计划书',
-    tw_name: "Fu Po's Battleplan",
+    tw_name: "伏波的計劃書",
     en_name: "Fu Po's Battleplan",
     equip_limit: 0,
     cd: []
@@ -14851,7 +14851,7 @@ const equip_data = {
       1, 2, 3, 6, 7, 8, 11, 12, 13, 17, 18, 19, 20, 21, 22, 23, 24],
     jp_name: 'ティアーラ・プレフェリータ',
     cn_name: '黑日之冕',
-    tw_name: 'Corona Preferita',
+    tw_name: '黑日之冕',
     en_name: 'Corona Preferita',
     equip_limit: 0,
     cd: []
@@ -14866,7 +14866,7 @@ const equip_data = {
     ship_type_forbidden: [],
     jp_name: 'チューリップの花束',
     cn_name: '郁金香花束',
-    tw_name: 'Bouquet of Tulips',
+    tw_name: '鬱金香花束',
     en_name: 'Bouquet of Tulips',
     equip_limit: 0,
     cd: []
@@ -14881,7 +14881,7 @@ const equip_data = {
     ship_type_forbidden: [],
     jp_name: 'あたしの大事なクジラ',
     cn_name: '我的宝贝鲸鱼',
-    tw_name: 'My Precious Whale',
+    tw_name: '我的寶貝鯨魚',
     en_name: 'My Precious Whale',
     equip_limit: 0,
     cd: []
@@ -14896,7 +14896,7 @@ const equip_data = {
     ship_type_forbidden: [],
     jp_name: 'グランシャイン',
     cn_name: '宏伟光辉',
-    tw_name: 'Granshine',
+    tw_name: '宏偉光輝',
     en_name: 'Granshine',
     equip_limit: 0,
     cd: []
@@ -14911,7 +14911,7 @@ const equip_data = {
     ship_type_forbidden: [],
     jp_name: 'スペリオルグリモア',
     cn_name: '高级魔导书',
-    tw_name: 'Superior Grimoire',
+    tw_name: '高級魔導書',
     en_name: 'Superior Grimoire',
     equip_limit: 0,
     cd: []
@@ -14926,7 +14926,7 @@ const equip_data = {
     ship_type_forbidden: [],
     jp_name: 'エンデメテオ',
     cn_name: '最终陨石',
-    tw_name: 'Endemeteo',
+    tw_name: '最終隕石',
     en_name: 'Endemeteo',
     equip_limit: 0,
     cd: []
@@ -14941,7 +14941,7 @@ const equip_data = {
     ship_type_forbidden: [],
     jp_name: 'パナケイアスフィア',
     cn_name: '神药球',
-    tw_name: 'Panacea Sphere',
+    tw_name: '神藥球',
     en_name: 'Panacea Sphere',
     equip_limit: 0,
     cd: []
@@ -14956,7 +14956,7 @@ const equip_data = {
     ship_type_forbidden: [],
     jp_name: 'アンフェルキューブ',
     cn_name: '地狱立方体',
-    tw_name: 'Enfer Cube',
+    tw_name: '地獄立方體',
     en_name: 'Enfer Cube',
     equip_limit: 0,
     cd: []
@@ -14971,7 +14971,7 @@ const equip_data = {
     ship_type_forbidden: [],
     jp_name: '天恵のアーミラリ',
     cn_name: '天恩浑仪',
-    tw_name: 'Heavenly Armillary',
+    tw_name: '天恩渾儀',
     en_name: 'Heavenly Armillary',
     equip_limit: 0,
     cd: []
@@ -14986,7 +14986,7 @@ const equip_data = {
     ship_type_forbidden: [],
     jp_name: 'フラミィ',
     cn_name: '芙拉米',
-    tw_name: 'Flammi',
+    tw_name: '芙拉米',
     en_name: 'Flammi',
     equip_limit: 0,
     cd: []
@@ -15001,7 +15001,7 @@ const equip_data = {
     ship_type_forbidden: [],
     jp_name: '重桜の招待状',
     cn_name: '重樱的邀请函',
-    tw_name: 'Sakuran Summons',
+    tw_name: '重櫻的邀請函',
     en_name: 'Sakuran Summons',
     equip_limit: 0,
     cd: []
@@ -15016,7 +15016,7 @@ const equip_data = {
     ship_type_forbidden: [],
     jp_name: '自由群島招待状',
     cn_name: '自由群岛邀请函',
-    tw_name: 'Invitation to Islas de Libertád',
+    tw_name: '自由群島邀請函',
     en_name: 'Invitation to Islas de Libertád',
     equip_limit: 0,
     cd: []
@@ -15031,7 +15031,7 @@ const equip_data = {
     ship_type_forbidden: [],
     jp_name: '封解主（ミカエル）',
     cn_name: '<封解主（Michael）>',
-    tw_name: 'Michael',
+    tw_name: '<封解主（Michael）>',
     en_name: 'Michael',
     equip_limit: 0,
     cd: []
@@ -15046,7 +15046,7 @@ const equip_data = {
     ship_type_forbidden: [],
     jp_name: '霊結晶',
     cn_name: '灵结晶',
-    tw_name: 'Sephira Crystal',
+    tw_name: '靈結晶',
     en_name: 'Sephira Crystal',
     equip_limit: 0,
     cd: []
@@ -15061,7 +15061,7 @@ const equip_data = {
     ship_type_forbidden: [],
     jp_name: '巨大おにぎり',
     cn_name: '超大饭团',
-    tw_name: 'Giant Onigiri',
+    tw_name: '超巨大飯糰',
     en_name: 'Giant Onigiri',
     equip_limit: 0,
     cd: []
@@ -15076,7 +15076,7 @@ const equip_data = {
     ship_type_forbidden: [],
     jp_name: 'ミステリーアクア',
     cn_name: '海蓝色之谜',
-    tw_name: 'Blue Sea Mystery',
+    tw_name: '海藍色之謎',
     en_name: 'Blue Sea Mystery',
     equip_limit: 0,
     cd: []
@@ -15091,7 +15091,7 @@ const equip_data = {
     ship_type_forbidden: [],
     jp_name: '監督役の脚本',
     cn_name: '导演的剧本书',
-    tw_name: "Director's Screenplay",
+    tw_name: "導演的劇本書",
     en_name: "Director's Screenplay",
     equip_limit: 150940,
     cd: []
@@ -15106,7 +15106,7 @@ const equip_data = {
     ship_type_forbidden: [],
     jp_name: 'オークション招待状',
     cn_name: '拍卖会请柬',
-    tw_name: 'Auction Invitation',
+    tw_name: '拍賣會請柬',
     en_name: 'Auction Invitation',
     equip_limit: 150960,
     cd: []
@@ -15121,7 +15121,7 @@ const equip_data = {
     ship_type_forbidden: [],
     jp_name: '蝶々の竹戯れ',
     cn_name: '香蝶戏竹',
-    tw_name: 'Butterflies Playing with Bamboo',
+    tw_name: '香蝶戲竹',
     en_name: 'Butterflies Playing with Bamboo',
     equip_limit: 150980,
     cd: []
@@ -15137,7 +15137,7 @@ const equip_data = {
     ship_type_forbidden: [],
     jp_name: '蝶々の梅戯れ',
     cn_name: '香蝶弄梅',
-    tw_name: 'Butterflies Fluttering Among Plums',
+    tw_name: '香蝶弄梅',
     en_name: 'Butterflies Fluttering Among Plums',
     equip_limit: 151000,
     cd: []
@@ -15152,7 +15152,7 @@ const equip_data = {
     ship_type_forbidden: [],
     jp_name: 'ザ・ワンダラー',
     cn_name: '漫游者',
-    tw_name: 'The Vagabond',
+    tw_name: '漫遊者',
     en_name: 'The Vagabond',
     equip_limit: 151020,
     cd: []
@@ -15167,7 +15167,7 @@ const equip_data = {
     ship_type_forbidden: [],
     jp_name: 'システム指名手配',
     cn_name: '系统通缉者',
-    tw_name: 'Systemwide Bounty',
+    tw_name: '系統通緝者',
     en_name: 'Systemwide Bounty',
     equip_limit: 151040,
     cd: []
@@ -15182,7 +15182,7 @@ const equip_data = {
     ship_type_forbidden: [],
     jp_name: '零号協議キー',
     cn_name: '零号协议密钥',
-    tw_name: 'Protocol Zero Key',
+    tw_name: '零號協定密鑰',
     en_name: 'Protocol Zero Key',
     equip_limit: 151060,
     cd: []
@@ -15197,7 +15197,7 @@ const equip_data = {
     ship_type_forbidden: [],
     jp_name: '千雷のデコ筆',
     cn_name: '千雷装饰笔',
-    tw_name: 'Electrifying Deco-Pen',
+    tw_name: '千雷裝飾筆',
     en_name: 'Electrifying Deco-Pen',
     equip_limit: 151080,
     cd: []
@@ -15212,7 +15212,7 @@ const equip_data = {
     ship_type_forbidden: [],
     jp_name: 'グラビアパネル',
     cn_name: '写真看板',
-    tw_name: 'Gravure Photocard',
+    tw_name: '寫真看板',
     en_name: 'Gravure Photocard',
     equip_limit: 151100,
     cd: []
@@ -15227,7 +15227,7 @@ const equip_data = {
     ship_type_forbidden: [],
     jp_name: 'しあわせのクローバー',
     cn_name: '幸运四叶草',
-    tw_name: 'Clover of Happiness',
+    tw_name: '幸運四葉草',
     en_name: 'Clover of Happiness',
     equip_limit: 151120,
     cd: []
@@ -15242,7 +15242,7 @@ const equip_data = {
     ship_type_forbidden: [],
     jp_name: '審判号起動キー',
     cn_name: '「审判号」启动钥匙',
-    tw_name: "Key to the Tribunal's Hand",
+    tw_name: "「審判號」啟動鑰匙",
     en_name: "Key to the Tribunal's Hand",
     equip_limit: 151140,
     cd: []
@@ -15273,9 +15273,25 @@ const equip_data = {
     ship_type_forbidden: [],
     jp_name: '笑わせ担当',
     cn_name: '搞笑担当',
+    tw_name: '搞笑擔當',
     en_name: 'Master of Laughter',
-    tw_name: 'Master of Laughter',
     equip_limit: 151180,
+    cd: []
+  },
+  151200: {
+    nationality: 1,
+    type: 10,
+    rarity: 4,
+    tech: 0,
+    id: 151200,
+    icon: '151200',
+    ship_type_forbidden: [
+	1, 2, 3, 4, 5, 8, 10, 11, 12, 13, 17, 18, 19, 20, 21, 22, 23, 24],
+    jp_name: '名探偵の帽子',
+    cn_name: '名侦探之帽',
+    tw_name: "Master Detective's Hat",
+    en_name: "Master Detective's Hat",
+    equip_limit: 151200,
     cd: []
   }
 };
