@@ -15293,5 +15293,20 @@ const equip_data = {
     en_name: "Master Detective's Hat",
     equip_limit: 151200,
     cd: []
+  },
+  151220: {
+    nationality: 1,
+    type: 10,
+    rarity: 5,
+    tech: 0,
+    id: 151220,
+    icon: '151220',
+    ship_type_forbidden: [],
+    jp_name: 'エラーⅩⅢ世',
+    cn_name: 'Error十三世',
+    tw_name: "Error XIII",
+    en_name: "Error XIII",
+    equip_limit: 151220,
+    cd: []
   }
 };
