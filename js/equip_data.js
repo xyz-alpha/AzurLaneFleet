@@ -15308,5 +15308,21 @@ const equip_data = {
     en_name: "Error XIII",
     equip_limit: 151220,
     cd: []
+  },
+  151240: {
+    nationality: 3,
+    type: 10,
+    rarity: 5,
+    tech: 0,
+    id: 151240,
+    icon: '151240',
+    ship_type_forbidden: [
+	2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 17, 18, 19, 20, 21, 22, 23, 24],
+    jp_name: '天つ風の袋',
+    cn_name: '天风袋',
+    tw_name: "Bag of Sky Winds",
+    en_name: "Bag of Sky Winds",
+    equip_limit: 151240,
+    cd: []
   }
 };
