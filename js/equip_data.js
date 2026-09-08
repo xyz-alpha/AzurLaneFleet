@@ -15289,7 +15289,7 @@ const equip_data = {
 	1, 2, 3, 4, 5, 8, 10, 11, 12, 13, 17, 18, 19, 20, 21, 22, 23, 24],
     jp_name: '名探偵の帽子',
     cn_name: '名侦探之帽',
-    tw_name: "Master Detective's Hat",
+    tw_name: "名偵探之帽",
     en_name: "Master Detective's Hat",
     equip_limit: 151200,
     cd: []
@@ -15304,7 +15304,7 @@ const equip_data = {
     ship_type_forbidden: [],
     jp_name: 'エラーⅩⅢ世',
     cn_name: 'Error十三世',
-    tw_name: "Error XIII",
+    tw_name: "Error十三世",
     en_name: "Error XIII",
     equip_limit: 151220,
     cd: []
@@ -15323,6 +15323,21 @@ const equip_data = {
     tw_name: "Bag of Sky Winds",
     en_name: "Bag of Sky Winds",
     equip_limit: 151240,
+    cd: []
+  },
+  151260: {
+    nationality: 0,
+    type: 10,
+    rarity: 4,
+    tech: 0,
+    id: 151260,
+    icon: '151260',
+    ship_type_forbidden: [],
+    jp_name: 'スタッフカード',
+    cn_name: '员工通行卡',
+    tw_name: "Staff Pass",
+    en_name: "Staff Pass",
+    equip_limit: 151260,
     cd: []
   }
 };
