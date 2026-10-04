@@ -5594,7 +5594,7 @@ const equip_data = {
     ship_type_forbidden: [22, 23, 24],
     jp_name: '152mm連装砲MK.XXVI',
     cn_name: '双联装152mm主炮Mk.XXVI',
-    tw_name: 'Twin 152mm Mk.XXVI Main Gun Mount',
+    tw_name: '雙聯裝152mm主炮Mk.XXVI',
     en_name: 'Twin 152mm Mk.XXVI Main Gun Mount',
     equip_limit: 0,
     cd: [
@@ -5611,7 +5611,7 @@ const equip_data = {
     ship_type_forbidden: [22, 23, 24],
     jp_name: '152mm連装砲MK.XXVI',
     cn_name: '双联装152mm主炮Mk.XXVI',
-    tw_name: 'Twin 152mm Mk.XXVI Main Gun Mount',
+    tw_name: '雙聯裝152mm主炮Mk.XXVI',
     en_name: 'Twin 152mm Mk.XXVI Main Gun Mount',
     equip_limit: 0,
     cd: [
