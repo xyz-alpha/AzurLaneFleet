@@ -3067,7 +3067,7 @@ const sp_weapon_data = {
     jp_name: 'クロウ＆リボン',
     cn_name: '锐爪与飘带',
     en_name: 'Claw and Ribbon',
-    tw_name: 'Claw and Ribbon'
+    tw_name: 'Claw and Ribbon*'
   },
 
   9915000: {
@@ -3081,7 +3081,7 @@ const sp_weapon_data = {
     jp_name: '誓約された騎士の剣',
     cn_name: '骑士的誓约长剑 ',
     en_name: "Sworn Knight's Sword",
-    tw_name: "Sworn Knight's Sword"
+    tw_name: "Sworn Knight's Sword*"
   },
   9915020: {
     id: 9915020,
@@ -3094,7 +3094,7 @@ const sp_weapon_data = {
     jp_name: 'ジョージアビーム！',
     cn_name: '佐治亚光线！',
     en_name: 'Georgia Beam!',
-    tw_name: 'Georgia Beam!'
+    tw_name: 'Georgia Beam!*'
   },
   9915040: {
     id: 9915040,
@@ -3107,7 +3107,7 @@ const sp_weapon_data = {
     jp_name: '白雪雪見兎',
     cn_name: '纯白的雪见兔',
     en_name: "Shirayuki's Snowbunny",
-    tw_name: "Shirayuki's Snowbunny"
+    tw_name: "Shirayuki's Snowbunny*"
   },
   9915060: {
     id: 9915060,
@@ -3121,7 +3121,7 @@ const sp_weapon_data = {
     jp_name: 'レディメイドステップ',
     cn_name: '淑女进阶的步履',
     en_name: 'The Steps to Becoming a Lady',
-    tw_name: 'The Steps to Becoming a Lady'
+    tw_name: 'The Steps to Becoming a Lady*'
   },
   9915080: {
     id: 9915080,
@@ -3135,7 +3135,7 @@ const sp_weapon_data = {
     jp_name: '理力機械の杖',
     cn_name: '机械与理性之杖',
     en_name: 'Staff of Machinery & Logic',
-    tw_name: 'Staff of Machinery & Logic'
+    tw_name: 'Staff of Machinery & Logic*'
   },
   9915100: {
     id: 9915100,
@@ -3149,7 +3149,7 @@ const sp_weapon_data = {
     jp_name: 'ヨウカイ=アンデッド',
     cn_name: '不死的鬼怪',
     en_name: 'Undying Demon',
-    tw_name: 'Undying Demon'
+    tw_name: 'Undying Demon*'
   },
   9915120: {
     id: 9915120,
@@ -3162,7 +3162,7 @@ const sp_weapon_data = {
     jp_name: '満点ツヴィリンゲ',
     cn_name: '生物型双生舰装',
     en_name: 'Twins of a Rigging',
-    tw_name: 'Twins of a Rigging'
+    tw_name: 'Twins of a Rigging*'
   },
   9915140: {
     id: 9915140,
@@ -3175,7 +3175,7 @@ const sp_weapon_data = {
     jp_name: '雪玉カルテット',
     cn_name: '雪球三重奏',
     en_name: 'Snowball Trio',
-    tw_name: 'Snowball Trio'
+    tw_name: 'Snowball Trio*'
   },
   9915160: {
     id: 9915160,
@@ -3188,7 +3188,7 @@ const sp_weapon_data = {
     jp_name: 'ナノテクガジェットガン',
     cn_name: '纳米技术掌心炮',
     en_name: 'Nanotech Repulsor',
-    tw_name: 'Nanotech Repulsor'
+    tw_name: 'Nanotech Repulsor*'
   },
   9915180: {
     id: 9915180,
@@ -3201,7 +3201,7 @@ const sp_weapon_data = {
     jp_name: 'か弱いウサバッグ',
     cn_name: '小兔叽挎包',
     en_name: 'Totally Helpless Bunny Pouch',
-    tw_name: 'Totally Helpless Bunny Pouch'
+    tw_name: 'Totally Helpless Bunny Pouch*'
   },
   9915200: {
     id: 9915200,
@@ -3292,7 +3292,7 @@ const sp_weapon_data = {
     jp_name: '崇高と栄誉の刃',
     cn_name: '荣誉与崇高之剑',
     en_name: "Blade of Nobility and Honor",
-    tw_name: "Blade of Nobility and Honor"
+    tw_name: "Blade of Nobility and Honor*"
   },
   9915340: {
     id: 9915340,
@@ -3305,7 +3305,7 @@ const sp_weapon_data = {
     jp_name: 'スーパーアーツリボルバー',
     cn_name: '王牌的决胜左轮',
     en_name: "Ace's Decisive Revolver",
-    tw_name: "Ace's Decisive Revolver"
+    tw_name: "Ace's Decisive Revolver*"
   },
   9915360: {
     id: 9915360,
@@ -3318,7 +3318,7 @@ const sp_weapon_data = {
     jp_name: 'パイレーツヒロイン',
     cn_name: '海盗英雄的剑枪组合',
     en_name: "Privateer's Heroism",
-    tw_name: "Privateer's Heroism"
+    tw_name: "Privateer's Heroism*"
   },
   9915380: {
     id: 9915380,
@@ -3331,7 +3331,7 @@ const sp_weapon_data = {
     jp_name: 'カヴァラゴーグル',
     cn_name: '黑尾鲹的潜水镜',
     en_name: "Blacktail Diving Goggles",
-    tw_name: "Blacktail Diving Goggles"
+    tw_name: "Blacktail Diving Goggles*"
   },
   9915400: {
     id: 9915400,
@@ -3344,7 +3344,7 @@ const sp_weapon_data = {
     jp_name: '打刀・幸運鶴',
     cn_name: '幸运鹤的打刀',
     en_name: "Auspicious Crane's Uchigatana",
-    tw_name: "Auspicious Crane's Uchigatana"
+    tw_name: "Auspicious Crane's Uchigatana*"
   },
   9915420: {
     id: 9915420,
@@ -3357,7 +3357,7 @@ const sp_weapon_data = {
     jp_name: '蝶結びと鈴(防犯用)',
     cn_name: '蝴蝶结铃铛警报器',
     en_name: "Safety Bell and Butterfly Bow",
-    tw_name: "Safety Bell and Butterfly Bow"
+    tw_name: "Safety Bell and Butterfly Bow*"
   },
   9915440: {
     id: 9915440,
@@ -3370,7 +3370,7 @@ const sp_weapon_data = {
     jp_name: '尊き姫君のご命令',
     cn_name: '贵公主的命令',
     en_name: "Highborn Princess's Command",
-    tw_name: "Highborn Princess's Command"
+    tw_name: "Highborn Princess's Command*"
   },
   9915460: {
     id: 9915460,
@@ -3435,7 +3435,7 @@ const sp_weapon_data = {
     jp_name: '焼き立ての闘志',
     cn_name: '皇家骑士剑',
     en_name: "Ovenforged Pride",
-    tw_name: "Ovenforged Pride"
+    tw_name: "皇家騎士劍"
   },
   9915560: {
     id: 9915560,
@@ -3448,6 +3448,71 @@ const sp_weapon_data = {
     jp_name: '派手さも流儀のうち',
     cn_name: '完美之帽',
     en_name: "Wear It With Flair",
-    tw_name: "Wear It With Flair"
+    tw_name: "完美之帽"
+  },
+  9915580: {
+    id: 9915580,
+    icon: '15580',
+    eq_reload: [5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+    rarity: 4,
+    tech: 0,
+    limit: 10711,
+    type: 7,
+    jp_name: 'イントレピッド・パワー',
+    cn_name: '粒子存储器',
+    en_name: "Particle Actualizer",
+    tw_name: "Particle Actualizer*"
+  },
+  9915600: {
+    id: 9915600,
+    icon: '15600',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    limit: 70301,
+    type: 4,
+    jp_name: '揺るがないインパクト',
+    cn_name: '冰结流星锤',
+    en_name: "Glacial Morningstar",
+    tw_name: "Glacial Morningstar*"
+  },
+  9915620: {
+    id: 9915620,
+    icon: '15620',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    limit: 40805,
+    type: 8,
+    jp_name: 'これで速さを確かめて',
+    cn_name: '绯红蝶语',
+    en_name: "Scarlet Scarf of Speed",
+    tw_name: "Scarlet Scarf of Speed*"
+  },
+  9915640: {
+    id: 9915640,
+    icon: '15640',
+    eq_reload: [8, 9, 10, 11, 12, 14, 15, 16, 17, 18, 20],
+    rarity: 4,
+    tech: 0,
+    limit: 20210,
+    type: 2,
+    jp_name: '教育係の敏腕',
+    cn_name: '女仆的爱之铁拳',
+    en_name: "The Instructor's Discipline",
+    tw_name: "The Instructor's Discipline*"
+  },
+ 9915660: {
+    id: 9915660,
+    icon: '15660',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    limit: 39903,
+    type: 1,
+    jp_name: 'ただいま見張り中ぞ',
+    cn_name: "咕咕~咕咕~",
+    en_name: "Currently on Duty",
+    tw_name: "Currently on Duty*"
   }
 };

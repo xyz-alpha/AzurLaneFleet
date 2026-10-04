@@ -5584,6 +5584,40 @@ const equip_data = {
     cd: [
       516, 511, 506, 501, 496, 491, 486, 481, 476, 471, 466, 466, 466, 466]
   },
+  22300: {
+    nationality: 2,
+    type: 2,
+    rarity: 5,
+    tech: 0,
+    id: 22300,
+    icon: '22300',
+    ship_type_forbidden: [22, 23, 24],
+    jp_name: '152mm連装砲MK.XXVI',
+    cn_name: '双联装152mm主炮Mk.XXVI',
+    tw_name: '雙聯裝152mm主炮Mk.XXVI',
+    en_name: 'Twin 152mm Mk.XXVI Main Gun Mount',
+    equip_limit: 0,
+    cd: [
+      526, 503, 481, 458, 436, 413, 391, 368, 346, 323, 301, 301,
+      301, 301]
+  },
+  22320: {
+    nationality: 2,
+    type: 2,
+    rarity: 6,
+    tech: 0,
+    id: 22320,
+    icon: '22300',
+    ship_type_forbidden: [22, 23, 24],
+    jp_name: '152mm連装砲MK.XXVI',
+    cn_name: '双联装152mm主炮Mk.XXVI',
+    tw_name: '雙聯裝152mm主炮Mk.XXVI',
+    en_name: 'Twin 152mm Mk.XXVI Main Gun Mount',
+    equip_limit: 0,
+    cd: [
+      526, 503, 481, 458, 436, 413, 391, 368, 346, 323, 301, 301,
+      301, 301]
+  },
 
   23000: {
     nationality: 2,
@@ -15289,7 +15323,7 @@ const equip_data = {
 	1, 2, 3, 4, 5, 8, 10, 11, 12, 13, 17, 18, 19, 20, 21, 22, 23, 24],
     jp_name: '名探偵の帽子',
     cn_name: '名侦探之帽',
-    tw_name: "Master Detective's Hat",
+    tw_name: "名偵探之帽",
     en_name: "Master Detective's Hat",
     equip_limit: 151200,
     cd: []
@@ -15304,7 +15338,7 @@ const equip_data = {
     ship_type_forbidden: [],
     jp_name: 'エラーⅩⅢ世',
     cn_name: 'Error十三世',
-    tw_name: "Error XIII",
+    tw_name: "Error十三世",
     en_name: "Error XIII",
     equip_limit: 151220,
     cd: []
@@ -15320,9 +15354,24 @@ const equip_data = {
 	2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 17, 18, 19, 20, 21, 22, 23, 24],
     jp_name: '天つ風の袋',
     cn_name: '天风袋',
-    tw_name: "Bag of Sky Winds",
+    tw_name: "天風袋",
     en_name: "Bag of Sky Winds",
     equip_limit: 151240,
+    cd: []
+  },
+  151260: {
+    nationality: 0,
+    type: 10,
+    rarity: 4,
+    tech: 0,
+    id: 151260,
+    icon: '151260',
+    ship_type_forbidden: [],
+    jp_name: 'スタッフカード',
+    cn_name: '员工通行卡',
+    tw_name: "Staff Pass",
+    en_name: "Staff Pass",
+    equip_limit: 151260,
     cd: []
   }
 };
