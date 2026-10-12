@@ -3514,5 +3514,31 @@ const sp_weapon_data = {
     cn_name: "咕咕~咕咕~",
     en_name: "Currently on Duty",
     tw_name: "Currently on Duty*"
+  },
+  9915680: {
+    id: 9915680,
+    icon: '15680',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    limit: 960001,
+    type: 10,
+    jp_name: '掟約の書',
+    cn_name: "航海家的秘典",
+    en_name: "Seafarer's Code",
+    tw_name: "Seafarer's Code"
+  },
+  9915700: {
+    id: 9915700,
+    icon: '15700',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    limit: 60103,
+    type: 1,
+    jp_name: 'GBにお任せ',
+    cn_name: "GB的淑女帽",
+    en_name: "Signorina GB's Hat",
+    tw_name: "Signorina GB's Hat"
   }
 };
