@@ -3318,7 +3318,7 @@ const sp_weapon_data = {
     jp_name: 'パイレーツヒロイン',
     cn_name: '海盗英雄的剑枪组合',
     en_name: "Privateer's Heroism",
-    tw_name: "Privateer's Heroism*"
+    tw_name: "海盜英雄的劍槍組合"
   },
   9915380: {
     id: 9915380,
@@ -3331,7 +3331,7 @@ const sp_weapon_data = {
     jp_name: 'カヴァラゴーグル',
     cn_name: '黑尾鲹的潜水镜',
     en_name: "Blacktail Diving Goggles",
-    tw_name: "Blacktail Diving Goggles*"
+    tw_name: "黑尾鰺的潛水鏡"
   },
   9915400: {
     id: 9915400,
@@ -3344,7 +3344,7 @@ const sp_weapon_data = {
     jp_name: '打刀・幸運鶴',
     cn_name: '幸运鹤的打刀',
     en_name: "Auspicious Crane's Uchigatana",
-    tw_name: "Auspicious Crane's Uchigatana*"
+    tw_name: "幸運鶴的打刀"
   },
   9915420: {
     id: 9915420,
@@ -3357,7 +3357,7 @@ const sp_weapon_data = {
     jp_name: '蝶結びと鈴(防犯用)',
     cn_name: '蝴蝶结铃铛警报器',
     en_name: "Safety Bell and Butterfly Bow",
-    tw_name: "Safety Bell and Butterfly Bow*"
+    tw_name: "蝴蝶結鈴鐺警報器"
   },
   9915440: {
     id: 9915440,
@@ -3370,7 +3370,7 @@ const sp_weapon_data = {
     jp_name: '尊き姫君のご命令',
     cn_name: '贵公主的命令',
     en_name: "Highborn Princess's Command",
-    tw_name: "Highborn Princess's Command*"
+    tw_name: "貴公主的命令"
   },
   9915460: {
     id: 9915460,
@@ -3461,7 +3461,7 @@ const sp_weapon_data = {
     jp_name: 'イントレピッド・パワー',
     cn_name: '粒子存储器',
     en_name: "Particle Actualizer",
-    tw_name: "Particle Actualizer*"
+    tw_name: "粒子儲存器"
   },
   9915600: {
     id: 9915600,
@@ -3474,7 +3474,7 @@ const sp_weapon_data = {
     jp_name: '揺るがないインパクト',
     cn_name: '冰结流星锤',
     en_name: "Glacial Morningstar",
-    tw_name: "Glacial Morningstar*"
+    tw_name: "冰結流星錘"
   },
   9915620: {
     id: 9915620,
@@ -3487,7 +3487,7 @@ const sp_weapon_data = {
     jp_name: 'これで速さを確かめて',
     cn_name: '绯红蝶语',
     en_name: "Scarlet Scarf of Speed",
-    tw_name: "Scarlet Scarf of Speed*"
+    tw_name: "緋紅蝶語"
   },
   9915640: {
     id: 9915640,
@@ -3500,7 +3500,7 @@ const sp_weapon_data = {
     jp_name: '教育係の敏腕',
     cn_name: '女仆的爱之铁拳',
     en_name: "The Instructor's Discipline",
-    tw_name: "The Instructor's Discipline*"
+    tw_name: "女僕的愛之鐵拳"
   },
  9915660: {
     id: 9915660,
@@ -3513,7 +3513,7 @@ const sp_weapon_data = {
     jp_name: 'ただいま見張り中ぞ',
     cn_name: "咕咕~咕咕~",
     en_name: "Currently on Duty",
-    tw_name: "Currently on Duty*"
+    tw_name: "咕咕~咕咕~"
   },
   9915680: {
     id: 9915680,
@@ -3526,7 +3526,7 @@ const sp_weapon_data = {
     jp_name: '掟約の書',
     cn_name: "航海家的秘典",
     en_name: "Seafarer's Code",
-    tw_name: "Seafarer's Code"
+    tw_name: "航海家的秘典"
   },
   9915700: {
     id: 9915700,
@@ -3539,6 +3539,71 @@ const sp_weapon_data = {
     jp_name: 'GBにお任せ',
     cn_name: "GB的淑女帽",
     en_name: "Signorina GB's Hat",
-    tw_name: "Signorina GB's Hat"
+    tw_name: "GB的淑女帽"
+  },
+  9915860: {
+    id: 9915860,
+    icon: '15860',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    limit: 960017,
+    type: 10,
+    jp_name: '導き手の杖',
+    cn_name: "引航者之杖",
+    en_name: "Greatstaff of the Lodestar",
+    tw_name: "引航者之杖"
+  },
+  9915880: {
+    id: 9915880,
+    icon: '15880',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    limit: 960018,
+    type: 10,
+    jp_name: 'サイレント・サイズ',
+    cn_name: "沉默巨镰",
+    en_name: "Silent Scythe",
+    tw_name: "沈默巨鐮"
+  },
+  9915900: {
+    id: 9915900,
+    icon: '15900',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    limit: 960019,
+    type: 10,
+    jp_name: '運命の選択',
+    cn_name: "命运的选择",
+    en_name: "Fate's Choice",
+    tw_name: "命運的選擇"
+  },
+  9915920: {
+    id: 9915920,
+    icon: '15920',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    limit: 960020,
+    type: 10,
+    jp_name: 'フロム・ディープ',
+    cn_name: "来自深海",
+    en_name: "Abyssal Summons",
+    tw_name: "來自深海"
+  },
+  9915940: {
+    id: 9915940,
+    icon: '15940',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    limit: 960021,
+    type: 10,
+    jp_name: '試練のムズラク',
+    cn_name: "试炼之枪",
+    en_name: "Mizrak of Trials",
+    tw_name: "試煉之槍"
   }
 };
