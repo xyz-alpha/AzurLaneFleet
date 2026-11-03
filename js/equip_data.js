@@ -15369,9 +15369,41 @@ const equip_data = {
     ship_type_forbidden: [],
     jp_name: 'スタッフカード',
     cn_name: '员工通行卡',
-    tw_name: "Staff Pass",
+    tw_name: "員工通行卡",
     en_name: "Staff Pass",
     equip_limit: 151260,
+    cd: []
+  },
+  151280: {
+    nationality: 96,
+    type: 10,
+    rarity: 4,
+    tech: 0,
+    id: 151280,
+    icon: '151280',
+    ship_type_forbidden: [
+	1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 17, 18, 19, 20, 21],
+    jp_name: 'ダブル球型砲丸',
+    cn_name: '双发实心弹',
+    tw_name: "雙發實心彈",
+    en_name: "Double-shot Cannonballs",
+    equip_limit: 3740,
+    cd: []
+  },
+  151300: {
+    nationality: 96,
+    type: 10,
+    rarity: 5,
+    tech: 0,
+    id: 151300,
+    icon: '151300',
+    ship_type_forbidden: [
+	1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 17, 18, 19, 20, 21],
+    jp_name: '淵の下の力持ち',
+    cn_name: '海渊下的力量',
+    tw_name: "海淵下的力量",
+    en_name: "Power from the Depths",
+    equip_limit: 151300,
     cd: []
   }
 };
