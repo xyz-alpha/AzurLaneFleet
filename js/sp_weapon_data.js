@@ -3541,6 +3541,32 @@ const sp_weapon_data = {
     en_name: "Signorina GB's Hat",
     tw_name: "GB的淑女帽"
   },
+  9915720: {
+    id: 9915720,
+    icon: '15720',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    limit: 20223,
+    type: 2,
+    jp_name: '騎士の明け星',
+    cn_name: "骑士新星",
+    en_name: "Knight's Shining Star",
+    tw_name: "Knight's Shining Star"
+  },
+  9915740: {
+    id: 9915740,
+    icon: '15740',
+    eq_reload: [6, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+    rarity: 4,
+    tech: 0,
+    limit: 10729,
+    type: 7,
+    jp_name: 'VF-50デビルキャッツ',
+    cn_name: "VF-50恶魔猫",
+    en_name: "VF-50 Devil Cat",
+    tw_name: "VF-50 Devil Cat"
+  },
   9915860: {
     id: 9915860,
     icon: '15860',
