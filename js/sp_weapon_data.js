@@ -3631,5 +3631,31 @@ const sp_weapon_data = {
     cn_name: "试炼之枪",
     en_name: "Mizrak of Trials",
     tw_name: "試煉之槍"
+  },
+  9915960: {
+    id: 9915960,
+    icon: '15960',
+    eq_reload: [9, 10, 10, 11, 11, 12, 12, 13, 13, 14, 15],
+    rarity: 4,
+    tech: 0,
+    limit: 1180001,
+    type: 7,
+    jp_name: 'リリエルのロッド',
+    cn_name: "莉莉艾露的法杖",
+    en_name: "Liliel's Rod",
+    tw_name: "Liliel's Rod"
+  },
+  9915980: {
+    id: 9915980,
+    icon: '15980',
+    eq_reload: [],
+    rarity: 4,
+    tech: 0,
+    limit: 1180002,
+    type: 2,
+    jp_name: 'ミリエラの弓',
+    cn_name: "美莉艾拉的弓",
+    en_name: "Miriella's Bow",
+    tw_name: "Miriella's Bow"
   }
 };
